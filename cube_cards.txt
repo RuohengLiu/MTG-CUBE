@@ -1,0 +1,1000 @@
+no.	name	type_line	set	set_name	released_at	collector_number	rarity	mana_cost	cmc	colors	color_identity	reserved
+1	Armageddon	Sorcery	lea	Limited Edition Alpha	1993/8/5	2	rare	{3}{W}	4	W	W	FALSE
+2	Balance	Sorcery	lea	Limited Edition Alpha	1993/8/5	3	rare	{1}{W}	2	W	W	FALSE
+3	Disenchant	Instant	lea	Limited Edition Alpha	1993/8/5	18	common	{1}{W}	2	W	W	FALSE
+4	Swords to Plowshares	Instant	lea	Limited Edition Alpha	1993/8/5	40	uncommon	{W}	1	W	W	FALSE
+5	Wrath of God	Sorcery	lea	Limited Edition Alpha	1993/8/5	45	rare	{2}{W}{W}	4	W	W	FALSE
+6	Mox Pearl	Artifact	lea	Limited Edition Alpha	1993/8/5	263	rare	{0}	0	C	W	TRUE
+7	Land Tax	Enchantment	leg	Legends	1994/6/1	26	uncommon	{W}	1	W	W	FALSE
+8	Moat	Enchantment	leg	Legends	1994/6/1	28	rare	{2}{W}{W}	4	W	W	TRUE
+9	Karakas	Legendary Land	leg	Legends	1994/6/1	303	uncommon		0	C	W	FALSE
+10	Enlightened Tutor	Instant	mir	Mirage	1996/10/8	14	uncommon	{W}	1	W	W	FALSE
+11	Angelic Renewal	Enchantment	wth	Weatherlight	1997/6/9	4	common	{1}{W}	2	W	W	FALSE
+12	Catastrophe	Sorcery	usg	Urza's Saga	1998/10/12	6	rare	{4}{W}{W}	6	W	W	FALSE
+13	Karmic Guide	Creature — Angel Spirit	ulg	Urza's Legacy	1999/2/15	11	rare	{3}{W}{W}	5	W	W	FALSE
+14	Mother of Runes	Creature — Human Cleric	ulg	Urza's Legacy	1999/2/15	14	uncommon	{W}	1	W	W	FALSE
+15	Ravages of War	Sorcery	ptk	Portal Three Kingdoms	1999/7/6	17	rare	{3}{W}	4	W	W	FALSE
+16	Parallax Wave	Enchantment	nem	Nemesis	2000/2/14	17	rare	{2}{W}{W}	4	W	W	FALSE
+17	Seal of Cleansing	Enchantment	nem	Nemesis	2000/2/14	18	common	{1}{W}	2	W	W	FALSE
+18	Kor Haven	Legendary Land	nem	Nemesis	2000/2/14	141	rare		0	C	W	FALSE
+19	Battle Screech	Sorcery	jud	Judgment	2002/5/27	3	uncommon	{2}{W}{W}	4	W	W	FALSE
+20	Exalted Angel	Creature — Angel	ons	Onslaught	2002/10/7	28	rare	{4}{W}{W}	6	W	W	FALSE
+21	Decree of Justice	Sorcery	scg	Scourge	2003/5/26	8	rare	{X}{X}{2}{W}{W}	4	W	W	FALSE
+22	Eternal Dragon	Creature — Dragon Spirit	scg	Scourge	2003/5/26	12	rare	{5}{W}{W}	7	W	W	FALSE
+23	Isamaru, Hound of Konda	Legendary Creature — Dog	chk	Champions of Kamigawa	2004/10/1	19	rare	{W}	1	W	W	FALSE
+24	Yosei, the Morning Star	Legendary Creature — Dragon Spirit	chk	Champions of Kamigawa	2004/10/1	50	rare	{4}{W}{W}	6	W	W	FALSE
+25	Faith's Fetters	Enchantment — Aura	rav	Ravnica: City of Guilds	2005/10/7	16	common	{3}{W}	4	W	W	FALSE
+26	Condemn	Instant	dis	Dissension	2006/5/5	8	uncommon	{W}	1	W	W	FALSE
+27	Mana Tithe	Instant	plc	Planar Chaos	2007/2/2	25	common	{W}	1	W	W	FALSE
+28	Mirror Entity	Creature — Shapeshifter	lrw	Lorwyn	2007/10/12	31	rare	{2}{W}	3	W	W	FALSE
+29	Oblivion Ring	Enchantment	lrw	Lorwyn	2007/10/12	34	common	{2}{W}	3	W	W	FALSE
+30	Vivid Meadow	Land	lrw	Lorwyn	2007/10/12	279	uncommon		0	C	W	FALSE
+31	Reveillark	Creature — Elemental	mor	Morningtide	2008/2/1	22	rare	{4}{W}	5	W	W	FALSE
+32	Spectral Procession	Sorcery	shm	Shadowmoor	2008/5/2	23	uncommon	{2/W}{2/W}{2/W}	6	W	W	FALSE
+33	Flickerwisp	Creature — Elemental	eve	Eventide	2008/7/25	6	uncommon	{1}{W}{W}	3	W	W	FALSE
+34	Elspeth, Knight-Errant	Legendary Planeswalker — Elspeth	ala	Shards of Alara	2008/10/3	9	mythic	{2}{W}{W}	4	W	W	FALSE
+35	Ranger of Eos	Creature — Human Soldier	ala	Shards of Alara	2008/10/3	21	rare	{3}{W}	4	W	W	FALSE
+36	Lapse of Certainty	Instant	con	Conflux	2009/2/6	9	common	{2}{W}	3	W	W	FALSE
+37	Path to Exile	Instant	con	Conflux	2009/2/6	15	uncommon	{W}	1	W	W	FALSE
+38	Baneslayer Angel	Creature — Angel	m10	Magic 2010	2009/7/17	4	mythic	{3}{W}{W}	5	W	W	FALSE
+39	Honor of the Pure	Enchantment	m10	Magic 2010	2009/7/17	16	rare	{1}{W}	2	W	W	FALSE
+40	Day of Judgment	Sorcery	zen	Zendikar	2009/10/2	9	rare	{2}{W}{W}	4	W	W	FALSE
+41	Iona, Shield of Emeria	Legendary Creature — Angel	zen	Zendikar	2009/10/2	13	mythic	{6}{W}{W}{W}	9	W	W	FALSE
+42	Journey to Nowhere	Enchantment	zen	Zendikar	2009/10/2	14	common	{1}{W}	2	W	W	FALSE
+43	Kor Skyfisher	Creature — Kor Soldier	zen	Zendikar	2009/10/2	23	common	{1}{W}	2	W	W	FALSE
+44	Steppe Lynx	Creature — Cat	zen	Zendikar	2009/10/2	36	common	{W}	1	W	W	FALSE
+45	Stoneforge Mystic	Creature — Kor Artificer	wwk	Worldwake	2010/2/5	20	rare	{1}{W}	2	W	W	FALSE
+46	Gideon Jura	Legendary Planeswalker — Gideon	roe	Rise of the Eldrazi	2010/4/23	21	mythic	{3}{W}{W}	5	W	W	FALSE
+47	Linvala, Keeper of Silence	Legendary Creature — Angel	roe	Rise of the Eldrazi	2010/4/23	33	mythic	{2}{W}{W}	4	W	W	FALSE
+48	Oust	Sorcery	roe	Rise of the Eldrazi	2010/4/23	40	uncommon	{W}	1	W	W	FALSE
+49	Student of Warfare	Creature — Human Knight	roe	Rise of the Eldrazi	2010/4/23	47	rare	{W}	1	W	W	FALSE
+50	Wall of Omens	Creature — Wall	roe	Rise of the Eldrazi	2010/4/23	53	uncommon	{1}{W}	2	W	W	FALSE
+51	Sun Titan	Creature — Giant	m11	Magic 2011	2010/7/16	35	mythic	{4}{W}{W}	6	W	W	FALSE
+52	Accorder Paladin	Creature — Human Knight	mbs	Mirrodin Besieged	2011/2/4	1	uncommon	{1}{W}	2	W	W	FALSE
+53	Hero of Bladehold	Creature — Human Knight	mbs	Mirrodin Besieged	2011/2/4	8	mythic	{2}{W}{W}	4	W	W	FALSE
+54	Leonin Relic-Warder	Creature — Cat Cleric	mbs	Mirrodin Besieged	2011/2/4	10	uncommon	{W}{W}	2	W	W	FALSE
+55	Blade Splicer	Creature — Human Artificer	nph	New Phyrexia	2011/5/13	4	rare	{2}{W}	3	W	W	FALSE
+56	Elesh Norn, Grand Cenobite	Legendary Creature — Praetor	nph	New Phyrexia	2011/5/13	9	mythic	{5}{W}{W}	7	W	W	FALSE
+57	Porcelain Legionnaire	Artifact Creature — Soldier	nph	New Phyrexia	2011/5/13	19	common	{2}{W/P}	3	W	W	FALSE
+58	Champion of the Parish	Creature — Human Soldier	isd	Innistrad	2011/9/30	6	rare	{W}	1	W	W	FALSE
+59	Fiend Hunter	Creature — Human Cleric	isd	Innistrad	2011/9/30	15	uncommon	{1}{W}{W}	3	W	W	FALSE
+60	Village Bell-Ringer	Creature — Human Scout	isd	Innistrad	2011/9/30	41	common	{2}{W}	3	W	W	FALSE
+61	Thalia, Guardian of Thraben	Legendary Creature — Human Soldier	dka	Dark Ascension	2012/2/3	24	rare	{1}{W}	2	W	W	FALSE
+62	Thraben Doomsayer	Creature — Human Cleric	dka	Dark Ascension	2012/2/3	25	rare	{1}{W}{W}	3	W	W	FALSE
+63	Restoration Angel	Creature — Angel	avr	Avacyn Restored	2012/5/4	32	rare	{3}{W}	4	W	W	FALSE
+64	Silverblade Paladin	Creature — Human Knight	avr	Avacyn Restored	2012/5/4	36	rare	{1}{W}{W}	3	W	W	FALSE
+65	Archangel of Thune	Creature — Angel	m14	Magic 2014	2013/7/19	5	mythic	{3}{W}{W}	5	W	W	FALSE
+66	Imposing Sovereign	Creature — Human Noble	m14	Magic 2014	2013/7/19	22	rare	{1}{W}	2	W	W	FALSE
+67	Elspeth, Sun's Champion	Legendary Planeswalker — Elspeth	ths	Theros	2013/9/27	9	mythic	{4}{W}{W}	6	W	W	FALSE
+68	Soldier of the Pantheon	Creature — Human Soldier	ths	Theros	2013/9/27	32	rare	{W}	1	W	W	FALSE
+69	Spear of Heliod	Legendary Enchantment Artifact	ths	Theros	2013/9/27	33	rare	{1}{W}{W}	3	W	W	FALSE
+70	Unexpectedly Absent	Instant	c13	Commander 2013	2013/11/1	25	rare	{X}{W}{W}	2	W	W	FALSE
+71	Brimaz, King of Oreskos	Legendary Creature — Cat Soldier	bng	Born of the Gods	2014/2/7	5	mythic	{1}{W}{W}	3	W	W	FALSE
+72	Spirit of the Labyrinth	Enchantment Creature — Spirit	bng	Born of the Gods	2014/2/7	27	rare	{1}{W}	2	W	W	FALSE
+73	Banishing Light	Enchantment	jou	Journey into Nyx	2014/5/2	5	uncommon	{2}{W}	3	W	W	FALSE
+74	Council's Judgment	Sorcery	cns	Conspiracy	2014/6/6	16	rare	{1}{W}{W}	3	W	W	FALSE
+75	Containment Priest	Creature — Human Cleric	c14	Commander 2014	2014/11/7	5	rare	{1}{W}	2	W	W	FALSE
+76	Mardu Woe-Reaper	Creature — Human Warrior	frf	Fate Reforged	2015/1/23	18	uncommon	{W}	1	W	W	FALSE
+77	Monastery Mentor	Creature — Human Monk	frf	Fate Reforged	2015/1/23	20	mythic	{2}{W}	3	W	W	FALSE
+78	Anafenza, Kin-Tree Spirit	Legendary Creature — Spirit Soldier	dtk	Dragons of Tarkir	2015/3/27	2	rare	{W}{W}	2	W	W	FALSE
+79	Dragon Hunter	Creature — Human Warrior	dtk	Dragons of Tarkir	2015/3/27	10	uncommon	{W}	1	W	W	FALSE
+80	Secure the Wastes	Instant	dtk	Dragons of Tarkir	2015/3/27	36	rare	{X}{W}	1	W	W	FALSE
+81	Kytheon, Hero of Akros	Legendary Creature — Human Soldier	ori	Magic Origins	2015/7/17	23	mythic	{W}	1	W	W	FALSE
+82	Vryn Wingmare	Creature — Pegasus	ori	Magic Origins	2015/7/17	40	rare	{2}{W}	3	W	W	FALSE
+83	Gideon, Ally of Zendikar	Legendary Planeswalker — Gideon	bfz	Battle for Zendikar	2015/10/2	29	mythic	{2}{W}{W}	4	W	W	FALSE
+84	Declaration in Stone	Sorcery	soi	Shadows over Innistrad	2016/4/8	12	rare	{1}{W}	2	W	W	FALSE
+85	Thalia's Lieutenant	Creature — Human Soldier	soi	Shadows over Innistrad	2016/4/8	43	rare	{1}{W}	2	W	W	FALSE
+86	Thraben Inspector	Creature — Human Soldier	soi	Shadows over Innistrad	2016/4/8	44	common	{W}	1	W	W	FALSE
+87	Gisela, the Broken Blade	Legendary Creature — Angel Horror	emn	Eldritch Moon	2016/7/22	28	mythic	{2}{W}{W}	4	W	W	FALSE
+88	Selfless Spirit	Creature — Spirit Cleric	emn	Eldritch Moon	2016/7/22	40	rare	{1}{W}	2	W	W	FALSE
+89	Thalia, Heretic Cathar	Legendary Creature — Human Soldier	emn	Eldritch Moon	2016/7/22	46	rare	{2}{W}	3	W	W	FALSE
+90	Palace Jailer	Creature — Human Soldier	cn2	Conspiracy: Take the Crown	2016/8/26	18	uncommon	{2}{W}{W}	4	W	W	FALSE
+91	Recruiter of the Guard	Creature — Human Soldier	cn2	Conspiracy: Take the Crown	2016/8/26	22	rare	{2}{W}	3	W	W	FALSE
+92	Angel of Invention	Creature — Angel	kld	Kaladesh	2016/9/30	4	mythic	{3}{W}{W}	5	W	W	FALSE
+93	Fragmentize	Sorcery	kld	Kaladesh	2016/9/30	14	common	{W}	1	W	W	FALSE
+94	Felidar Guardian	Creature — Cat Beast	aer	Aether Revolt	2017/1/20	19	uncommon	{3}{W}	4	W	W	FALSE
+95	Gideon of the Trials	Legendary Planeswalker — Gideon	akh	Amonkhet	2017/4/28	14	mythic	{1}{W}{W}	3	W	W	FALSE
+96	Vizier of Remedies	Creature — Human Cleric	akh	Amonkhet	2017/4/28	38	uncommon	{1}{W}	2	W	W	FALSE
+97	Solemnity	Enchantment	hou	Hour of Devastation	2017/7/14	22	rare	{2}{W}	3	W	W	FALSE
+98	Steward of Solidarity	Creature — Human Warrior	hou	Hour of Devastation	2017/7/14	25	uncommon	{1}{W}	2	W	W	FALSE
+99	Adanto Vanguard	Creature — Vampire Soldier	xln	Ixalan	2017/9/29	1	uncommon	{1}{W}	2	W	W	FALSE
+100	Legion's Landing	Legendary Enchantment	xln	Ixalan	2017/9/29	22	rare	{W}	1	W	W	FALSE
+101	Skymarcher Aspirant	Creature — Vampire Soldier	rix	Rivals of Ixalan	2018/1/19	21	uncommon	{W}	1	W	W	FALSE
+102	Benalish Marshal	Creature — Human Knight	dom	Dominaria	2018/4/27	6	rare	{W}{W}{W}	3	W	W	FALSE
+103	Dauntless Bodyguard	Creature — Human Knight	dom	Dominaria	2018/4/27	14	uncommon	{W}	1	W	W	FALSE
+104	History of Benalia	Enchantment — Saga	dom	Dominaria	2018/4/27	21	mythic	{1}{W}{W}	3	W	W	FALSE
+105	Lyra Dawnbringer	Legendary Creature — Angel	dom	Dominaria	2018/4/27	26	mythic	{3}{W}{W}	5	W	W	FALSE
+106	Leonin Warleader	Creature — Cat Soldier	m19	Core Set 2019	2018/7/13	23	rare	{2}{W}{W}	4	W	W	FALSE
+107	Remorseful Cleric	Creature — Spirit Cleric	m19	Core Set 2019	2018/7/13	33	rare	{1}{W}	2	W	W	FALSE
+108	Tithe Taker	Creature — Human Soldier	rna	Ravnica Allegiance	2019/1/25	27	rare	{1}{W}	2	W	W	FALSE
+109	Finale of Glory	Sorcery	war	War of the Spark	2019/5/3	12	mythic	{X}{W}{W}	2	W	W	FALSE
+110	Gideon Blackblade	Legendary Planeswalker — Gideon	war	War of the Spark	2019/5/3	13	mythic	{1}{W}{W}	3	W	W	FALSE
+111	Force of Virtue	Enchantment	mh1	Modern Horizons	2019/6/14	10	rare	{2}{W}{W}	4	W	W	FALSE
+112	Giver of Runes	Creature — Kor Cleric	mh1	Modern Horizons	2019/6/14	13	rare	{W}	1	W	W	FALSE
+113	Serra the Benevolent	Legendary Planeswalker — Serra	mh1	Modern Horizons	2019/6/14	26	mythic	{2}{W}{W}	4	W	W	FALSE
+114	Winds of Abandon	Sorcery	mh1	Modern Horizons	2019/6/14	37	rare	{1}{W}	2	W	W	FALSE
+115	Sevinne's Reclamation	Sorcery	c19	Commander 2019	2019/8/23	5	rare	{2}{W}	3	W	W	FALSE
+116	Charming Prince	Creature — Human Noble	eld	Throne of Eldraine	2019/10/4	8	rare	{1}{W}	2	W	W	FALSE
+117	Venerable Knight	Creature — Human Knight	eld	Throne of Eldraine	2019/10/4	35	uncommon	{W}	1	W	W	FALSE
+118	Eidolon of Obstruction	Enchantment Creature — Spirit	thb	Theros Beyond Death	2020/1/24	12	rare	{1}{W}	2	W	W	FALSE
+119	Elspeth Conquers Death	Enchantment — Saga	thb	Theros Beyond Death	2020/1/24	13	rare	{3}{W}{W}	5	W	W	FALSE
+120	Elspeth, Sun's Nemesis	Legendary Planeswalker — Elspeth	thb	Theros Beyond Death	2020/1/24	14	mythic	{2}{W}{W}	4	W	W	FALSE
+121	Heliod, Sun-Crowned	Legendary Enchantment Creature — God	thb	Theros Beyond Death	2020/1/24	18	mythic	{2}{W}	3	W	W	FALSE
+122	Shatter the Sky	Sorcery	thb	Theros Beyond Death	2020/1/24	37	rare	{2}{W}{W}	4	W	W	FALSE
+123	Fight as One	Instant	iko	Ikoria: Lair of Behemoths	2020/4/24	12	uncommon	{W}	1	W	W	FALSE
+124	Luminous Broodmoth	Creature — Insect	iko	Ikoria: Lair of Behemoths	2020/4/24	21	mythic	{2}{W}{W}	4	W	W	FALSE
+125	Basri's Lieutenant	Creature — Human Knight	m21	Core Set 2021	2020/7/3	9	rare	{3}{W}	4	W	W	FALSE
+126	Seasoned Hallowblade	Creature — Human Warrior	m21	Core Set 2021	2020/7/3	34	uncommon	{1}{W}	2	W	W	FALSE
+127	Emeria's Call	Sorcery	znr	Zendikar Rising	2020/9/25	12	mythic	{4}{W}{W}{W}	7	W	W	FALSE
+128	Fearless Fledgling	Creature — Griffin	znr	Zendikar Rising	2020/9/25	15	uncommon	{1}{W}	2	W	W	FALSE
+129	Felidar Retreat	Enchantment	znr	Zendikar Rising	2020/9/25	16	rare	{3}{W}	4	W	W	FALSE
+130	Luminarch Aspirant	Creature — Human Cleric	znr	Zendikar Rising	2020/9/25	24	rare	{1}{W}	2	W	W	FALSE
+131	Skyclave Apparition	Creature — Kor Spirit	znr	Zendikar Rising	2020/9/25	39	rare	{1}{W}{W}	3	W	W	FALSE
+132	Skyclave Cleric	Creature — Kor Cleric	znr	Zendikar Rising	2020/9/25	40	uncommon	{1}{W}	2	W	W	FALSE
+133	Court of Grace	Enchantment	cmr	Commander Legends	2020/11/20	16	rare	{2}{W}{W}	4	W	W	FALSE
+1	Ancestral Recall	Instant	lea	Limited Edition Alpha	1993/8/5	47	rare	{U}	1	U	U	TRUE
+2	Control Magic	Enchantment — Aura	lea	Limited Edition Alpha	1993/8/5	52	uncommon	{2}{U}{U}	4	U	U	FALSE
+3	Counterspell	Instant	lea	Limited Edition Alpha	1993/8/5	54	uncommon	{U}{U}	2	U	U	FALSE
+4	Time Walk	Sorcery	lea	Limited Edition Alpha	1993/8/5	83	rare	{1}{U}	2	U	U	TRUE
+5	Timetwister	Sorcery	lea	Limited Edition Alpha	1993/8/5	84	rare	{2}{U}	3	U	U	TRUE
+6	Mox Sapphire	Artifact	lea	Limited Edition Alpha	1993/8/5	265	rare	{0}	0	C	U	TRUE
+7	Force Spike	Instant	leg	Legends	1994/6/1	58	common	{U}	1	U	U	FALSE
+8	Mana Drain	Instant	leg	Legends	1994/6/1	65	uncommon	{U}{U}	2	U	U	FALSE
+9	High Tide	Instant	fem	Fallen Empires	1994/11/1	18a	common	{U}	1	U	U	FALSE
+10	Brainstorm	Instant	ice	Ice Age	1995/6/1	61	common	{U}	1	U	U	FALSE
+11	Memory Lapse	Instant	hml	Homelands	1995/10/1	32a	common	{1}{U}	2	U	U	FALSE
+12	Force of Will	Instant	all	Alliances	1996/6/10	28	uncommon	{3}{U}{U}	5	U	U	FALSE
+13	Arcane Denial	Instant	all	Alliances	1996/6/10	22a	common	{1}{U}	2	U	U	FALSE
+14	Flash	Instant	mir	Mirage	1996/10/8	66	rare	{1}{U}	2	U	U	FALSE
+15	Mystical Tutor	Instant	mir	Mirage	1996/10/8	80	uncommon	{U}	1	U	U	FALSE
+16	Polymorph	Sorcery	mir	Mirage	1996/10/8	82	rare	{3}{U}	4	U	U	FALSE
+17	Impulse	Instant	vis	Visions	1997/2/3	34	common	{1}{U}	2	U	U	FALSE
+18	Man-o'-War	Creature — Jellyfish	vis	Visions	1997/2/3	37	common	{2}{U}	3	U	U	FALSE
+19	Time Warp	Sorcery	tmp	Tempest	1997/10/14	97	rare	{3}{U}{U}	5	U	U	FALSE
+20	Intruder Alarm	Enchantment	sth	Stronghold	1998/3/2	34	rare	{2}{U}	3	U	U	FALSE
+21	Mana Leak	Instant	sth	Stronghold	1998/3/2	36	common	{1}{U}	2	U	U	FALSE
+22	Forbid	Instant	exo	Exodus	1998/6/15	35	uncommon	{1}{U}{U}	3	U	U	FALSE
+23	Temporal Manipulation	Sorcery	p02	Portal Second Age	1998/6/24	54	rare	{3}{U}{U}	5	U	U	FALSE
+24	Morphling	Creature — Shapeshifter	usg	Urza's Saga	1998/10/12	85	rare	{3}{U}{U}	5	U	U	TRUE
+25	Show and Tell	Sorcery	usg	Urza's Saga	1998/10/12	96	rare	{2}{U}	3	U	U	FALSE
+26	Time Spiral	Sorcery	usg	Urza's Saga	1998/10/12	103	rare	{4}{U}{U}	6	U	U	TRUE
+27	Turnabout	Instant	usg	Urza's Saga	1998/10/12	105	uncommon	{2}{U}{U}	4	U	U	FALSE
+28	Tolarian Academy	Legendary Land	usg	Urza's Saga	1998/10/12	330	rare		0	C	U	TRUE
+29	Frantic Search	Instant	ulg	Urza's Legacy	1999/2/15	32	common	{2}{U}	3	U	U	FALSE
+30	Miscalculation	Instant	ulg	Urza's Legacy	1999/2/15	36	common	{1}{U}	2	U	U	FALSE
+31	Palinchron	Creature — Illusion	ulg	Urza's Legacy	1999/2/15	38	rare	{5}{U}{U}	7	U	U	TRUE
+32	Tinker	Sorcery	ulg	Urza's Legacy	1999/2/15	45	uncommon	{2}{U}	3	U	U	FALSE
+33	Faerie Conclave	Land	ulg	Urza's Legacy	1999/2/15	139	uncommon		0	C	U	FALSE
+34	Opposition	Enchantment	uds	Urza's Destiny	1999/6/7	40	rare	{2}{U}{U}	4	U	U	FALSE
+35	Treachery	Enchantment — Aura	uds	Urza's Destiny	1999/6/7	50	rare	{3}{U}{U}	5	U	U	TRUE
+36	Capture of Jingzhou	Sorcery	ptk	Portal Three Kingdoms	1999/7/6	38	rare	{3}{U}{U}	5	U	U	FALSE
+37	Bribery	Sorcery	mmq	Mercadian Masques	1999/10/4	62	rare	{3}{U}{U}	5	U	U	FALSE
+38	Gush	Instant	mmq	Mercadian Masques	1999/10/4	82	common	{4}{U}	5	U	U	FALSE
+39	Daze	Instant	nem	Nemesis	2000/2/14	30	common	{1}{U}	2	U	U	FALSE
+40	Fact or Fiction	Instant	inv	Invasion	2000/10/2	57	uncommon	{3}{U}	4	U	U	FALSE
+41	Opt	Instant	inv	Invasion	2000/10/2	64	common	{U}	1	U	U	FALSE
+42	Upheaval	Sorcery	ody	Odyssey	2001/10/1	113	rare	{4}{U}{U}	6	U	U	FALSE
+43	Deep Analysis	Sorcery	tor	Torment	2002/2/4	36	common	{3}{U}	4	U	U	FALSE
+44	Brain Freeze	Instant	scg	Scourge	2003/5/26	29	uncommon	{1}{U}	2	U	U	FALSE
+45	Mind's Desire	Sorcery	scg	Scourge	2003/5/26	41	rare	{4}{U}{U}	6	U	U	FALSE
+46	Thirst for Knowledge	Instant	mrd	Mirrodin	2003/10/2	53	uncommon	{2}{U}	3	U	U	FALSE
+47	Crystal Shard	Artifact	mrd	Mirrodin	2003/10/2	159	uncommon	{3}	3	C	U	FALSE
+48	Proteus Staff	Artifact	mrd	Mirrodin	2003/10/2	230	rare	{3}	3	C	U	FALSE
+49	Condescend	Instant	5dn	Fifth Dawn	2004/6/4	27	common	{X}{U}	1	U	U	FALSE
+50	Trinket Mage	Creature — Human Wizard	5dn	Fifth Dawn	2004/6/4	39	common	{2}{U}	3	U	U	FALSE
+51	Gifts Ungiven	Instant	chk	Champions of Kamigawa	2004/10/1	62	rare	{3}{U}	4	U	U	FALSE
+52	Meloku the Clouded Mirror	Legendary Creature — Moonfolk Wizard	chk	Champions of Kamigawa	2004/10/1	74	rare	{4}{U}	5	U	U	FALSE
+53	Remand	Instant	rav	Ravnica: City of Guilds	2005/10/7	63	uncommon	{1}{U}	2	U	U	FALSE
+54	Repeal	Instant	gpt	Guildpact	2006/2/3	32	common	{X}{U}	1	U	U	FALSE
+55	Ancestral Vision	Sorcery	tsp	Time Spiral	2006/10/6	48	rare		0	U	U	FALSE
+56	Looter il-Kor	Creature — Kor Rogue	tsp	Time Spiral	2006/10/6	66	common	{1}{U}	2	U	U	FALSE
+57	Riftwing Cloudskate	Creature — Illusion	tsp	Time Spiral	2006/10/6	73	uncommon	{3}{U}{U}	5	U	U	FALSE
+58	Academy Ruins	Legendary Land	tsp	Time Spiral	2006/10/6	269	rare		0	C	U	FALSE
+59	Venser, Shaper Savant	Legendary Creature — Human Wizard	fut	Future Sight	2007/5/4	46	rare	{2}{U}{U}	4	U	U	FALSE
+60	Cryptic Command	Instant	lrw	Lorwyn	2007/10/12	56	rare	{1}{U}{U}{U}	4	U	U	FALSE
+61	Jace Beleren	Legendary Planeswalker — Jace	lrw	Lorwyn	2007/10/12	71	rare	{1}{U}{U}	3	U	U	FALSE
+62	Mulldrifter	Creature — Elemental	lrw	Lorwyn	2007/10/12	76	common	{4}{U}	5	U	U	FALSE
+63	Pestermite	Creature — Faerie Rogue	lrw	Lorwyn	2007/10/12	78	common	{2}{U}	3	U	U	FALSE
+64	Ponder	Sorcery	lrw	Lorwyn	2007/10/12	79	common	{U}	1	U	U	FALSE
+65	Sower of Temptation	Creature — Faerie Wizard	lrw	Lorwyn	2007/10/12	88	rare	{2}{U}{U}	4	U	U	FALSE
+66	Shelldock Isle	Land	lrw	Lorwyn	2007/10/12	272	rare		0	C	U	FALSE
+67	Vivid Creek	Land	lrw	Lorwyn	2007/10/12	276	uncommon		0	C	U	FALSE
+68	Vendilion Clique	Legendary Creature — Faerie Wizard	mor	Morningtide	2008/2/1	55	rare	{1}{U}{U}	3	U	U	FALSE
+69	Glen Elendra Archmage	Creature — Faerie Wizard	eve	Eventide	2008/7/25	22	rare	{3}{U}	4	U	U	FALSE
+70	Tezzeret the Seeker	Legendary Planeswalker — Tezzeret	ala	Shards of Alara	2008/10/3	60	mythic	{3}{U}{U}	5	U	U	FALSE
+71	Inkwell Leviathan	Artifact Creature — Leviathan	con	Conflux	2009/2/6	30	rare	{7}{U}{U}	9	U	U	FALSE
+72	Spell Pierce	Instant	zen	Zendikar	2009/10/2	67	common	{U}	1	U	U	FALSE
+73	Jace, the Mind Sculptor	Legendary Planeswalker — Jace	wwk	Worldwake	2010/2/5	31	mythic	{2}{U}{U}	4	U	U	FALSE
+74	Enclave Cryptologist	Creature — Merfolk Wizard	roe	Rise of the Eldrazi	2010/4/23	66	uncommon	{U}	1	U	U	FALSE
+75	Frost Titan	Creature — Giant	m11	Magic 2011	2010/7/16	55	mythic	{4}{U}{U}	6	U	U	FALSE
+76	Preordain	Sorcery	m11	Magic 2011	2010/7/16	70	common	{U}	1	U	U	FALSE
+77	Consecrated Sphinx	Creature — Sphinx	mbs	Mirrodin Besieged	2011/2/4	21	mythic	{4}{U}{U}	6	U	U	FALSE
+78	Deceiver Exarch	Creature — Cleric	nph	New Phyrexia	2011/5/13	33	uncommon	{2}{U}	3	U	U	FALSE
+79	Gitaxian Probe	Sorcery	nph	New Phyrexia	2011/5/13	35	common	{U/P}	1	U	U	FALSE
+80	Phyrexian Metamorph	Artifact Creature — Shapeshifter	nph	New Phyrexia	2011/5/13	42	rare	{3}{U/P}	4	U	U	FALSE
+81	Spellskite	Artifact Creature — Horror	nph	New Phyrexia	2011/5/13	159	rare	{2}	2	C	U	FALSE
+82	Phantasmal Image	Creature — Illusion	m12	Magic 2012	2011/7/15	72	rare	{1}{U}	2	U	U	FALSE
+83	Snapcaster Mage	Creature — Human Wizard	isd	Innistrad	2011/9/30	78	rare	{1}{U}	2	U	U	FALSE
+84	Aetherling	Creature — Shapeshifter	dgm	Dragon's Maze	2013/5/3	11	rare	{4}{U}{U}	6	U	U	FALSE
+85	True-Name Nemesis	Creature — Merfolk Rogue	c13	Commander 2013	2013/11/1	63	rare	{1}{U}{U}	3	U	U	FALSE
+86	Dig Through Time	Instant	ktk	Khans of Tarkir	2014/9/26	36	rare	{6}{U}{U}	8	U	U	FALSE
+87	Treasure Cruise	Sorcery	ktk	Khans of Tarkir	2014/9/26	59	common	{7}{U}	8	U	U	FALSE
+88	Jace, Vryn's Prodigy	Legendary Creature — Human Wizard	ori	Magic Origins	2015/7/17	60	mythic	{1}{U}	2	U	U	FALSE
+89	Whirler Rogue	Creature — Human Rogue Artificer	ori	Magic Origins	2015/7/17	83	uncommon	{2}{U}{U}	4	U	U	FALSE
+90	Mystic Confluence	Instant	c15	Commander 2015	2015/11/13	14	rare	{3}{U}{U}	5	U	U	FALSE
+91	Thing in the Ice	Creature — Horror	soi	Shadows over Innistrad	2016/4/8	92	rare	{1}{U}	2	U	U	FALSE
+92	Torrential Gearhulk	Artifact Creature — Construct	kld	Kaladesh	2016/9/30	67	mythic	{4}{U}{U}	6	U	U	FALSE
+93	Baral, Chief of Compliance	Legendary Creature — Human Wizard	aer	Aether Revolt	2017/1/20	28	rare	{1}{U}	2	U	U	FALSE
+94	Commit // Memory	Instant // Sorcery	akh	Amonkhet	2017/4/28	211	rare	{3}{U} // {4}{U}{U}	10	U	U	FALSE
+95	Chart a Course	Sorcery	xln	Ixalan	2017/9/29	48	uncommon	{1}{U}	2	U	U	FALSE
+96	Search for Azcanta	Legendary Enchantment	xln	Ixalan	2017/9/29	74	rare	{1}{U}	2	U	U	FALSE
+97	The Mirari Conjecture	Enchantment — Saga	dom	Dominaria	2018/4/27	57	rare	{4}{U}	5	U	U	FALSE
+98	Arcane Artisan	Creature — Human Wizard	bbd	Battlebond	2018/6/8	33	mythic	{2}{U}	3	U	U	FALSE
+99	Spellseeker	Creature — Human Wizard	bbd	Battlebond	2018/6/8	41	rare	{2}{U}	3	U	U	FALSE
+100	Tezzeret, Artifice Master	Legendary Planeswalker — Tezzeret	m19	Core Set 2019	2018/7/13	79	mythic	{3}{U}{U}	5	U	U	FALSE
+101	Callous Dismissal	Sorcery	war	War of the Spark	2019/5/3	44	common	{1}{U}	2	U	U	FALSE
+102	God-Eternal Kefnet	Legendary Creature — Zombie God	war	War of the Spark	2019/5/3	53	mythic	{2}{U}{U}	4	U	U	FALSE
+103	Narset, Parter of Veils	Legendary Planeswalker — Narset	war	War of the Spark	2019/5/3	61	uncommon	{1}{U}{U}	3	U	U	FALSE
+104	Echo of Eons	Sorcery	mh1	Modern Horizons	2019/6/14	46	mythic	{4}{U}{U}	6	U	U	FALSE
+105	Force of Negation	Instant	mh1	Modern Horizons	2019/6/14	52	rare	{1}{U}{U}	3	U	U	FALSE
+106	Urza, Lord High Artificer	Legendary Creature — Human Artificer	mh1	Modern Horizons	2019/6/14	75	mythic	{2}{U}{U}	4	U	U	FALSE
+107	Cavalier of Gales	Creature — Elemental Knight	m20	Core Set 2020	2019/7/12	52	mythic	{2}{U}{U}{U}	5	U	U	FALSE
+108	Brazen Borrower // Petty Theft	Creature — Faerie Rogue // Instant — Adventure	eld	Throne of Eldraine	2019/10/4	39	mythic	{1}{U}{U} // {1}{U}	3	U	U	FALSE
+109	Emry, Lurker of the Loch	Legendary Creature — Merfolk Wizard	eld	Throne of Eldraine	2019/10/4	43	rare	{2}{U}	3	U	U	FALSE
+110	Thassa, Deep-Dwelling	Legendary Enchantment Creature — God	thb	Theros Beyond Death	2020/1/24	71	mythic	{3}{U}	4	U	U	FALSE
+111	Thassa's Oracle	Creature — Merfolk Wizard	thb	Theros Beyond Death	2020/1/24	73	rare	{U}{U}	2	U	U	FALSE
+112	Shark Typhoon	Enchantment	iko	Ikoria: Lair of Behemoths	2020/4/24	67	rare	{5}{U}	6	U	U	FALSE
+113	Barrin, Tolarian Archmage	Legendary Creature — Human Wizard	m21	Core Set 2021	2020/7/3	45	rare	{1}{U}{U}	3	U	U	FALSE
+114	Ghostly Pilferer	Creature — Spirit Rogue	m21	Core Set 2021	2020/7/3	52	rare	{1}{U}	2	U	U	FALSE
+115	Glasspool Mimic	Creature — Shapeshifter Rogue	znr	Zendikar Rising	2020/9/25	60	rare	{2}{U}	3	U	U	FALSE
+116	Jace, Mirror Mage	Legendary Planeswalker — Jace	znr	Zendikar Rising	2020/9/25	63	mythic	{1}{U}{U}	3	U	U	FALSE
+117	Jwari Disruption	Instant	znr	Zendikar Rising	2020/9/25	64	uncommon	{1}{U}	2	U	U	FALSE
+118	Sea Gate Restoration	Sorcery	znr	Zendikar Rising	2020/9/25	76	mythic	{4}{U}{U}{U}	7	U	U	FALSE
+119	Sea Gate Stormcaller	Creature — Human Wizard	znr	Zendikar Rising	2020/9/25	77	mythic	{1}{U}	2	U	U	FALSE
+120	Thieving Skydiver	Creature — Merfolk Rogue	znr	Zendikar Rising	2020/9/25	85	rare	{1}{U}	2	U	U	FALSE
+121	Court of Cunning	Enchantment	cmr	Commander Legends	2020/11/20	63	rare	{1}{U}{U}	3	U	U	FALSE
+122	Fall from Favor	Enchantment — Aura	cmr	Commander Legends	2020/11/20	68	common	{2}{U}	3	U	U	FALSE
+123	Hullbreacher	Creature — Merfolk Pirate	cmr	Commander Legends	2020/11/20	74	rare	{2}{U}	3	U	U	FALSE
+1	Animate Dead	Enchantment — Aura	lea	Limited Edition Alpha	1993/8/5	92	uncommon	{1}{B}	2	B	B	FALSE
+2	Dark Ritual	Instant	lea	Limited Edition Alpha	1993/8/5	98	common	{B}	1	B	B	FALSE
+3	Demonic Tutor	Sorcery	lea	Limited Edition Alpha	1993/8/5	104	uncommon	{1}{B}	2	B	B	FALSE
+4	Hypnotic Specter	Creature — Specter	lea	Limited Edition Alpha	1993/8/5	112	uncommon	{1}{B}{B}	3	B	B	FALSE
+5	Mind Twist	Sorcery	lea	Limited Edition Alpha	1993/8/5	115	rare	{X}{B}	1	B	B	FALSE
+6	Sinkhole	Sorcery	lea	Limited Edition Alpha	1993/8/5	129	common	{B}{B}	2	B	B	FALSE
+7	Mox Jet	Artifact	lea	Limited Edition Alpha	1993/8/5	262	rare	{0}	0	C	B	TRUE
+8	Hymn to Tourach	Sorcery	fem	Fallen Empires	1994/11/1	38a	common	{B}{B}	2	B	B	FALSE
+9	Dance of the Dead	Enchantment — Aura	ice	Ice Age	1995/6/1	118	uncommon	{1}{B}	2	B	B	FALSE
+10	Contagion	Instant	all	Alliances	1996/6/10	45	uncommon	{3}{B}{B}	5	B	B	FALSE
+11	Shallow Grave	Instant	mir	Mirage	1996/10/8	141	rare	{1}{B}	2	B	B	TRUE
+12	Necromancy	Enchantment	vis	Visions	1997/2/3	64	uncommon	{2}{B}	3	B	B	FALSE
+13	Nekrataal	Creature — Human Assassin	vis	Visions	1997/2/3	66	uncommon	{2}{B}{B}	4	B	B	FALSE
+14	Vampiric Tutor	Instant	vis	Visions	1997/2/3	72	rare	{B}	1	B	B	FALSE
+15	Corpse Dance	Instant	tmp	Tempest	1997/10/14	116	rare	{2}{B}	3	B	B	TRUE
+16	Diabolic Edict	Instant	tmp	Tempest	1997/10/14	128	common	{1}{B}	2	B	B	FALSE
+17	Living Death	Sorcery	tmp	Tempest	1997/10/14	142	rare	{3}{B}{B}	5	B	B	FALSE
+18	Reanimate	Sorcery	tmp	Tempest	1997/10/14	151	uncommon	{B}	1	B	B	FALSE
+19	Sarcomancy	Enchantment	tmp	Tempest	1997/10/14	154	rare	{B}	1	B	B	TRUE
+20	Volrath's Stronghold	Legendary Land	sth	Stronghold	1998/3/2	143	rare		0	C	B	TRUE
+21	Carnophage	Creature — Zombie	exo	Exodus	1998/6/15	53	common	{B}	1	B	B	FALSE
+22	Recurring Nightmare	Enchantment	exo	Exodus	1998/6/15	72	rare	{2}{B}	3	B	B	TRUE
+23	Duress	Sorcery	usg	Urza's Saga	1998/10/12	132	common	{B}	1	B	B	FALSE
+24	Exhume	Sorcery	usg	Urza's Saga	1998/10/12	134	common	{1}{B}	2	B	B	FALSE
+25	Yawgmoth's Will	Sorcery	usg	Urza's Saga	1998/10/12	171	rare	{2}{B}	3	B	B	TRUE
+26	Bone Shredder	Creature — Minion	ulg	Urza's Legacy	1999/2/15	49	uncommon	{2}{B}	3	B	B	FALSE
+27	Yawgmoth's Bargain	Enchantment	uds	Urza's Destiny	1999/6/7	75	rare	{4}{B}{B}	6	B	B	TRUE
+28	Imperial Seal	Sorcery	ptk	Portal Three Kingdoms	1999/7/6	78	rare	{B}	1	B	B	FALSE
+29	Snuff Out	Instant	mmq	Mercadian Masques	1999/10/4	162	common	{3}{B}	4	B	B	FALSE
+30	Nightscape Familiar	Creature — Zombie	pls	Planeshift	2001/2/5	48	common	{1}{B}	2	B	B	FALSE
+31	Phyrexian Rager	Creature — Horror	apc	Apocalypse	2001/6/4	49	common	{2}{B}	3	B	B	FALSE
+32	Braids, Cabal Minion	Legendary Creature — Human Minion	ody	Odyssey	2001/10/1	117	rare	{2}{B}{B}	4	B	B	FALSE
+33	Entomb	Instant	ody	Odyssey	2001/10/1	132	rare	{B}	1	B	B	FALSE
+34	Cabal Ritual	Instant	tor	Torment	2002/2/4	51	common	{1}{B}	2	B	B	FALSE
+35	Mesmeric Fiend	Creature — Nightmare Horror	tor	Torment	2002/2/4	69	common	{1}{B}	2	B	B	FALSE
+36	Putrid Imp	Creature — Zombie Imp	tor	Torment	2002/2/4	77	common	{B}	1	B	B	FALSE
+37	Carrion Feeder	Creature — Zombie	scg	Scourge	2003/5/26	59	common	{B}	1	B	B	FALSE
+38	Tendrils of Agony	Sorcery	scg	Scourge	2003/5/26	75	uncommon	{2}{B}{B}	4	B	B	FALSE
+39	Night's Whisper	Sorcery	5dn	Fifth Dawn	2004/6/4	55	uncommon	{1}{B}	2	B	B	FALSE
+40	Dark Confidant	Creature — Human Wizard	rav	Ravnica: City of Guilds	2005/10/7	81	rare	{1}{B}	2	B	B	FALSE
+41	Damnation	Sorcery	plc	Planar Chaos	2007/2/2	85	rare	{2}{B}{B}	4	B	B	FALSE
+42	Tombstalker	Creature — Demon	fut	Future Sight	2007/5/4	91	rare	{6}{B}{B}	8	B	B	FALSE
+43	Makeshift Mannequin	Instant	lrw	Lorwyn	2007/10/12	124	uncommon	{3}{B}	4	B	B	FALSE
+44	Oona's Prowler	Creature — Faerie Rogue	lrw	Lorwyn	2007/10/12	133	rare	{1}{B}	2	B	B	FALSE
+45	Profane Command	Sorcery	lrw	Lorwyn	2007/10/12	135	rare	{X}{B}{B}	2	B	B	FALSE
+46	Shriekmaw	Creature — Elemental	lrw	Lorwyn	2007/10/12	139	uncommon	{4}{B}	5	B	B	FALSE
+47	Thoughtseize	Sorcery	lrw	Lorwyn	2007/10/12	145	rare	{B}	1	B	B	FALSE
+48	Vivid Marsh	Land	lrw	Lorwyn	2007/10/12	278	uncommon		0	C	B	FALSE
+49	Bitterblossom	Tribal Enchantment — Faerie	mor	Morningtide	2008/2/1	58	rare	{1}{B}	2	B	B	FALSE
+50	Puppeteer Clique	Creature — Faerie Wizard	shm	Shadowmoor	2008/5/2	75	rare	{3}{B}{B}	5	B	B	FALSE
+51	Bloodghast	Creature — Vampire Spirit	zen	Zendikar	2009/10/2	83	rare	{B}{B}	2	B	B	FALSE
+52	Vampire Hexmage	Creature — Vampire Shaman	zen	Zendikar	2009/10/2	114	uncommon	{B}{B}	2	B	B	FALSE
+53	Vampire Nighthawk	Creature — Vampire Shaman	zen	Zendikar	2009/10/2	116	uncommon	{1}{B}{B}	3	B	B	FALSE
+54	Bloodthrone Vampire	Creature — Vampire	roe	Rise of the Eldrazi	2010/4/23	98	common	{1}{B}	2	B	B	FALSE
+55	Inquisition of Kozilek	Sorcery	roe	Rise of the Eldrazi	2010/4/23	115	uncommon	{B}	1	B	B	FALSE
+56	Grave Titan	Creature — Giant	m11	Magic 2011	2010/7/16	97	mythic	{4}{B}{B}	6	B	B	FALSE
+57	Viscera Seer	Creature — Vampire Wizard	m11	Magic 2011	2010/7/16	120	common	{B}	1	B	B	FALSE
+58	Skinrender	Creature — Zombie	som	Scars of Mirrodin	2010/10/1	78	uncommon	{2}{B}{B}	4	B	B	FALSE
+59	Go for the Throat	Instant	mbs	Mirrodin Besieged	2011/2/4	43	uncommon	{1}{B}	2	B	B	FALSE
+60	Massacre Wurm	Creature — Wurm	mbs	Mirrodin Besieged	2011/2/4	46	mythic	{3}{B}{B}{B}	6	B	B	FALSE
+61	Dismember	Instant	nph	New Phyrexia	2011/5/13	57	uncommon	{1}{B/P}{B/P}	3	B	B	FALSE
+62	Sheoldred, Whispering One	Legendary Creature — Praetor	nph	New Phyrexia	2011/5/13	73	mythic	{5}{B}{B}	7	B	B	FALSE
+63	Bloodline Keeper	Creature — Vampire	isd	Innistrad	2011/9/30	90	rare	{2}{B}{B}	4	B	B	FALSE
+64	Diregraf Ghoul	Creature — Zombie	isd	Innistrad	2011/9/30	97	uncommon	{B}	1	B	B	FALSE
+65	Liliana of the Veil	Legendary Planeswalker — Liliana	isd	Innistrad	2011/9/30	105	mythic	{1}{B}{B}	3	B	B	FALSE
+66	Gravecrawler	Creature — Zombie	dka	Dark Ascension	2012/2/3	64	rare	{B}	1	B	B	FALSE
+67	Mikaeus, the Unhallowed	Legendary Creature — Zombie Cleric	dka	Dark Ascension	2012/2/3	70	mythic	{3}{B}{B}{B}	6	B	B	FALSE
+68	Blood Artist	Creature — Vampire	avr	Avacyn Restored	2012/5/4	86	uncommon	{1}{B}	2	B	B	FALSE
+69	Griselbrand	Legendary Creature — Demon	avr	Avacyn Restored	2012/5/4	106	mythic	{4}{B}{B}{B}{B}	8	B	B	FALSE
+70	Pack Rat	Creature — Rat	rtr	Return to Ravnica	2012/10/5	73	rare	{1}{B}	2	B	B	FALSE
+71	Xathrid Necromancer	Creature — Human Wizard	m14	Magic 2014	2013/7/19	123	rare	{2}{B}	3	B	B	FALSE
+72	Hero's Downfall	Instant	ths	Theros	2013/9/27	90	rare	{1}{B}{B}	3	B	B	FALSE
+73	Tormented Hero	Creature — Human Warrior	ths	Theros	2013/9/27	108	uncommon	{B}	1	B	B	FALSE
+74	Ophiomancer	Creature — Human Shaman	c13	Commander 2013	2013/11/1	84	rare	{2}{B}	3	B	B	FALSE
+75	Toxic Deluge	Sorcery	c13	Commander 2013	2013/11/1	96	rare	{2}{B}	3	B	B	FALSE
+76	Brain Maggot	Enchantment Creature — Insect	jou	Journey into Nyx	2014/5/2	62	uncommon	{1}{B}	2	B	B	FALSE
+77	Bloodsoaked Champion	Creature — Human Warrior	ktk	Khans of Tarkir	2014/9/26	66	rare	{B}	1	B	B	FALSE
+78	Flesh Carver	Creature — Human Wizard	c14	Commander 2014	2014/11/7	22	rare	{2}{B}	3	B	B	FALSE
+79	Mardu Strike Leader	Creature — Human Warrior	frf	Fate Reforged	2015/1/23	75	rare	{2}{B}	3	B	B	FALSE
+80	Dark Petition	Sorcery	ori	Magic Origins	2015/7/17	90	rare	{3}{B}{B}	5	B	B	FALSE
+81	Languish	Sorcery	ori	Magic Origins	2015/7/17	105	rare	{2}{B}{B}	4	B	B	FALSE
+82	Drana, Liberator of Malakir	Legendary Creature — Vampire Ally	bfz	Battle for Zendikar	2015/10/2	109	mythic	{1}{B}{B}	3	B	B	FALSE
+83	Zulaport Cutthroat	Creature — Human Rogue Ally	bfz	Battle for Zendikar	2015/10/2	126	uncommon	{1}{B}	2	B	B	FALSE
+84	Kalitas, Traitor of Ghet	Legendary Creature — Vampire Warrior	ogw	Oath of the Gatewatch	2016/1/22	86	mythic	{2}{B}{B}	4	B	B	FALSE
+85	Heir of Falkenrath	Creature — Vampire	soi	Shadows over Innistrad	2016/4/8	116	uncommon	{1}{B}	2	B	B	FALSE
+86	Collective Brutality	Sorcery	emn	Eldritch Moon	2016/7/22	85	rare	{1}{B}	2	B	B	FALSE
+87	Liliana, the Last Hope	Legendary Planeswalker — Liliana	emn	Eldritch Moon	2016/7/22	93	mythic	{1}{B}{B}	3	B	B	FALSE
+88	Custodi Lich	Creature — Zombie Cleric	cn2	Conspiracy: Take the Crown	2016/8/26	41	rare	{3}{B}{B}	5	B	B	FALSE
+89	Gonti, Lord of Luxury	Legendary Creature — Aetherborn Rogue	kld	Kaladesh	2016/9/30	84	rare	{2}{B}{B}	4	B	B	FALSE
+90	Scrapheap Scrounger	Artifact Creature — Construct	kld	Kaladesh	2016/9/30	231	rare	{2}	2	C	B	FALSE
+91	Fatal Push	Instant	aer	Aether Revolt	2017/1/20	57	uncommon	{B}	1	B	B	FALSE
+92	Dread Wanderer	Creature — Zombie Jackal	akh	Amonkhet	2017/4/28	88	rare	{B}	1	B	B	FALSE
+93	Liliana, Death's Majesty	Legendary Planeswalker — Liliana	akh	Amonkhet	2017/4/28	97	mythic	{3}{B}{B}	5	B	B	FALSE
+94	Kitesail Freebooter	Creature — Human Pirate	xln	Ixalan	2017/9/29	110	uncommon	{1}{B}	2	B	B	FALSE
+95	Mastermind's Acquisition	Sorcery	rix	Rivals of Ixalan	2018/1/19	77	rare	{2}{B}{B}	4	B	B	FALSE
+96	Ravenous Chupacabra	Creature — Beast Horror	rix	Rivals of Ixalan	2018/1/19	82	uncommon	{2}{B}{B}	4	B	B	FALSE
+97	Doom Whisperer	Creature — Nightmare Demon	grn	Guilds of Ravnica	2018/10/5	69	mythic	{3}{B}{B}	5	B	B	FALSE
+98	Midnight Reaper	Creature — Zombie Knight	grn	Guilds of Ravnica	2018/10/5	77	rare	{2}{B}	3	B	B	FALSE
+99	Plaguecrafter	Creature — Human Shaman	grn	Guilds of Ravnica	2018/10/5	82	uncommon	{2}{B}	3	B	B	FALSE
+100	Gutterbones	Creature — Skeleton Warrior	rna	Ravnica Allegiance	2019/1/25	76	rare	{B}	1	B	B	FALSE
+101	Bolas's Citadel	Legendary Artifact	war	War of the Spark	2019/5/3	79	rare	{3}{B}{B}{B}	6	B	B	FALSE
+102	Kaya's Ghostform	Enchantment — Aura	war	War of the Spark	2019/5/3	94	common	{B}	1	B	B	FALSE
+103	Liliana's Triumph	Instant	war	War of the Spark	2019/5/3	98	uncommon	{1}{B}	2	B	B	FALSE
+104	Plague Engineer	Creature — Carrier	mh1	Modern Horizons	2019/6/14	100	rare	{2}{B}	3	B	B	FALSE
+105	Putrid Goblin	Creature — Zombie Goblin	mh1	Modern Horizons	2019/6/14	101	common	{1}{B}	2	B	B	FALSE
+106	Sling-Gang Lieutenant	Creature — Goblin	mh1	Modern Horizons	2019/6/14	108	uncommon	{3}{B}	4	B	B	FALSE
+107	Yawgmoth, Thran Physician	Legendary Creature — Human Cleric	mh1	Modern Horizons	2019/6/14	116	mythic	{2}{B}{B}	4	B	B	FALSE
+108	Rotting Regisaur	Creature — Zombie Dinosaur	m20	Core Set 2020	2019/7/12	111	rare	{2}{B}	3	B	B	FALSE
+109	Murderous Rider // Swift End	Creature — Zombie Knight // Instant — Adventure	eld	Throne of Eldraine	2019/10/4	97	rare	{1}{B}{B} // {1}{B}{B}	3	B	B	FALSE
+110	Rankle, Master of Pranks	Legendary Creature — Faerie Rogue	eld	Throne of Eldraine	2019/10/4	101	mythic	{2}{B}{B}	4	B	B	FALSE
+111	Wishclaw Talisman	Artifact	eld	Throne of Eldraine	2019/10/4	110	rare	{1}{B}	2	B	B	FALSE
+112	Woe Strider	Creature — Horror	thb	Theros Beyond Death	2020/1/24	123	rare	{2}{B}	3	B	B	FALSE
+113	Bastion of Remembrance	Enchantment	iko	Ikoria: Lair of Behemoths	2020/4/24	73	uncommon	{2}{B}	3	B	B	FALSE
+114	Heartless Act	Instant	iko	Ikoria: Lair of Behemoths	2020/4/24	91	uncommon	{1}{B}	2	B	B	FALSE
+115	Agadeem's Awakening	Sorcery	znr	Zendikar Rising	2020/9/25	90	mythic	{X}{B}{B}{B}	3	B	B	FALSE
+116	Bloodchief's Thirst	Sorcery	znr	Zendikar Rising	2020/9/25	94	uncommon	{B}	1	B	B	FALSE
+117	Hagra Mauling	Instant	znr	Zendikar Rising	2020/9/25	106	rare	{2}{B}{B}	4	B	B	FALSE
+118	Nighthawk Scavenger	Creature — Vampire Rogue	znr	Zendikar Rising	2020/9/25	115	rare	{1}{B}{B}	3	B	B	FALSE
+119	Nullpriest of Oblivion	Creature — Vampire Cleric	znr	Zendikar Rising	2020/9/25	118	rare	{1}{B}	2	B	B	FALSE
+120	Skyclave Shade	Creature — Shade	znr	Zendikar Rising	2020/9/25	125	rare	{1}{B}	2	B	B	FALSE
+121	Opposition Agent	Creature — Human Rogue	cmr	Commander Legends	2020/11/20	141	rare	{2}{B}	3	B	B	FALSE
+1	Earthquake	Sorcery	lea	Limited Edition Alpha	1993/8/5	146	rare	{X}{R}	1	R	R	FALSE
+2	Lightning Bolt	Instant	lea	Limited Edition Alpha	1993/8/5	161	common	{R}	1	R	R	FALSE
+3	Mana Flare	Enchantment	lea	Limited Edition Alpha	1993/8/5	162	rare	{2}{R}	3	R	R	FALSE
+4	Wheel of Fortune	Sorcery	lea	Limited Edition Alpha	1993/8/5	183	rare	{2}{R}	3	R	R	TRUE
+5	Mox Ruby	Artifact	lea	Limited Edition Alpha	1993/8/5	264	rare	{0}	0	C	R	TRUE
+6	Chain Lightning	Sorcery	leg	Legends	1994/6/1	137	common	{R}	1	R	R	FALSE
+7	Incinerate	Instant	ice	Ice Age	1995/6/1	194	common	{1}{R}	2	R	R	FALSE
+8	Pyroclasm	Sorcery	ice	Ice Age	1995/6/1	214	uncommon	{1}{R}	2	R	R	FALSE
+9	Fireblast	Instant	vis	Visions	1997/2/3	79	common	{4}{R}{R}	6	R	R	FALSE
+10	Firestorm	Instant	wth	Weatherlight	1997/6/9	101	rare	{R}	1	R	R	TRUE
+11	Goblin Bombardment	Enchantment	tmp	Tempest	1997/10/14	179	uncommon	{1}{R}	2	R	R	FALSE
+12	Jackal Pup	Creature — Jackal	tmp	Tempest	1997/10/14	183	uncommon	{R}	1	R	R	FALSE
+13	Wildfire	Sorcery	p02	Portal Second Age	1998/6/24	120	rare	{4}{R}{R}	6	R	R	FALSE
+14	Arc Lightning	Sorcery	usg	Urza's Saga	1998/10/12	174	common	{2}{R}	3	R	R	FALSE
+15	Sneak Attack	Enchantment	usg	Urza's Saga	1998/10/12	218	rare	{3}{R}	4	R	R	FALSE
+16	Avalanche Riders	Creature — Human Nomad	ulg	Urza's Legacy	1999/2/15	74	uncommon	{3}{R}	4	R	R	FALSE
+17	Goblin Welder	Creature — Goblin Artificer	ulg	Urza's Legacy	1999/2/15	80	rare	{R}	1	R	R	FALSE
+18	Burning of Xinye	Sorcery	ptk	Portal Three Kingdoms	1999/7/6	104	rare	{4}{R}{R}	6	R	R	FALSE
+19	Imperial Recruiter	Creature — Human Advisor	ptk	Portal Three Kingdoms	1999/7/6	113	uncommon	{2}{R}	3	R	R	FALSE
+20	Squee, Goblin Nabob	Legendary Creature — Goblin	mmq	Mercadian Masques	1999/10/4	214	rare	{2}{R}	3	R	R	FALSE
+21	Flametongue Kavu	Creature — Kavu	pls	Planeshift	2001/2/5	60	uncommon	{3}{R}	4	R	R	FALSE
+22	Firebolt	Sorcery	ody	Odyssey	2001/10/1	193	common	{R}	1	R	R	FALSE
+23	Grim Lavamancer	Creature — Human Wizard	tor	Torment	2002/2/4	100	rare	{R}	1	R	R	FALSE
+24	Siege-Gang Commander	Creature — Goblin	scg	Scourge	2003/5/26	103	rare	{3}{R}{R}	5	R	R	FALSE
+25	Sulfuric Vortex	Enchantment	scg	Scourge	2003/5/26	106	rare	{1}{R}{R}	3	R	R	FALSE
+26	Seething Song	Instant	mrd	Mirrodin	2003/10/2	104	common	{2}{R}	3	R	R	FALSE
+27	Trash for Treasure	Sorcery	mrd	Mirrodin	2003/10/2	109	rare	{2}{R}	3	R	R	FALSE
+28	Bosh, Iron Golem	Legendary Artifact Creature — Golem	mrd	Mirrodin	2003/10/2	147	rare	{8}	8	C	R	FALSE
+29	Magma Jet	Instant	5dn	Fifth Dawn	2004/6/4	73	uncommon	{1}{R}	2	R	R	FALSE
+30	Desperate Ritual	Instant — Arcane	chk	Champions of Kamigawa	2004/10/1	163	common	{1}{R}	2	R	R	FALSE
+31	Kiki-Jiki, Mirror Breaker	Legendary Creature — Goblin Shaman	chk	Champions of Kamigawa	2004/10/1	175	rare	{2}{R}{R}{R}	5	R	R	FALSE
+32	Through the Breach	Instant — Arcane	chk	Champions of Kamigawa	2004/10/1	193	rare	{4}{R}	5	R	R	FALSE
+33	Char	Instant	rav	Ravnica: City of Guilds	2005/10/7	117	rare	{2}{R}	3	R	R	FALSE
+34	Empty the Warrens	Sorcery	tsp	Time Spiral	2006/10/6	152	common	{3}{R}	4	R	R	FALSE
+35	Grapeshot	Sorcery	tsp	Time Spiral	2006/10/6	160	common	{1}{R}	2	R	R	FALSE
+36	Greater Gargadon	Creature — Beast	tsp	Time Spiral	2006/10/6	161	rare	{9}{R}	10	R	R	FALSE
+37	Mogg War Marshal	Creature — Goblin Warrior	tsp	Time Spiral	2006/10/6	170	common	{1}{R}	2	R	R	FALSE
+38	Kher Keep	Legendary Land	tsp	Time Spiral	2006/10/6	275	rare		0	C	R	FALSE
+39	Vivid Crag	Land	lrw	Lorwyn	2007/10/12	275	uncommon		0	C	R	FALSE
+40	Thunderblust	Creature — Elemental	eve	Eventide	2008/7/25	63	rare	{2}{R}{R}{R}	5	R	R	FALSE
+41	Banefire	Sorcery	con	Conflux	2009/2/6	58	rare	{X}{R}	1	R	R	FALSE
+42	Burst Lightning	Instant	zen	Zendikar	2009/10/2	119	common	{R}	1	R	R	FALSE
+43	Goblin Bushwhacker	Creature — Goblin Warrior	zen	Zendikar	2009/10/2	125	common	{R}	1	R	R	FALSE
+44	Goblin Guide	Creature — Goblin Scout	zen	Zendikar	2009/10/2	126	rare	{R}	1	R	R	FALSE
+45	Plated Geopede	Creature — Insect	zen	Zendikar	2009/10/2	141	common	{1}{R}	2	R	R	FALSE
+46	Flame Slash	Sorcery	roe	Rise of the Eldrazi	2010/4/23	145	common	{R}	1	R	R	FALSE
+47	Splinter Twin	Enchantment — Aura	roe	Rise of the Eldrazi	2010/4/23	165	rare	{2}{R}{R}	4	R	R	FALSE
+48	Inferno Titan	Creature — Giant	m11	Magic 2011	2010/7/16	146	mythic	{4}{R}{R}	6	R	R	FALSE
+49	Manic Vandal	Creature — Human Warrior	m11	Magic 2011	2010/7/16	151	common	{2}{R}	3	R	R	FALSE
+50	Pyretic Ritual	Instant	m11	Magic 2011	2010/7/16	153	common	{1}{R}	2	R	R	FALSE
+51	Arc Trail	Sorcery	som	Scars of Mirrodin	2010/10/1	81	uncommon	{1}{R}	2	R	R	FALSE
+52	Koth of the Hammer	Legendary Planeswalker — Koth	som	Scars of Mirrodin	2010/10/1	94	mythic	{2}{R}{R}	4	R	R	FALSE
+53	Hero of Oxid Ridge	Creature — Human Knight	mbs	Mirrodin Besieged	2011/2/4	66	mythic	{2}{R}{R}	4	R	R	FALSE
+54	Stormblood Berserker	Creature — Human Berserker	m12	Magic 2012	2011/7/15	156	uncommon	{1}{R}	2	R	R	FALSE
+55	Past in Flames	Sorcery	isd	Innistrad	2011/9/30	155	mythic	{3}{R}	4	R	R	FALSE
+56	Stromkirk Noble	Creature — Vampire Noble	isd	Innistrad	2011/9/30	164	rare	{R}	1	R	R	FALSE
+57	Faithless Looting	Sorcery	dka	Dark Ascension	2012/2/3	87	common	{R}	1	R	R	FALSE
+58	Hellrider	Creature — Devil	dka	Dark Ascension	2012/2/3	93	rare	{2}{R}{R}	4	R	R	FALSE
+59	Zealous Conscripts	Creature — Human Warrior	avr	Avacyn Restored	2012/5/4	166	rare	{4}{R}	5	R	R	FALSE
+60	Flames of the Firebrand	Sorcery	m13	Magic 2013	2012/7/13	132	uncommon	{2}{R}	3	R	R	FALSE
+61	Krenko, Mob Boss	Legendary Creature — Goblin Warrior	m13	Magic 2013	2012/7/13	138	rare	{2}{R}{R}	4	R	R	FALSE
+62	Searing Spear	Instant	m13	Magic 2013	2012/7/13	147	common	{1}{R}	2	R	R	FALSE
+63	Thundermaw Hellkite	Creature — Dragon	m13	Magic 2013	2012/7/13	150	mythic	{3}{R}{R}	5	R	R	FALSE
+64	Mizzium Mortars	Sorcery	rtr	Return to Ravnica	2012/10/5	101	rare	{1}{R}	2	R	R	FALSE
+65	Young Pyromancer	Creature — Human Shaman	m14	Magic 2014	2013/7/19	163	uncommon	{1}{R}	2	R	R	FALSE
+66	Firedrinker Satyr	Creature — Satyr Shaman	ths	Theros	2013/9/27	122	rare	{R}	1	R	R	FALSE
+67	Lightning Strike	Instant	ths	Theros	2013/9/27	127	common	{1}{R}	2	R	R	FALSE
+68	Purphoros, God of the Forge	Legendary Enchantment Creature — God	ths	Theros	2013/9/27	135	mythic	{3}{R}	4	R	R	FALSE
+69	Tempt with Vengeance	Sorcery	c13	Commander 2013	2013/11/1	125	rare	{X}{R}	1	R	R	FALSE
+70	Eidolon of the Great Revel	Enchantment Creature — Spirit	jou	Journey into Nyx	2014/5/2	94	rare	{R}{R}	2	R	R	FALSE
+71	Goblin Rabblemaster	Creature — Goblin Warrior	m15	Magic 2015	2014/7/18	145	rare	{2}{R}	3	R	R	FALSE
+72	Monastery Swiftspear	Creature — Human Monk	ktk	Khans of Tarkir	2014/9/26	118	uncommon	{R}	1	R	R	FALSE
+73	Daretti, Scrap Savant	Legendary Planeswalker — Daretti	c14	Commander 2014	2014/11/7	33	mythic	{3}{R}	4	R	R	FALSE
+74	Feldon of the Third Path	Legendary Creature — Human Artificer	c14	Commander 2014	2014/11/7	35	mythic	{1}{R}{R}	3	R	R	FALSE
+75	Impact Tremors	Enchantment	dtk	Dragons of Tarkir	2015/3/27	140	common	{1}{R}	2	R	R	FALSE
+76	Zurgo Bellstriker	Legendary Creature — Orc Warrior	dtk	Dragons of Tarkir	2015/3/27	169	rare	{R}	1	R	R	FALSE
+77	Abbot of Keral Keep	Creature — Human Monk	ori	Magic Origins	2015/7/17	127	rare	{1}{R}	2	R	R	FALSE
+78	Pia and Kiran Nalaar	Legendary Creature — Human Artificer	ori	Magic Origins	2015/7/17	157	rare	{2}{R}{R}	4	R	R	FALSE
+79	Fiery Confluence	Sorcery	c15	Commander 2015	2015/11/13	26	rare	{2}{R}{R}	4	R	R	FALSE
+80	Chandra, Flamecaller	Legendary Planeswalker — Chandra	ogw	Oath of the Gatewatch	2016/1/22	104	mythic	{4}{R}{R}	6	R	R	FALSE
+81	Goblin Dark-Dwellers	Creature — Goblin	ogw	Oath of the Gatewatch	2016/1/22	110	rare	{3}{R}{R}	5	R	R	FALSE
+82	Reckless Bushwhacker	Creature — Goblin Warrior Ally	ogw	Oath of the Gatewatch	2016/1/22	116	uncommon	{2}{R}	3	R	R	FALSE
+83	Falkenrath Gorger	Creature — Vampire Berserker	soi	Shadows over Innistrad	2016/4/8	155	rare	{R}	1	R	R	FALSE
+84	Hanweir Garrison	Creature — Human Soldier	emn	Eldritch Moon	2016/7/22	130a	rare	{2}{R}	3	R	R	FALSE
+85	Subterranean Tremors	Sorcery	cn2	Conspiracy: Take the Crown	2016/8/26	58	mythic	{X}{R}	1	R	R	FALSE
+86	Chandra, Torch of Defiance	Legendary Planeswalker — Chandra	kld	Kaladesh	2016/9/30	110	mythic	{2}{R}{R}	4	R	R	FALSE
+87	Bomat Courier	Artifact Creature — Construct	kld	Kaladesh	2016/9/30	199	rare	{1}	1	C	R	FALSE
+88	Kari Zev, Skyship Raider	Legendary Creature — Human Pirate	aer	Aether Revolt	2017/1/20	87	rare	{1}{R}	2	R	R	FALSE
+89	Release the Gremlins	Sorcery	aer	Aether Revolt	2017/1/20	96	rare	{X}{X}{R}	1	R	R	FALSE
+90	Bloodrage Brawler	Creature — Minotaur Warrior	akh	Amonkhet	2017/4/28	121	uncommon	{1}{R}	2	R	R	FALSE
+91	Combat Celebrant	Creature — Human Warrior	akh	Amonkhet	2017/4/28	125	mythic	{2}{R}	3	R	R	FALSE
+92	Glorybringer	Creature — Dragon	akh	Amonkhet	2017/4/28	134	rare	{3}{R}{R}	5	R	R	FALSE
+93	Hazoret the Fervent	Legendary Creature — God	akh	Amonkhet	2017/4/28	136	mythic	{3}{R}	4	R	R	FALSE
+94	Soul-Scar Mage	Creature — Human Wizard	akh	Amonkhet	2017/4/28	148	rare	{R}	1	R	R	FALSE
+95	Abrade	Instant	hou	Hour of Devastation	2017/7/14	83	uncommon	{1}{R}	2	R	R	FALSE
+96	Earthshaker Khenra	Creature — Jackal Warrior	hou	Hour of Devastation	2017/7/14	90	rare	{1}{R}	2	R	R	FALSE
+97	Rampaging Ferocidon	Creature — Dinosaur	xln	Ixalan	2017/9/29	154	rare	{2}{R}	3	R	R	FALSE
+98	Dire Fleet Daredevil	Creature — Human Pirate	rix	Rivals of Ixalan	2018/1/19	99	rare	{1}{R}	2	R	R	FALSE
+99	Dismissive Pyromancer	Creature — Human Wizard	m19	Core Set 2019	2018/7/13	136	rare	{1}{R}	2	R	R	FALSE
+100	Viashino Pyromancer	Creature — Viashino Wizard	m19	Core Set 2019	2018/7/13	166	common	{1}{R}	2	R	R	FALSE
+101	Reality Scramble	Sorcery	c18	Commander 2018	2018/8/9	25	rare	{2}{R}{R}	4	R	R	FALSE
+102	Experimental Frenzy	Enchantment	grn	Guilds of Ravnica	2018/10/5	99	rare	{3}{R}	4	R	R	FALSE
+103	Goblin Cratermaker	Creature — Goblin Warrior	grn	Guilds of Ravnica	2018/10/5	103	uncommon	{1}{R}	2	R	R	FALSE
+104	Legion Warboss	Creature — Goblin Soldier	grn	Guilds of Ravnica	2018/10/5	109	rare	{2}{R}	3	R	R	FALSE
+105	Runaway Steam-Kin	Creature — Elemental	grn	Guilds of Ravnica	2018/10/5	115	rare	{1}{R}	2	R	R	FALSE
+106	Light Up the Stage	Sorcery	rna	Ravnica Allegiance	2019/1/25	107	uncommon	{2}{R}	3	R	R	FALSE
+107	Dreadhorde Arcanist	Creature — Zombie Wizard	war	War of the Spark	2019/5/3	125	rare	{1}{R}	2	R	R	FALSE
+108	Ilharg, the Raze-Boar	Legendary Creature — Boar God	war	War of the Spark	2019/5/3	133	mythic	{3}{R}{R}	5	R	R	FALSE
+109	Krenko, Tin Street Kingpin	Legendary Creature — Goblin	war	War of the Spark	2019/5/3	137	rare	{2}{R}	3	R	R	FALSE
+110	Goblin Engineer	Creature — Goblin Artificer	mh1	Modern Horizons	2019/6/14	128	rare	{1}{R}	2	R	R	FALSE
+111	Seasoned Pyromancer	Creature — Human Shaman	mh1	Modern Horizons	2019/6/14	145	mythic	{1}{R}{R}	3	R	R	FALSE
+112	Shenanigans	Sorcery	mh1	Modern Horizons	2019/6/14	146	common	{1}{R}	2	R	R	FALSE
+113	Chandra, Acolyte of Flame	Legendary Planeswalker — Chandra	m20	Core Set 2020	2019/7/12	126	rare	{1}{R}{R}	3	R	R	FALSE
+114	Bonecrusher Giant // Stomp	Creature — Giant // Instant — Adventure	eld	Throne of Eldraine	2019/10/4	115	rare	{2}{R} // {1}{R}	3	R	R	FALSE
+115	Embercleave	Legendary Artifact — Equipment	eld	Throne of Eldraine	2019/10/4	120	mythic	{4}{R}{R}	6	R	R	FALSE
+116	Embereth Shieldbreaker // Battle Display	Creature — Human Knight // Sorcery — Adventure	eld	Throne of Eldraine	2019/10/4	122	uncommon	{1}{R} // {R}	2	R	R	FALSE
+117	Robber of the Rich	Creature — Human Archer Rogue	eld	Throne of Eldraine	2019/10/4	138	mythic	{1}{R}	2	R	R	FALSE
+118	Castle Embereth	Land	eld	Throne of Eldraine	2019/10/4	239	rare		0	C	R	FALSE
+119	Phoenix of Ash	Creature — Phoenix	thb	Theros Beyond Death	2020/1/24	148	rare	{1}{R}{R}	3	R	R	FALSE
+120	Underworld Breach	Enchantment	thb	Theros Beyond Death	2020/1/24	161	rare	{1}{R}	2	R	R	FALSE
+121	Lukka, Coppercoat Outcast	Legendary Planeswalker — Lukka	iko	Ikoria: Lair of Behemoths	2020/4/24	125	mythic	{3}{R}{R}	5	R	R	FALSE
+122	Transmogrify	Sorcery	m21	Core Set 2021	2020/7/3	167	rare	{3}{R}	4	R	R	FALSE
+123	Akoum Hellhound	Creature — Elemental Dog	znr	Zendikar Rising	2020/9/25	133	common	{R}	1	R	R	FALSE
+124	Kargan Intimidator	Creature — Human Warrior	znr	Zendikar Rising	2020/9/25	145	rare	{1}{R}	2	R	R	FALSE
+125	Roil Eruption	Sorcery	znr	Zendikar Rising	2020/9/25	155	common	{1}{R}	2	R	R	FALSE
+126	Shatterskull Smashing	Sorcery	znr	Zendikar Rising	2020/9/25	161	mythic	{X}{R}{R}	2	R	R	FALSE
+127	Spikefield Hazard	Instant	znr	Zendikar Rising	2020/9/25	166	uncommon	{R}	1	R	R	FALSE
+1	Birds of Paradise	Creature — Bird	lea	Limited Edition Alpha	1993/8/5	186	rare	{G}	1	G	G	FALSE
+2	Channel	Sorcery	lea	Limited Edition Alpha	1993/8/5	188	uncommon	{G}{G}	2	G	G	FALSE
+3	Fastbond	Enchantment	lea	Limited Edition Alpha	1993/8/5	192	rare	{G}	1	G	G	TRUE
+4	Llanowar Elves	Creature — Elf Druid	lea	Limited Edition Alpha	1993/8/5	210	common	{G}	1	G	G	FALSE
+5	Regrowth	Sorcery	lea	Limited Edition Alpha	1993/8/5	214	uncommon	{1}{G}	2	G	G	FALSE
+6	Mox Emerald	Artifact	lea	Limited Edition Alpha	1993/8/5	261	rare	{0}	0	C	G	TRUE
+7	Eureka	Sorcery	leg	Legends	1994/6/1	185	rare	{2}{G}{G}	4	G	G	TRUE
+8	Sylvan Library	Enchantment	leg	Legends	1994/6/1	207	uncommon	{1}{G}	2	G	G	FALSE
+9	Fyndhorn Elves	Creature — Elf Druid	ice	Ice Age	1995/6/1	244	common	{G}	1	G	G	FALSE
+10	Wall of Roots	Creature — Plant Wall	mir	Mirage	1996/10/8	253	common	{1}{G}	2	G	G	FALSE
+11	Worldly Tutor	Instant	mir	Mirage	1996/10/8	255	uncommon	{G}	1	G	G	FALSE
+12	Natural Order	Sorcery	vis	Visions	1997/2/3	114	rare	{2}{G}{G}	4	G	G	FALSE
+13	Jungle Lion	Creature — Cat	por	Portal	1997/5/1	171	common	{G}	1	G	G	FALSE
+14	Spike Feeder	Creature — Spike	sth	Stronghold	1998/3/2	118	uncommon	{1}{G}{G}	3	G	G	FALSE
+15	Wall of Blossoms	Creature — Plant Wall	sth	Stronghold	1998/3/2	125	uncommon	{1}{G}	2	G	G	FALSE
+16	Oath of Druids	Enchantment	exo	Exodus	1998/6/15	115	rare	{1}{G}	2	G	G	FALSE
+17	Survival of the Fittest	Enchantment	exo	Exodus	1998/6/15	129	rare	{1}{G}	2	G	G	TRUE
+18	Gaea's Cradle	Legendary Land	usg	Urza's Saga	1998/10/12	321	rare		0	C	G	TRUE
+19	Deranged Hermit	Creature — Elf	ulg	Urza's Legacy	1999/2/15	101	rare	{3}{G}{G}	5	G	G	TRUE
+20	Rancor	Enchantment — Aura	ulg	Urza's Legacy	1999/2/15	110	common	{G}	1	G	G	FALSE
+21	Treetop Village	Land	ulg	Urza's Legacy	1999/2/15	143	uncommon		0	C	G	FALSE
+22	Elvish Piper	Creature — Elf Shaman	uds	Urza's Destiny	1999/6/7	104	rare	{3}{G}	4	G	G	FALSE
+23	Plow Under	Sorcery	uds	Urza's Destiny	1999/6/7	117	rare	{3}{G}{G}	5	G	G	FALSE
+24	Rofellos, Llanowar Emissary	Legendary Creature — Elf Druid	uds	Urza's Destiny	1999/6/7	118	rare	{G}{G}	2	G	G	TRUE
+25	Yavimaya Elder	Creature — Human Druid	uds	Urza's Destiny	1999/6/7	124	common	{1}{G}{G}	3	G	G	FALSE
+26	Wild Mongrel	Creature — Dog	ody	Odyssey	2001/10/1	283	common	{1}{G}	2	G	G	FALSE
+27	Tooth and Nail	Sorcery	mrd	Mirrodin	2003/10/2	134	rare	{5}{G}{G}	7	G	G	FALSE
+28	Eternal Witness	Creature — Human Shaman	5dn	Fifth Dawn	2004/6/4	86	uncommon	{1}{G}{G}	3	G	G	FALSE
+29	Heartbeat of Spring	Enchantment	chk	Champions of Kamigawa	2004/10/1	212	rare	{2}{G}	3	G	G	FALSE
+30	Kodama's Reach	Sorcery — Arcane	chk	Champions of Kamigawa	2004/10/1	225	common	{2}{G}	3	G	G	FALSE
+31	Sakura-Tribe Elder	Creature — Snake Shaman	chk	Champions of Kamigawa	2004/10/1	239	common	{1}{G}	2	G	G	FALSE
+32	Chord of Calling	Instant	rav	Ravnica: City of Guilds	2005/10/7	156	rare	{X}{G}{G}{G}	3	G	G	FALSE
+33	Life from the Loam	Sorcery	rav	Ravnica: City of Guilds	2005/10/7	172	rare	{1}{G}	2	G	G	FALSE
+34	Vinelasher Kudzu	Creature — Plant	rav	Ravnica: City of Guilds	2005/10/7	189	rare	{1}{G}	2	G	G	FALSE
+35	Protean Hulk	Creature — Beast	dis	Dissension	2006/5/5	90	rare	{5}{G}{G}	7	G	G	FALSE
+36	Boreal Druid	Snow Creature — Elf Druid	csp	Coldsnap	2006/7/21	105	common	{G}	1	G	G	FALSE
+37	Search for Tomorrow	Sorcery	tsp	Time Spiral	2006/10/6	216	common	{2}{G}	3	G	G	FALSE
+38	Harmonize	Sorcery	plc	Planar Chaos	2007/2/2	149	uncommon	{2}{G}{G}	4	G	G	FALSE
+39	Sprout Swarm	Instant	fut	Future Sight	2007/5/4	138	common	{1}{G}	2	G	G	FALSE
+40	Tarmogoyf	Creature — Lhurgoyf	fut	Future Sight	2007/5/4	153	rare	{1}{G}	2	G	G	FALSE
+41	Garruk Wildspeaker	Legendary Planeswalker — Garruk	lrw	Lorwyn	2007/10/12	213	rare	{2}{G}{G}	4	G	G	FALSE
+42	Imperious Perfect	Creature — Elf Warrior	lrw	Lorwyn	2007/10/12	220	uncommon	{2}{G}	3	G	G	FALSE
+43	Primal Command	Sorcery	lrw	Lorwyn	2007/10/12	233	rare	{3}{G}{G}	5	G	G	FALSE
+44	Vivid Grove	Land	lrw	Lorwyn	2007/10/12	277	uncommon		0	C	G	FALSE
+45	Devoted Druid	Creature — Elf Druid	shm	Shadowmoor	2008/5/2	110	common	{1}{G}	2	G	G	FALSE
+46	Woodfall Primus	Creature — Treefolk Shaman	shm	Shadowmoor	2008/5/2	135	rare	{5}{G}{G}{G}	8	G	G	FALSE
+47	Wickerbough Elder	Creature — Treefolk Shaman	eve	Eventide	2008/7/25	80	common	{3}{G}	4	G	G	FALSE
+48	Wild Nacatl	Creature — Cat Warrior	ala	Shards of Alara	2008/10/3	152	common	{G}	1	G	G	FALSE
+49	Thornling	Creature — Elemental Shapeshifter	con	Conflux	2009/2/6	95	mythic	{3}{G}{G}	5	G	G	FALSE
+50	Acidic Slime	Creature — Ooze	m10	Magic 2010	2009/7/17	165	uncommon	{3}{G}{G}	5	G	G	FALSE
+51	Master of the Wild Hunt	Creature — Human Shaman	m10	Magic 2010	2009/7/17	191	mythic	{2}{G}{G}	4	G	G	FALSE
+52	Lotus Cobra	Creature — Snake	zen	Zendikar	2009/10/2	168	mythic	{1}{G}	2	G	G	FALSE
+53	Oracle of Mul Daya	Creature — Elf Shaman	zen	Zendikar	2009/10/2	172	rare	{3}{G}	4	G	G	FALSE
+54	Arbor Elf	Creature — Elf Druid	wwk	Worldwake	2010/2/5	95	common	{G}	1	G	G	FALSE
+55	Avenger of Zendikar	Creature — Elemental	wwk	Worldwake	2010/2/5	96	mythic	{5}{G}{G}	7	G	G	FALSE
+56	Nature's Claim	Instant	wwk	Worldwake	2010/2/5	108	common	{G}	1	G	G	FALSE
+57	Terastodon	Creature — Elephant	wwk	Worldwake	2010/2/5	115	rare	{6}{G}{G}	8	G	G	FALSE
+58	Joraga Treespeaker	Creature — Elf Druid	roe	Rise of the Eldrazi	2010/4/23	190	uncommon	{G}	1	G	G	FALSE
+59	Cultivate	Sorcery	m11	Magic 2011	2010/7/16	168	common	{2}{G}	3	G	G	FALSE
+60	Fauna Shaman	Creature — Elf Shaman	m11	Magic 2011	2010/7/16	172	rare	{1}{G}	2	G	G	FALSE
+61	Primeval Titan	Creature — Giant	m11	Magic 2011	2010/7/16	192	mythic	{4}{G}{G}	6	G	G	FALSE
+62	Green Sun's Zenith	Sorcery	mbs	Mirrodin Besieged	2011/2/4	81	rare	{X}{G}	1	G	G	FALSE
+63	Thrun, the Last Troll	Legendary Creature — Troll Shaman	mbs	Mirrodin Besieged	2011/2/4	92	mythic	{2}{G}{G}	4	G	G	FALSE
+64	Beast Within	Instant	nph	New Phyrexia	2011/5/13	103	uncommon	{2}{G}	3	G	G	FALSE
+65	Birthing Pod	Artifact	nph	New Phyrexia	2011/5/13	104	rare	{3}{G/P}	4	G	G	FALSE
+66	Melira, Sylvok Outcast	Legendary Creature — Human Scout	nph	New Phyrexia	2011/5/13	115	rare	{1}{G}	2	G	G	FALSE
+67	Hornet Queen	Creature — Insect	cmd	Commander 2011	2011/6/17	159	rare	{4}{G}{G}{G}	7	G	G	FALSE
+68	Scavenging Ooze	Creature — Ooze	cmd	Commander 2011	2011/6/17	170	rare	{1}{G}	2	G	G	FALSE
+69	Mayor of Avabruck	Creature — Human Advisor Werewolf	isd	Innistrad	2011/9/30	193	rare	{1}{G}	2	G	G	FALSE
+70	Wolfbitten Captive	Creature — Human Werewolf	dka	Dark Ascension	2012/2/3	133	rare	{G}	1	G	G	FALSE
+71	Craterhoof Behemoth	Creature — Beast	avr	Avacyn Restored	2012/5/4	172	mythic	{5}{G}{G}{G}	8	G	G	FALSE
+72	Thragtusk	Creature — Beast	m13	Magic 2013	2012/7/13	193	rare	{4}{G}	5	G	G	FALSE
+73	Worldspine Wurm	Creature — Wurm	rtr	Return to Ravnica	2012/10/5	140	mythic	{8}{G}{G}{G}	11	G	G	FALSE
+74	Experiment One	Creature — Human Ooze	gtc	Gatecrash	2013/2/1	119	uncommon	{G}	1	G	G	FALSE
+75	Elvish Mystic	Creature — Elf Druid	m14	Magic 2014	2013/7/19	169	common	{G}	1	G	G	FALSE
+76	Polukranos, World Eater	Legendary Creature — Hydra	ths	Theros	2013/9/27	172	mythic	{2}{G}{G}	4	G	G	FALSE
+77	Sylvan Caryatid	Creature — Plant	ths	Theros	2013/9/27	180	rare	{1}{G}	2	G	G	FALSE
+78	Curse of Predation	Enchantment — Aura Curse	c13	Commander 2013	2013/11/1	140	uncommon	{2}{G}	3	G	G	FALSE
+79	Courser of Kruphix	Enchantment Creature — Centaur	bng	Born of the Gods	2014/2/7	119	rare	{1}{G}{G}	3	G	G	FALSE
+80	Nissa, Worldwaker	Legendary Planeswalker — Nissa	m15	Magic 2015	2014/7/18	187	mythic	{3}{G}{G}	5	G	G	FALSE
+81	Reclamation Sage	Creature — Elf Shaman	m15	Magic 2015	2014/7/18	194	uncommon	{2}{G}	3	G	G	FALSE
+82	Freyalise, Llanowar's Fury	Legendary Planeswalker — Freyalise	c14	Commander 2014	2014/11/7	43	mythic	{3}{G}{G}	5	G	G	FALSE
+83	Whisperwood Elemental	Creature — Elemental	frf	Fate Reforged	2015/1/23	145	mythic	{3}{G}{G}	5	G	G	FALSE
+84	Collected Company	Instant	dtk	Dragons of Tarkir	2015/3/27	177	rare	{3}{G}	4	G	G	FALSE
+85	Den Protector	Creature — Human Warrior	dtk	Dragons of Tarkir	2015/3/27	181	rare	{1}{G}	2	G	G	FALSE
+86	Nissa, Vastwood Seer	Legendary Creature — Elf Scout	ori	Magic Origins	2015/7/17	189	mythic	{2}{G}	3	G	G	FALSE
+87	Scythe Leopard	Creature — Cat	bfz	Battle for Zendikar	2015/10/2	188	uncommon	{G}	1	G	G	FALSE
+88	Great Oak Guardian	Creature — Treefolk	c15	Commander 2015	2015/11/13	37	uncommon	{5}{G}	6	G	G	FALSE
+89	Nissa, Voice of Zendikar	Legendary Planeswalker — Nissa	ogw	Oath of the Gatewatch	2016/1/22	138	mythic	{1}{G}{G}	3	G	G	FALSE
+90	Oath of Nissa	Legendary Enchantment	ogw	Oath of the Gatewatch	2016/1/22	140	rare	{G}	1	G	G	FALSE
+91	Duskwatch Recruiter	Creature — Human Warrior Werewolf	soi	Shadows over Innistrad	2016/4/8	203	uncommon	{1}{G}	2	G	G	FALSE
+92	Tireless Tracker	Creature — Human Scout	soi	Shadows over Innistrad	2016/4/8	233	rare	{2}{G}	3	G	G	FALSE
+93	Kessig Prowler	Creature — Werewolf Horror	emn	Eldritch Moon	2016/7/22	163	uncommon	{G}	1	G	G	FALSE
+94	Noose Constrictor	Creature — Snake	emn	Eldritch Moon	2016/7/22	164	uncommon	{1}{G}	2	G	G	FALSE
+95	Selvala's Stampede	Sorcery	cn2	Conspiracy: Take the Crown	2016/8/26	71	rare	{4}{G}{G}	6	G	G	FALSE
+96	Verdurous Gearhulk	Artifact Creature — Construct	kld	Kaladesh	2016/9/30	172	mythic	{3}{G}{G}	5	G	G	FALSE
+97	Manglehorn	Creature — Beast	akh	Amonkhet	2017/4/28	175	uncommon	{2}{G}	3	G	G	FALSE
+98	Ramunap Excavator	Creature — Naga Cleric	hou	Hour of Devastation	2017/7/14	129	rare	{2}{G}	3	G	G	FALSE
+99	Carnage Tyrant	Creature — Dinosaur	xln	Ixalan	2017/9/29	179	mythic	{4}{G}{G}	6	G	G	FALSE
+100	Pelt Collector	Creature — Elf Warrior	grn	Guilds of Ravnica	2018/10/5	141	rare	{G}	1	G	G	FALSE
+101	Biogenic Ooze	Creature — Ooze	rna	Ravnica Allegiance	2019/1/25	122	mythic	{3}{G}{G}	5	G	G	FALSE
+102	Finale of Devastation	Sorcery	war	War of the Spark	2019/5/3	160	mythic	{X}{G}{G}	2	G	G	FALSE
+103	Nissa, Who Shakes the World	Legendary Planeswalker — Nissa	war	War of the Spark	2019/5/3	169	rare	{3}{G}{G}	5	G	G	FALSE
+104	Vivien's Arkbow	Legendary Artifact	war	War of the Spark	2019/5/3	181	rare	{1}{G}	2	G	G	FALSE
+105	Deep Forest Hermit	Creature — Elf Druid	mh1	Modern Horizons	2019/6/14	161	rare	{3}{G}{G}	5	G	G	FALSE
+106	Hexdrinker	Creature — Snake	mh1	Modern Horizons	2019/6/14	168	mythic	{G}	1	G	G	FALSE
+107	Elvish Reclaimer	Creature — Elf Warrior	m20	Core Set 2020	2019/7/12	169	rare	{G}	1	G	G	FALSE
+108	Nightpack Ambusher	Creature — Wolf	m20	Core Set 2020	2019/7/12	185	rare	{2}{G}{G}	4	G	G	FALSE
+109	Shared Summons	Instant	m20	Core Set 2020	2019/7/12	193	rare	{3}{G}{G}	5	G	G	FALSE
+110	Voracious Hydra	Creature — Hydra	m20	Core Set 2020	2019/7/12	200	rare	{X}{G}{G}	2	G	G	FALSE
+111	Gilded Goose	Creature — Bird	eld	Throne of Eldraine	2019/10/4	160	rare	{G}	1	G	G	FALSE
+112	The Great Henge	Legendary Artifact	eld	Throne of Eldraine	2019/10/4	161	mythic	{7}{G}{G}	9	G	G	FALSE
+113	Once Upon a Time	Instant	eld	Throne of Eldraine	2019/10/4	169	rare	{1}{G}	2	G	G	FALSE
+114	Questing Beast	Legendary Creature — Beast	eld	Throne of Eldraine	2019/10/4	171	mythic	{2}{G}{G}	4	G	G	FALSE
+115	Dryad of the Ilysian Grove	Enchantment Creature — Nymph Dryad	thb	Theros Beyond Death	2020/1/24	169	rare	{2}{G}	3	G	G	FALSE
+116	Renata, Called to the Hunt	Legendary Enchantment Creature — Demigod	thb	Theros Beyond Death	2020/1/24	196	uncommon	{2}{G}{G}	4	G	G	FALSE
+117	Kogla, the Titan Ape	Legendary Creature — Ape	iko	Ikoria: Lair of Behemoths	2020/4/24	162	rare	{3}{G}{G}{G}	6	G	G	FALSE
+118	Vivien, Monsters' Advocate	Legendary Planeswalker — Vivien	iko	Ikoria: Lair of Behemoths	2020/4/24	175	mythic	{3}{G}{G}	5	G	G	FALSE
+119	Wilt	Instant	iko	Ikoria: Lair of Behemoths	2020/4/24	176	common	{1}{G}	2	G	G	FALSE
+120	Elder Gargaroth	Creature — Beast	m21	Core Set 2021	2020/7/3	179	mythic	{3}{G}{G}	5	G	G	FALSE
+121	Bala Ged Recovery	Sorcery	znr	Zendikar Rising	2020/9/25	180	uncommon	{2}{G}	3	G	G	FALSE
+122	Kazandu Mammoth	Creature — Elephant	znr	Zendikar Rising	2020/9/25	189	rare	{1}{G}{G}	3	G	G	FALSE
+123	Tangled Florahedron	Creature — Elemental	znr	Zendikar Rising	2020/9/25	211	uncommon	{1}{G}	2	G	G	FALSE
+124	Turntimber Symbiosis	Sorcery	znr	Zendikar Rising	2020/9/25	215	mythic	{4}{G}{G}{G}	7	G	G	FALSE
+125	Magus of the Order	Creature — Human Wizard	cmr	Commander Legends	2020/11/20	242	rare	{2}{G}{G}	4	G	G	FALSE
+1	Tundra	Land — Plains Island	lea	Limited Edition Alpha	1993/8/5	284	rare		0	C	WU	TRUE
+2	Adarkar Wastes	Land	ice	Ice Age	1995/6/1	351	rare		0	C	WU	FALSE
+3	Talisman of Progress	Artifact	mrd	Mirrodin	2003/10/2	256	uncommon	{2}	2	C	WU	FALSE
+4	Azorius Signet	Artifact	dis	Dissension	2006/5/5	159	common	{2}	2	C	WU	FALSE
+5	Hallowed Fountain	Land — Plains Island	dis	Dissension	2006/5/5	174	rare		0	C	WU	FALSE
+6	Celestial Colonnade	Land	wwk	Worldwake	2010/2/5	133	rare		0	C	WU	FALSE
+7	Seachrome Coast	Land	som	Scars of Mirrodin	2010/10/1	229	rare		0	C	WU	FALSE
+8	Geist of Saint Traft	Legendary Creature — Spirit Cleric	isd	Innistrad	2011/9/30	213	mythic	{1}{W}{U}	3	WU	WU	FALSE
+9	Supreme Verdict	Sorcery	rtr	Return to Ravnica	2012/10/5	201	rare	{1}{W}{W}{U}	4	WU	WU	FALSE
+10	Reflector Mage	Creature — Human Wizard	ogw	Oath of the Gatewatch	2016/1/22	157	uncommon	{1}{W}{U}	3	WU	WU	FALSE
+11	Spell Queller	Creature — Spirit	emn	Eldritch Moon	2016/7/22	189	rare	{1}{W}{U}	3	WU	WU	FALSE
+12	Irrigated Farmland	Land — Plains Island	akh	Amonkhet	2017/4/28	245	rare		0	C	WU	FALSE
+13	Fractured Identity	Sorcery	c17	Commander 2017	2017/8/25	37	rare	{3}{W}{U}	5	WU	WU	FALSE
+14	Teferi, Hero of Dominaria	Legendary Planeswalker — Teferi	dom	Dominaria	2018/4/27	207	mythic	{3}{W}{U}	5	WU	WU	FALSE
+15	Teferi, Time Raveler	Legendary Planeswalker — Teferi	war	War of the Spark	2019/5/3	221	rare	{1}{W}{U}	3	WU	WU	FALSE
+16	Soulherder	Creature — Spirit	mh1	Modern Horizons	2019/6/14	214	uncommon	{1}{W}{U}	3	WU	WU	FALSE
+17	Dream Trawler	Creature — Sphinx	thb	Theros Beyond Death	2020/1/24	214	rare	{2}{W}{W}{U}{U}	6	WU	WU	FALSE
+18	Yorion, Sky Nomad	Legendary Creature — Bird Serpent	iko	Ikoria: Lair of Behemoths	2020/4/24	232	rare	{3}{W/U}{W/U}	5	WU	WU	FALSE
+1	Underground Sea	Land — Island Swamp	lea	Limited Edition Alpha	1993/8/5	285	rare		0	C	UB	TRUE
+2	Underground River	Land	ice	Ice Age	1995/6/1	362	rare		0	C	UB	FALSE
+3	Lim-Dûl's Vault	Instant	all	Alliances	1996/6/10	107	uncommon	{U}{B}	2	UB	UB	FALSE
+4	Psychatog	Creature — Atog	ody	Odyssey	2001/10/1	292	uncommon	{1}{U}{B}	3	UB	UB	FALSE
+5	Talisman of Dominance	Artifact	mrd	Mirrodin	2003/10/2	253	uncommon	{2}	2	C	UB	FALSE
+6	Dimir Signet	Artifact	rav	Ravnica: City of Guilds	2005/10/7	260	common	{2}	2	C	UB	FALSE
+7	Watery Grave	Land — Island Swamp	rav	Ravnica: City of Guilds	2005/10/7	286	rare		0	C	UB	FALSE
+8	Creeping Tar Pit	Land	wwk	Worldwake	2010/2/5	134	rare		0	C	UB	FALSE
+9	Darkslick Shores	Land	som	Scars of Mirrodin	2010/10/1	226	rare		0	C	UB	FALSE
+10	Tezzeret, Agent of Bolas	Legendary Planeswalker — Tezzeret	mbs	Mirrodin Besieged	2011/2/4	97	mythic	{2}{U}{B}	4	UB	UB	FALSE
+11	Baleful Strix	Artifact Creature — Bird	pc2	Planechase 2012	2012/6/1	82	uncommon	{U}{B}	2	UB	UB	FALSE
+12	Notion Thief	Creature — Human Rogue	dgm	Dragon's Maze	2013/5/3	88	rare	{2}{U}{B}	4	UB	UB	FALSE
+13	Ashiok, Nightmare Weaver	Legendary Planeswalker — Ashiok	ths	Theros	2013/9/27	188	mythic	{1}{U}{B}	3	UB	UB	FALSE
+14	Fetid Pools	Land — Island Swamp	akh	Amonkhet	2017/4/28	243	rare		0	C	UB	FALSE
+15	The Scarab God	Legendary Creature — God	hou	Hour of Devastation	2017/7/14	145	mythic	{3}{U}{B}	5	UB	UB	FALSE
+16	Hostage Taker	Creature — Human Pirate	xln	Ixalan	2017/9/29	223	rare	{2}{U}{B}	4	UB	UB	FALSE
+17	Thief of Sanity	Creature — Specter	grn	Guilds of Ravnica	2018/10/5	205	rare	{1}{U}{B}	3	UB	UB	FALSE
+18	Fallen Shinobi	Creature — Zombie Ninja	mh1	Modern Horizons	2019/6/14	199	rare	{3}{U}{B}	5	UB	UB	FALSE
+19	Gyruda, Doom of Depths	Legendary Creature — Demon Kraken	iko	Ikoria: Lair of Behemoths	2020/4/24	221	rare	{4}{U/B}{U/B}	6	UB	UB	FALSE
+20	Clearwater Pathway	Land	znr	Zendikar Rising	2020/9/25	260	rare		0	C	UB	FALSE
+1	Badlands	Land — Swamp Mountain	lea	Limited Edition Alpha	1993/8/5	277	rare		0	C	BR	TRUE
+2	Sulfurous Springs	Land	ice	Ice Age	1995/6/1	360	rare		0	C	BR	FALSE
+3	Talisman of Indulgence	Artifact	mrd	Mirrodin	2003/10/2	255	uncommon	{2}	2	C	BR	FALSE
+4	Rakdos Signet	Artifact	dis	Dissension	2006/5/5	165	common	{2}	2	C	BR	FALSE
+5	Blood Crypt	Land — Swamp Mountain	dis	Dissension	2006/5/5	171	rare		0	C	BR	FALSE
+6	Murderous Redcap	Creature — Goblin Assassin	shm	Shadowmoor	2008/5/2	192	uncommon	{2}{B/R}{B/R}	4	BR	BR	FALSE
+7	Lavaclaw Reaches	Land	wwk	Worldwake	2010/2/5	139	rare		0	C	BR	FALSE
+8	Blackcleave Cliffs	Land	som	Scars of Mirrodin	2010/10/1	224	rare		0	C	BR	FALSE
+9	Falkenrath Aristocrat	Creature — Vampire Noble	dka	Dark Ascension	2012/2/3	138	mythic	{2}{B}{R}	4	BR	BR	FALSE
+10	Dreadbore	Sorcery	rtr	Return to Ravnica	2012/10/5	157	rare	{B}{R}	2	BR	BR	FALSE
+11	Rakdos's Return	Sorcery	rtr	Return to Ravnica	2012/10/5	188	mythic	{X}{B}{R}	2	BR	BR	FALSE
+12	Rakdos Cackler	Creature — Devil	rtr	Return to Ravnica	2012/10/5	220	uncommon	{B/R}	1	BR	BR	FALSE
+13	Kolaghan's Command	Instant	dtk	Dragons of Tarkir	2015/3/27	224	rare	{1}{B}{R}	3	BR	BR	FALSE
+14	Daretti, Ingenious Iconoclast	Legendary Planeswalker — Daretti	cn2	Conspiracy: Take the Crown	2016/8/26	74	mythic	{1}{B}{R}	3	BR	BR	FALSE
+15	Canyon Slough	Land — Swamp Mountain	akh	Amonkhet	2017/4/28	239	rare		0	C	BR	FALSE
+16	Judith, the Scourge Diva	Legendary Creature — Human Shaman	rna	Ravnica Allegiance	2019/1/25	185	rare	{1}{B}{R}	3	BR	BR	FALSE
+17	Angrath's Rampage	Sorcery	war	War of the Spark	2019/5/3	185	uncommon	{B}{R}	2	BR	BR	FALSE
+18	Kroxa, Titan of Death's Hunger	Legendary Creature — Elder Giant	thb	Theros Beyond Death	2020/1/24	221	mythic	{B}{R}	2	BR	BR	FALSE
+19	Obosh, the Preypiercer	Legendary Creature — Hellion Horror	iko	Ikoria: Lair of Behemoths	2020/4/24	228	rare	{3}{B/R}{B/R}	5	BR	BR	FALSE
+1	Taiga	Land — Mountain Forest	lea	Limited Edition Alpha	1993/8/5	282	rare		0	C	RG	TRUE
+2	Karplusan Forest	Land	ice	Ice Age	1995/6/1	356	rare		0	C	RG	FALSE
+3	Talisman of Impulse	Artifact	mrd	Mirrodin	2003/10/2	254	uncommon	{2}	2	C	RG	FALSE
+4	Gruul Signet	Artifact	gpt	Guildpact	2006/2/3	150	common	{2}	2	C	RG	FALSE
+5	Stomping Ground	Land — Mountain Forest	gpt	Guildpact	2006/2/3	165	rare		0	C	RG	FALSE
+6	Ancient Grudge	Instant	tsp	Time Spiral	2006/10/6	143	common	{1}{R}	2	R	RG	FALSE
+7	Manamorphose	Instant	shm	Shadowmoor	2008/5/2	211	common	{1}{R/G}	2	RG	RG	FALSE
+8	Tattermunge Maniac	Creature — Goblin Warrior	shm	Shadowmoor	2008/5/2	219	uncommon	{R/G}	1	RG	RG	FALSE
+9	Sarkhan Vol	Legendary Planeswalker — Sarkhan	ala	Shards of Alara	2008/10/3	191	mythic	{2}{R}{G}	4	RG	RG	FALSE
+10	Bloodbraid Elf	Creature — Elf Berserker	arb	Alara Reborn	2009/4/30	50	uncommon	{2}{R}{G}	4	RG	RG	FALSE
+11	Raging Ravine	Land	wwk	Worldwake	2010/2/5	141	rare		0	C	RG	FALSE
+12	Copperline Gorge	Land	som	Scars of Mirrodin	2010/10/1	225	rare		0	C	RG	FALSE
+13	Huntmaster of the Fells	Creature — Human Werewolf	dka	Dark Ascension	2012/2/3	140	mythic	{2}{R}{G}	4	RG	RG	FALSE
+14	Dragonlord Atarka	Legendary Creature — Elder Dragon	dtk	Dragons of Tarkir	2015/3/27	216	mythic	{5}{R}{G}	7	RG	RG	FALSE
+15	Sheltered Thicket	Land — Mountain Forest	akh	Amonkhet	2017/4/28	248	rare		0	C	RG	FALSE
+16	Rhythm of the Wild	Enchantment	rna	Ravnica Allegiance	2019/1/25	201	uncommon	{1}{R}{G}	3	RG	RG	FALSE
+17	Wrenn and Six	Legendary Planeswalker — Wrenn	mh1	Modern Horizons	2019/6/14	217	mythic	{R}{G}	2	RG	RG	FALSE
+18	Grumgully, the Generous	Legendary Creature — Goblin Shaman	eld	Throne of Eldraine	2019/10/4	192	uncommon	{1}{R}{G}	3	RG	RG	FALSE
+19	Radha, Heart of Keld	Legendary Creature — Elf Warrior	m21	Core Set 2021	2020/7/3	224	rare	{1}{R}{G}	3	RG	RG	FALSE
+20	Cragcrown Pathway	Land	znr	Zendikar Rising	2020/9/25	261	rare		0	C	RG	FALSE
+1	Savannah	Land — Forest Plains	lea	Limited Edition Alpha	1993/8/5	280	rare		0	C	GW	TRUE
+2	Brushland	Land	ice	Ice Age	1995/6/1	352	rare		0	C	GW	FALSE
+3	Eladamri's Call	Instant	pls	Planeshift	2001/2/5	106	rare	{G}{W}	2	GW	GW	FALSE
+4	Mirari's Wake	Enchantment	jud	Judgment	2002/5/27	139	rare	{3}{G}{W}	5	GW	GW	FALSE
+5	Talisman of Unity	Artifact	mrd	Mirrodin	2003/10/2	257	uncommon	{2}	2	C	GW	FALSE
+6	Selesnya Signet	Artifact	rav	Ravnica: City of Guilds	2005/10/7	270	common	{2}	2	C	GW	FALSE
+7	Temple Garden	Land — Forest Plains	rav	Ravnica: City of Guilds	2005/10/7	284	rare		0	C	GW	FALSE
+8	Saffi Eriksdotter	Legendary Creature — Human Scout	tsp	Time Spiral	2006/10/6	245	rare	{G}{W}	2	GW	GW	FALSE
+9	Horizon Canopy	Land	fut	Future Sight	2007/5/4	177	rare		0	C	GW	FALSE
+10	Gaddock Teeg	Legendary Creature — Kithkin Advisor	lrw	Lorwyn	2007/10/12	248	rare	{G}{W}	2	GW	GW	FALSE
+11	Kitchen Finks	Creature — Ouphe	shm	Shadowmoor	2008/5/2	229	uncommon	{1}{G/W}{G/W}	3	GW	GW	FALSE
+12	Safehold Elite	Creature — Elf Scout	shm	Shadowmoor	2008/5/2	239	common	{1}{G/W}	2	GW	GW	FALSE
+13	Knight of the Reliquary	Creature — Human Knight	con	Conflux	2009/2/6	113	rare	{1}{G}{W}	3	GW	GW	FALSE
+14	Qasali Pridemage	Creature — Cat Wizard	arb	Alara Reborn	2009/4/30	75	common	{G}{W}	2	GW	GW	FALSE
+15	Stirring Wildwood	Land	wwk	Worldwake	2010/2/5	144	rare		0	C	GW	FALSE
+16	Razorverge Thicket	Land	som	Scars of Mirrodin	2010/10/1	228	rare		0	C	GW	FALSE
+17	Avacyn's Pilgrim	Creature — Human Monk	isd	Innistrad	2011/9/30	170	common	{G}	1	G	GW	FALSE
+18	Dryad Militant	Creature — Dryad Soldier	rtr	Return to Ravnica	2012/10/5	214	uncommon	{G/W}	1	GW	GW	FALSE
+19	Renegade Rallier	Creature — Human Warrior	aer	Aether Revolt	2017/1/20	133	uncommon	{1}{G}{W}	3	GW	GW	FALSE
+20	Scattered Groves	Land — Forest Plains	akh	Amonkhet	2017/4/28	247	rare		0	C	GW	FALSE
+21	Knight of Autumn	Creature — Dryad Knight	grn	Guilds of Ravnica	2018/10/5	183	rare	{1}{G}{W}	3	GW	GW	FALSE
+22	Good-Fortune Unicorn	Creature — Unicorn	mh1	Modern Horizons	2019/6/14	201	uncommon	{1}{G}{W}	3	GW	GW	FALSE
+23	Nature's Chant	Instant	mh1	Modern Horizons	2019/6/14	210	common	{1}{G/W}	2	GW	GW	FALSE
+24	Kaheera, the Orphanguard	Legendary Creature — Cat Beast	iko	Ikoria: Lair of Behemoths	2020/4/24	224	rare	{1}{G/W}{G/W}	3	GW	GW	FALSE
+25	Branchloft Pathway	Land	znr	Zendikar Rising	2020/9/25	258	rare		0	C	GW	FALSE
+1	Scrubland	Land — Plains Swamp	lea	Limited Edition Alpha	1993/8/5	281	rare		0	C	WB	TRUE
+2	Desolation Angel	Creature — Angel	apc	Apocalypse	2001/6/4	38	rare	{3}{B}{B}	5	B	WB	FALSE
+3	Gerrard's Verdict	Sorcery	apc	Apocalypse	2001/6/4	102	uncommon	{W}{B}	2	WB	WB	FALSE
+4	Vindicate	Sorcery	apc	Apocalypse	2001/6/4	126	rare	{1}{W}{B}	3	WB	WB	FALSE
+5	Caves of Koilos	Land	apc	Apocalypse	2001/6/4	140	rare		0	C	WB	FALSE
+6	Orzhov Signet	Artifact	gpt	Guildpact	2006/2/3	155	common	{2}	2	C	WB	FALSE
+7	Godless Shrine	Land — Plains Swamp	gpt	Guildpact	2006/2/3	157	rare		0	C	WB	FALSE
+8	Tidehollow Sculler	Artifact Creature — Zombie	ala	Shards of Alara	2008/10/3	202	uncommon	{W}{B}	2	WB	WB	FALSE
+9	Unburial Rites	Sorcery	isd	Innistrad	2011/9/30	122	uncommon	{4}{B}	5	B	WB	FALSE
+10	Lingering Souls	Sorcery	dka	Dark Ascension	2012/2/3	12	uncommon	{2}{W}	3	W	WB	FALSE
+11	Sorin, Lord of Innistrad	Legendary Planeswalker — Sorin	dka	Dark Ascension	2012/2/3	142	mythic	{2}{W}{B}	4	WB	WB	FALSE
+12	Ashen Rider	Creature — Archon	ths	Theros	2013/9/27	187	mythic	{4}{W}{W}{B}{B}	8	WB	WB	FALSE
+13	Shambling Vent	Land	bfz	Battle for Zendikar	2015/10/2	244	rare		0	C	WB	FALSE
+14	Anguished Unmaking	Instant	soi	Shadows over Innistrad	2016/4/8	242	rare	{1}{W}{B}	3	WB	WB	FALSE
+15	Concealed Courtyard	Land	kld	Kaladesh	2016/9/30	245	rare		0	C	WB	FALSE
+16	Kaya, Orzhov Usurper	Legendary Planeswalker — Kaya	rna	Ravnica Allegiance	2019/1/25	186	mythic	{1}{W}{B}	3	WB	WB	FALSE
+17	Kaya's Wrath	Sorcery	rna	Ravnica Allegiance	2019/1/25	187	rare	{W}{W}{B}{B}	4	WB	WB	FALSE
+18	Cruel Celebrant	Creature — Vampire	war	War of the Spark	2019/5/3	188	uncommon	{W}{B}	2	WB	WB	FALSE
+19	Talisman of Hierarchy	Artifact	mh1	Modern Horizons	2019/6/14	233	uncommon	{2}	2	C	WB	FALSE
+20	Silent Clearing	Land	mh1	Modern Horizons	2019/6/14	246	rare		0	C	WB	FALSE
+21	Corpse Knight	Creature — Zombie Knight	m20	Core Set 2020	2019/7/12	206	uncommon	{W}{B}	2	WB	WB	FALSE
+22	General Kudro of Drannith	Legendary Creature — Human Soldier	iko	Ikoria: Lair of Behemoths	2020/4/24	187	mythic	{1}{W}{B}	3	WB	WB	FALSE
+23	Lurrus of the Dream-Den	Legendary Creature — Cat Nightmare	iko	Ikoria: Lair of Behemoths	2020/4/24	226	rare	{1}{W/B}{W/B}	3	WB	WB	FALSE
+24	Brightclimb Pathway	Land	znr	Zendikar Rising	2020/9/25	259	rare		0	C	WB	FALSE
+1	Volcanic Island	Land — Island Mountain	leb	Limited Edition Beta	1993/10/4	287	rare		0	C	UR	TRUE
+2	Fire // Ice	Instant // Instant	apc	Apocalypse	2001/6/4	128	uncommon	{1}{R} // {1}{U}	4	UR	UR	FALSE
+3	Shivan Reef	Land	apc	Apocalypse	2001/6/4	142	rare		0	C	UR	FALSE
+4	Izzet Signet	Artifact	gpt	Guildpact	2006/2/3	152	common	{2}	2	C	UR	FALSE
+5	Steam Vents	Land — Island Mountain	gpt	Guildpact	2006/2/3	164	rare		0	C	UR	FALSE
+6	Goblin Electromancer	Creature — Goblin Wizard	rtr	Return to Ravnica	2012/10/5	163	common	{U}{R}	2	UR	UR	FALSE
+7	Izzet Charm	Instant	rtr	Return to Ravnica	2012/10/5	172	uncommon	{U}{R}	2	UR	UR	FALSE
+8	Ral Zarek	Legendary Planeswalker — Ral	dgm	Dragon's Maze	2013/5/3	94	mythic	{2}{U}{R}	4	UR	UR	FALSE
+9	Dack Fayden	Legendary Planeswalker — Dack	cns	Conspiracy	2014/6/6	42	mythic	{1}{U}{R}	3	UR	UR	FALSE
+10	Wandering Fumarole	Land	ogw	Oath of the Gatewatch	2016/1/22	182	rare		0	C	UR	FALSE
+11	Saheeli Rai	Legendary Planeswalker — Saheeli	kld	Kaladesh	2016/9/30	186	mythic	{1}{U}{R}	3	UR	UR	FALSE
+12	Spirebluff Canal	Land	kld	Kaladesh	2016/9/30	249	rare		0	C	UR	FALSE
+13	Saheeli, the Gifted	Legendary Planeswalker — Saheeli	c18	Commander 2018	2018/8/9	44	mythic	{2}{U}{R}	4	UR	UR	FALSE
+14	Thousand-Year Storm	Enchantment	grn	Guilds of Ravnica	2018/10/5	207	mythic	{4}{U}{R}	6	UR	UR	FALSE
+15	Expansion // Explosion	Instant // Instant	grn	Guilds of Ravnica	2018/10/5	224	rare	{U/R}{U/R} // {X}{U}{U}{R}{R}	6	UR	UR	FALSE
+16	Saheeli, Sublime Artificer	Legendary Planeswalker — Saheeli	war	War of the Spark	2019/5/3	234	uncommon	{1}{U/R}{U/R}	3	UR	UR	FALSE
+17	Talisman of Creativity	Artifact	mh1	Modern Horizons	2019/6/14	231	uncommon	{2}	2	C	UR	FALSE
+18	Fiery Islet	Land	mh1	Modern Horizons	2019/6/14	238	rare		0	C	UR	FALSE
+19	The Royal Scions	Legendary Planeswalker — Will Rowan	eld	Throne of Eldraine	2019/10/4	199	mythic	{1}{U}{R}	3	UR	UR	FALSE
+20	Lutri, the Spellchaser	Legendary Creature — Elemental Otter	iko	Ikoria: Lair of Behemoths	2020/4/24	227	rare	{1}{U/R}{U/R}	3	UR	UR	FALSE
+21	Riverglide Pathway	Land	znr	Zendikar Rising	2020/9/25	264	rare		0	C	UR	FALSE
+1	Bayou	Land — Swamp Forest	lea	Limited Edition Alpha	1993/8/5	278	rare		0	C	BG	TRUE
+2	Elves of Deep Shadow	Creature — Elf Druid	drk	The Dark	1994/8/1	76	uncommon	{G}	1	G	BG	FALSE
+3	Pernicious Deed	Enchantment	apc	Apocalypse	2001/6/4	114	rare	{1}{B}{G}	3	BG	BG	FALSE
+4	Life // Death	Sorcery // Sorcery	apc	Apocalypse	2001/6/4	130	uncommon	{G} // {1}{B}	3	BG	BG	FALSE
+5	Llanowar Wastes	Land	apc	Apocalypse	2001/6/4	141	rare		0	C	BG	FALSE
+6	Golgari Signet	Artifact	rav	Ravnica: City of Guilds	2005/10/7	262	common	{2}	2	C	BG	FALSE
+7	Overgrown Tomb	Land — Swamp Forest	rav	Ravnica: City of Guilds	2005/10/7	279	rare		0	C	BG	FALSE
+8	Maelstrom Pulse	Sorcery	arb	Alara Reborn	2009/4/30	92	rare	{1}{B}{G}	3	BG	BG	FALSE
+9	Garruk Relentless	Legendary Planeswalker — Garruk	isd	Innistrad	2011/9/30	181	mythic	{3}{G}	4	G	BG	FALSE
+10	Woodland Cemetery	Land	isd	Innistrad	2011/9/30	249	rare		0	C	BG	FALSE
+11	Abrupt Decay	Instant	rtr	Return to Ravnica	2012/10/5	141	rare	{B}{G}	2	BG	BG	FALSE
+12	Lotleth Troll	Creature — Zombie Troll	rtr	Return to Ravnica	2012/10/5	177	rare	{B}{G}	2	BG	BG	FALSE
+13	Deathrite Shaman	Creature — Elf Shaman	rtr	Return to Ravnica	2012/10/5	213	rare	{B/G}	1	BG	BG	FALSE
+14	Hissing Quagmire	Land	ogw	Oath of the Gatewatch	2016/1/22	171	rare		0	C	BG	FALSE
+15	Blooming Marsh	Land	kld	Kaladesh	2016/9/30	243	rare		0	C	BG	FALSE
+16	Assassin's Trophy	Instant	grn	Guilds of Ravnica	2018/10/5	152	rare	{B}{G}	2	BG	BG	FALSE
+17	Vraska, Golgari Queen	Legendary Planeswalker — Vraska	grn	Guilds of Ravnica	2018/10/5	213	mythic	{2}{B}{G}	4	BG	BG	FALSE
+18	Casualties of War	Sorcery	war	War of the Spark	2019/5/3	187	rare	{2}{B}{B}{G}{G}	6	BG	BG	FALSE
+19	Talisman of Resilience	Artifact	mh1	Modern Horizons	2019/6/14	234	uncommon	{2}	2	C	BG	FALSE
+20	Nurturing Peatland	Land	mh1	Modern Horizons	2019/6/14	243	rare		0	C	BG	FALSE
+21	Fiend Artisan	Creature — Nightmare	iko	Ikoria: Lair of Behemoths	2020/4/24	220	mythic	{B/G}{B/G}	2	BG	BG	FALSE
+22	Umori, the Collector	Legendary Creature — Ooze	iko	Ikoria: Lair of Behemoths	2020/4/24	231	rare	{2}{B/G}{B/G}	4	BG	BG	FALSE
+1	Plateau	Land — Mountain Plains	lea	Limited Edition Alpha	1993/8/5	279	rare		0	C	RW	TRUE
+2	Battlefield Forge	Land	apc	Apocalypse	2001/6/4	139	rare		0	C	RW	FALSE
+3	Lightning Helix	Instant	rav	Ravnica: City of Guilds	2005/10/7	213	uncommon	{R}{W}	2	RW	RW	FALSE
+4	Boros Signet	Artifact	rav	Ravnica: City of Guilds	2005/10/7	255	common	{2}	2	C	RW	FALSE
+5	Sacred Foundry	Land — Mountain Plains	rav	Ravnica: City of Guilds	2005/10/7	280	rare		0	C	RW	FALSE
+6	Figure of Destiny	Creature — Kithkin	eve	Eventide	2008/7/25	139	rare	{R/W}	1	RW	RW	FALSE
+7	Ajani Vengeant	Legendary Planeswalker — Ajani	ala	Shards of Alara	2008/10/3	154	mythic	{2}{R}{W}	4	RW	RW	FALSE
+8	Boros Charm	Instant	gtc	Gatecrash	2013/2/1	148	uncommon	{R}{W}	2	RW	RW	FALSE
+9	Wear // Tear	Instant // Instant	dgm	Dragon's Maze	2013/5/3	135	uncommon	{1}{R} // {W}	3	RW	RW	FALSE
+10	Needle Spires	Land	ogw	Oath of the Gatewatch	2016/1/22	175	rare		0	C	RW	FALSE
+11	Archangel Avacyn	Legendary Creature — Angel	soi	Shadows over Innistrad	2016/4/8	5	mythic	{3}{W}{W}	5	W	RW	FALSE
+12	Nahiri, the Harbinger	Legendary Planeswalker — Nahiri	soi	Shadows over Innistrad	2016/4/8	247	mythic	{2}{R}{W}	4	RW	RW	FALSE
+13	Inspiring Vantage	Land	kld	Kaladesh	2016/9/30	246	rare		0	C	RW	FALSE
+14	Aurelia, Exemplar of Justice	Legendary Creature — Angel	grn	Guilds of Ravnica	2018/10/5	153	mythic	{2}{R}{W}	4	RW	RW	FALSE
+15	Talisman of Conviction	Artifact	mh1	Modern Horizons	2019/6/14	230	uncommon	{2}	2	C	RW	FALSE
+16	Sunbaked Canyon	Land	mh1	Modern Horizons	2019/6/14	247	rare		0	C	RW	FALSE
+17	Skyknight Vanguard	Creature — Human Knight	m20	Core Set 2020	2019/7/12	218	uncommon	{R}{W}	2	RW	RW	FALSE
+18	Zirda, the Dawnwaker	Legendary Creature — Elemental Fox	iko	Ikoria: Lair of Behemoths	2020/4/24	233	rare	{1}{R/W}{R/W}	3	RW	RW	FALSE
+19	Needleverge Pathway	Land	znr	Zendikar Rising	2020/9/25	263	rare		0	C	RW	FALSE
+1	Tropical Island	Land — Forest Island	lea	Limited Edition Alpha	1993/8/5	283	rare		0	C	GU	TRUE
+2	Mystic Snake	Creature — Snake	apc	Apocalypse	2001/6/4	112	rare	{1}{G}{U}{U}	4	GU	GU	FALSE
+3	Yavimaya Coast	Land	apc	Apocalypse	2001/6/4	143	rare		0	C	GU	FALSE
+4	Trygon Predator	Creature — Beast	dis	Dissension	2006/5/5	133	uncommon	{1}{G}{U}	3	GU	GU	FALSE
+5	Simic Signet	Artifact	dis	Dissension	2006/5/5	166	common	{2}	2	C	GU	FALSE
+6	Breeding Pool	Land — Forest Island	dis	Dissension	2006/5/5	172	rare		0	C	GU	FALSE
+7	Edric, Spymaster of Trest	Legendary Creature — Elf Rogue	cmd	Commander 2011	2011/6/17	196	rare	{1}{G}{U}	3	GU	GU	FALSE
+8	Hinterland Harbor	Land	isd	Innistrad	2011/9/30	241	rare		0	C	GU	FALSE
+9	Kiora's Follower	Creature — Merfolk	bng	Born of the Gods	2014/2/7	150	uncommon	{G}{U}	2	GU	GU	FALSE
+10	Bounding Krasis	Creature — Fish Lizard	ori	Magic Origins	2015/7/17	212	uncommon	{1}{G}{U}	3	GU	GU	FALSE
+11	Lumbering Falls	Land	bfz	Battle for Zendikar	2015/10/2	239	rare		0	C	GU	FALSE
+12	Botanical Sanctum	Land	kld	Kaladesh	2016/9/30	244	rare		0	C	GU	FALSE
+13	Nissa, Steward of Elements	Legendary Planeswalker — Nissa	akh	Amonkhet	2017/4/28	204	mythic	{X}{G}{U}	2	GU	GU	FALSE
+14	Hydroid Krasis	Creature — Jellyfish Hydra Beast	rna	Ravnica Allegiance	2019/1/25	183	mythic	{X}{G}{U}	2	GU	GU	FALSE
+15	Prime Speaker Vannifar	Legendary Creature — Elf Ooze Wizard	rna	Ravnica Allegiance	2019/1/25	195	mythic	{2}{G}{U}	4	GU	GU	FALSE
+16	Talisman of Curiosity	Artifact	mh1	Modern Horizons	2019/6/14	232	uncommon	{2}	2	C	GU	FALSE
+17	Waterlogged Grove	Land	mh1	Modern Horizons	2019/6/14	249	rare		0	C	GU	FALSE
+18	Oko, Thief of Crowns	Legendary Planeswalker — Oko	eld	Throne of Eldraine	2019/10/4	197	mythic	{1}{G}{U}	3	GU	GU	FALSE
+19	Uro, Titan of Nature's Wrath	Legendary Creature — Elder Giant	thb	Theros Beyond Death	2020/1/24	229	mythic	{1}{G}{U}	3	GU	GU	FALSE
+20	Keruga, the Macrosage	Legendary Creature — Dinosaur Hippo	iko	Ikoria: Lair of Behemoths	2020/4/24	225	rare	{3}{G/U}{G/U}	5	GU	GU	FALSE
+1	Sphinx of the Steel Wind	Artifact Creature — Sphinx	arb	Alara Reborn	2009/4/30	110	mythic	{5}{W}{U}{B}	8	WUB	WUB	FALSE
+2	Aminatou, the Fateshifter	Legendary Planeswalker — Aminatou	c18	Commander 2018	2018/8/9	37	mythic	{W}{U}{B}	3	WUB	WUB	FALSE
+1	Nicol Bolas, the Ravager	Legendary Creature — Elder Dragon	m19	Core Set 2019	2018/7/13	218	mythic	{1}{U}{B}{R}	4	UBR	UBR	FALSE
+1	Hellkite Overlord	Creature — Dragon	ala	Shards of Alara	2008/10/3	172	mythic	{4}{B}{R}{R}{G}	8	BRG	BRG	FALSE
+1	Noble Hierarch	Creature — Human Druid	con	Conflux	2009/2/6	87	rare	{G}	1	G	GWU	FALSE
+1	Warden of the First Tree	Creature — Human	frf	Fate Reforged	2015/1/23	143	mythic	{G}	1	G	WBG	FALSE
+2	Indatha Triome	Land — Plains Swamp Forest	iko	Ikoria: Lair of Behemoths	2020/4/24	248	rare		0	C	WBG	FALSE
+1	Soulfire Grand Master	Creature — Human Monk	frf	Fate Reforged	2015/1/23	27	mythic	{1}{W}	2	W	URW	FALSE
+2	Raugrin Triome	Land — Island Mountain Plains	iko	Ikoria: Lair of Behemoths	2020/4/24	251	rare		0	C	URW	FALSE
+1	Tasigur, the Golden Fang	Legendary Creature — Human Shaman	frf	Fate Reforged	2015/1/23	87	rare	{5}{B}	6	B	BGU	FALSE
+2	Leovold, Emissary of Trest	Legendary Creature — Elf Advisor	cn2	Conspiracy: Take the Crown	2016/8/26	77	mythic	{B}{G}{U}	3	BGU	BGU	FALSE
+3	Zagoth Triome	Land — Swamp Forest Island	iko	Ikoria: Lair of Behemoths	2020/4/24	259	rare		0	C	BGU	FALSE
+1	Alesha, Who Smiles at Death	Legendary Creature — Human Warrior	frf	Fate Reforged	2015/1/23	90	rare	{2}{R}	3	R	RWB	FALSE
+2	Savai Triome	Land — Mountain Plains Swamp	iko	Ikoria: Lair of Behemoths	2020/4/24	253	rare		0	C	RWB	FALSE
+1	Ketria Triome	Land — Forest Island Mountain	iko	Ikoria: Lair of Behemoths	2020/4/24	250	rare		0	C	GUR	FALSE
+1	Omnath, Locus of Creation	Legendary Creature — Elemental	znr	Zendikar Rising	2020/9/25	232	mythic	{R}{G}{W}{U}	4	RGWU	RGWU	FALSE
+1	Progenitus	Legendary Creature — Hydra Avatar	con	Conflux	2009/2/6	121	mythic	{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}	10	WUBRG	WUBRG	FALSE
+2	Najeela, the Blade-Blossom	Legendary Creature — Human Warrior	bbd	Battlebond	2018/6/8	62	mythic	{2}{R}	3	R	WUBRG	FALSE
+3	Niv-Mizzet Reborn	Legendary Creature — Dragon Avatar	war	War of the Spark	2019/5/3	208	mythic	{W}{U}{B}{R}{G}	5	WUBRG	WUBRG	FALSE
+4	Golos, Tireless Pilgrim	Legendary Artifact Creature — Scout	m20	Core Set 2020	2019/7/12	226	rare	{5}	5	C	WUBRG	FALSE
+5	Jegantha, the Wellspring	Legendary Creature — Elemental Elk	iko	Ikoria: Lair of Behemoths	2020/4/24	222	rare	{4}{R/G}	5	RG	WUBRG	FALSE
+1	Triskelion	Artifact Creature — Construct	atq	Antiquities	1994/3/4	73	rare	{6}	6	C	C	FALSE
+2	Metalworker	Artifact Creature — Construct	uds	Urza's Destiny	1999/6/7	135	rare	{3}	3	C	C	TRUE
+3	Solemn Simulacrum	Artifact Creature — Golem	mrd	Mirrodin	2003/10/2	245	rare	{4}	4	C	C	FALSE
+4	Sundering Titan	Artifact Creature — Golem	dst	Darksteel	2004/2/6	146	rare	{8}	8	C	C	FALSE
+5	Lodestone Golem	Artifact Creature — Golem	wwk	Worldwake	2010/2/5	127	rare	{4}	4	C	C	FALSE
+6	Emrakul, the Aeons Torn	Legendary Creature — Eldrazi	roe	Rise of the Eldrazi	2010/4/23	4	mythic	{15}	15	C	C	FALSE
+7	Kozilek, Butcher of Truth	Legendary Creature — Eldrazi	roe	Rise of the Eldrazi	2010/4/23	6	mythic	{10}	10	C	C	FALSE
+8	Ulamog, the Infinite Gyre	Legendary Creature — Eldrazi	roe	Rise of the Eldrazi	2010/4/23	12	mythic	{11}	11	C	C	FALSE
+9	Kuldotha Forgemaster	Artifact Creature — Construct	som	Scars of Mirrodin	2010/10/1	169	rare	{5}	5	C	C	FALSE
+10	Myr Battlesphere	Artifact Creature — Myr Construct	som	Scars of Mirrodin	2010/10/1	180	rare	{7}	7	C	C	FALSE
+11	Wurmcoil Engine	Artifact Creature — Wurm	som	Scars of Mirrodin	2010/10/1	223	mythic	{6}	6	C	C	FALSE
+12	Blightsteel Colossus	Artifact Creature — Golem	mbs	Mirrodin Besieged	2011/2/4	99	mythic	{12}	12	C	C	FALSE
+13	Phyrexian Revoker	Artifact Creature — Horror	mbs	Mirrodin Besieged	2011/2/4	122	rare	{2}	2	C	C	FALSE
+14	Hangarback Walker	Artifact Creature — Construct	ori	Magic Origins	2015/7/17	229	rare	{X}{X}	0	C	C	FALSE
+15	Ulamog, the Ceaseless Hunger	Legendary Creature — Eldrazi	bfz	Battle for Zendikar	2015/10/2	15	mythic	{10}	10	C	C	FALSE
+16	Emrakul, the Promised End	Legendary Creature — Eldrazi	emn	Eldritch Moon	2016/7/22	6	mythic	{13}	13	C	C	FALSE
+17	Metallic Mimic	Artifact Creature — Shapeshifter	aer	Aether Revolt	2017/1/20	164	rare	{2}	2	C	C	FALSE
+18	Walking Ballista	Artifact Creature — Construct	aer	Aether Revolt	2017/1/20	181	rare	{X}{X}	0	C	C	FALSE
+19	Ancient Stone Idol	Artifact Creature — Golem	c18	Commander 2018	2018/8/9	53	rare	{10}	10	C	C	FALSE
+20	Lesser Masticore	Artifact Creature — Masticore	mh1	Modern Horizons	2019/6/14	225	uncommon	{2}	2	C	C	FALSE
+21	Stonecoil Serpent	Artifact Creature — Snake	eld	Throne of Eldraine	2019/10/4	235	rare	{X}	0	C	C	FALSE
+1	Karn Liberated	Legendary Planeswalker — Karn	nph	New Phyrexia	2011/5/13	1	mythic	{7}	7	C	C	FALSE
+2	Ugin, the Spirit Dragon	Legendary Planeswalker — Ugin	frf	Fate Reforged	2015/1/23	1	mythic	{8}	8	C	C	FALSE
+3	Karn, Scion of Urza	Legendary Planeswalker — Karn	dom	Dominaria	2018/4/27	1	mythic	{4}	4	C	C	FALSE
+1	Basalt Monolith	Artifact	lea	Limited Edition Alpha	1993/8/5	231	uncommon	{3}	3	C	C	FALSE
+2	Black Lotus	Artifact	lea	Limited Edition Alpha	1993/8/5	232	rare	{0}	0	C	C	TRUE
+3	Icy Manipulator	Artifact	lea	Limited Edition Alpha	1993/8/5	248	uncommon	{4}	4	C	C	FALSE
+4	Mana Vault	Artifact	lea	Limited Edition Alpha	1993/8/5	259	rare	{1}	1	C	C	FALSE
+5	Sol Ring	Artifact	lea	Limited Edition Alpha	1993/8/5	269	uncommon	{1}	1	C	C	FALSE
+6	Time Vault	Artifact	lea	Limited Edition Alpha	1993/8/5	274	rare	{2}	2	C	C	TRUE
+7	Winter Orb	Artifact	lea	Limited Edition Alpha	1993/8/5	275	rare	{2}	2	C	C	FALSE
+8	Ashnod's Altar	Artifact	atq	Antiquities	1994/3/4	38	uncommon	{3}	3	C	C	FALSE
+9	Mana Crypt	Artifact	phpr	HarperPrism Book Promos	1995/4/1	5	rare	{0}	0	C	C	FALSE
+10	Jeweled Amulet	Artifact	ice	Ice Age	1995/6/1	326	uncommon	{0}	0	C	C	FALSE
+11	Zuran Orb	Artifact	ice	Ice Age	1995/6/1	350	uncommon	{0}	0	C	C	FALSE
+12	Lion's Eye Diamond	Artifact	mir	Mirage	1996/10/8	307	rare	{0}	0	C	C	TRUE
+13	Mind Stone	Artifact	wth	Weatherlight	1997/6/9	153	common	{2}	2	C	C	FALSE
+14	Altar of Dementia	Artifact	tmp	Tempest	1997/10/14	276	rare	{2}	2	C	C	FALSE
+15	Jinxed Idol	Artifact	tmp	Tempest	1997/10/14	293	rare	{2}	2	C	C	FALSE
+16	Lotus Petal	Artifact	tmp	Tempest	1997/10/14	294	common	{0}	0	C	C	FALSE
+17	Scroll Rack	Artifact	tmp	Tempest	1997/10/14	308	rare	{2}	2	C	C	FALSE
+18	Mox Diamond	Artifact	sth	Stronghold	1998/3/2	138	rare	{0}	0	C	C	TRUE
+19	Erratic Portal	Artifact	exo	Exodus	1998/6/15	132	rare	{4}	4	C	C	FALSE
+20	Smokestack	Artifact	usg	Urza's Saga	1998/10/12	309	rare	{4}	4	C	C	FALSE
+21	Worn Powerstone	Artifact	usg	Urza's Saga	1998/10/12	318	uncommon	{3}	3	C	C	FALSE
+22	Grim Monolith	Artifact	ulg	Urza's Legacy	1999/2/15	126	rare	{2}	2	C	C	TRUE
+23	Memory Jar	Artifact	ulg	Urza's Legacy	1999/2/15	129	rare	{5}	5	C	C	TRUE
+24	Quicksilver Amulet	Artifact	ulg	Urza's Legacy	1999/2/15	130	rare	{4}	4	C	C	FALSE
+25	Powder Keg	Artifact	uds	Urza's Destiny	1999/6/7	136	rare	{2}	2	C	C	TRUE
+26	Thran Dynamo	Artifact	uds	Urza's Destiny	1999/6/7	139	uncommon	{4}	4	C	C	FALSE
+27	Tangle Wire	Artifact	nem	Nemesis	2000/2/14	139	rare	{3}	3	C	C	FALSE
+28	Phyrexian Altar	Artifact	inv	Invasion	2000/10/2	306	rare	{3}	3	C	C	FALSE
+29	Bonesplitter	Artifact — Equipment	mrd	Mirrodin	2003/10/2	146	common	{1}	1	C	C	FALSE
+30	Chrome Mox	Artifact	mrd	Mirrodin	2003/10/2	152	rare	{0}	0	C	C	FALSE
+31	Gilded Lotus	Artifact	mrd	Mirrodin	2003/10/2	175	rare	{5}	5	C	C	FALSE
+32	Lightning Greaves	Artifact — Equipment	mrd	Mirrodin	2003/10/2	199	uncommon	{2}	2	C	C	FALSE
+33	Mindslaver	Legendary Artifact	mrd	Mirrodin	2003/10/2	206	rare	{6}	6	C	C	FALSE
+34	Oblivion Stone	Artifact	mrd	Mirrodin	2003/10/2	222	rare	{3}	3	C	C	FALSE
+35	Panoptic Mirror	Artifact	dst	Darksteel	2004/2/6	136	rare	{5}	5	C	C	FALSE
+36	Skullclamp	Artifact — Equipment	dst	Darksteel	2004/2/6	140	uncommon	{1}	1	C	C	FALSE
+37	Spawning Pit	Artifact	dst	Darksteel	2004/2/6	141	uncommon	{2}	2	C	C	FALSE
+38	Sword of Fire and Ice	Artifact — Equipment	dst	Darksteel	2004/2/6	148	rare	{3}	3	C	C	FALSE
+39	Sword of Light and Shadow	Artifact — Equipment	dst	Darksteel	2004/2/6	149	rare	{3}	3	C	C	FALSE
+40	Blasting Station	Artifact	5dn	Fifth Dawn	2004/6/4	107	uncommon	{3}	3	C	C	FALSE
+41	Crucible of Worlds	Artifact	5dn	Fifth Dawn	2004/6/4	114	rare	{3}	3	C	C	FALSE
+42	Engineered Explosives	Artifact	5dn	Fifth Dawn	2004/6/4	118	rare	{X}	0	C	C	FALSE
+43	Grafted Wargear	Artifact — Equipment	5dn	Fifth Dawn	2004/6/4	126	uncommon	{3}	3	C	C	FALSE
+44	Guardian Idol	Artifact	5dn	Fifth Dawn	2004/6/4	128	uncommon	{2}	2	C	C	FALSE
+45	Staff of Domination	Artifact	5dn	Fifth Dawn	2004/6/4	156	rare	{3}	3	C	C	FALSE
+46	Vedalken Shackles	Artifact	5dn	Fifth Dawn	2004/6/4	164	rare	{3}	3	C	C	FALSE
+47	Sensei's Divining Top	Artifact	chk	Champions of Kamigawa	2004/10/1	268	uncommon	{1}	1	C	C	FALSE
+48	Umezawa's Jitte	Legendary Artifact — Equipment	bok	Betrayers of Kamigawa	2005/2/4	163	rare	{2}	2	C	C	FALSE
+49	Pithing Needle	Artifact	sok	Saviors of Kamigawa	2005/6/3	158	rare	{1}	1	C	C	FALSE
+50	Coldsteel Heart	Snow Artifact	csp	Coldsnap	2006/7/21	136	uncommon	{2}	2	C	C	FALSE
+51	Lotus Bloom	Artifact	tsp	Time Spiral	2006/10/6	259	rare		0	C	C	FALSE
+52	Coalition Relic	Artifact	fut	Future Sight	2007/5/4	161	rare	{3}	3	C	C	FALSE
+53	Relic of Progenitus	Artifact	ala	Shards of Alara	2008/10/3	218	common	{1}	1	C	C	FALSE
+54	Everflowing Chalice	Artifact	wwk	Worldwake	2010/2/5	123	uncommon	{0}	0	C	C	FALSE
+55	Mimic Vat	Artifact	som	Scars of Mirrodin	2010/10/1	175	rare	{3}	3	C	C	FALSE
+56	Nim Deathmantle	Artifact — Equipment	som	Scars of Mirrodin	2010/10/1	188	rare	{2}	2	C	C	FALSE
+57	Sword of Body and Mind	Artifact — Equipment	som	Scars of Mirrodin	2010/10/1	208	mythic	{3}	3	C	C	FALSE
+58	Sword of Feast and Famine	Artifact — Equipment	mbs	Mirrodin Besieged	2011/2/4	138	mythic	{3}	3	C	C	FALSE
+59	Batterskull	Artifact — Equipment	nph	New Phyrexia	2011/5/13	130	mythic	{5}	5	C	C	FALSE
+60	Shrine of Burning Rage	Artifact	nph	New Phyrexia	2011/5/13	153	uncommon	{2}	2	C	C	FALSE
+61	Sword of War and Peace	Artifact — Equipment	nph	New Phyrexia	2011/5/13	161	mythic	{3}	3	C	C	FALSE
+62	Coercive Portal	Artifact	cns	Conspiracy	2014/6/6	56	mythic	{4}	4	C	C	FALSE
+63	Altar of the Brood	Artifact	ktk	Khans of Tarkir	2014/9/26	216	rare	{1}	1	C	C	FALSE
+64	Hedron Archive	Artifact	bfz	Battle for Zendikar	2015/10/2	223	uncommon	{4}	4	C	C	FALSE
+65	Smuggler's Copter	Artifact — Vehicle	kld	Kaladesh	2016/9/30	235	rare	{2}	2	C	C	FALSE
+66	Mirage Mirror	Artifact	hou	Hour of Devastation	2017/7/14	165	rare	{3}	3	C	C	FALSE
+67	Heirloom Blade	Artifact — Equipment	c17	Commander 2017	2017/8/25	52	uncommon	{3}	3	C	C	FALSE
+68	Sorcerous Spyglass	Artifact	xln	Ixalan	2017/9/29	248	rare	{2}	2	C	C	FALSE
+69	Treasure Map	Artifact	xln	Ixalan	2017/9/29	250	rare	{2}	2	C	C	FALSE
+70	Retrofitter Foundry	Artifact	c18	Commander 2018	2018/8/9	57	rare	{1}	1	C	C	FALSE
+71	Sword of Sinew and Steel	Artifact — Equipment	mh1	Modern Horizons	2019/6/14	228	mythic	{3}	3	C	C	FALSE
+72	Sword of Truth and Justice	Artifact — Equipment	mh1	Modern Horizons	2019/6/14	229	mythic	{3}	3	C	C	FALSE
+73	Manifold Key	Artifact	m20	Core Set 2020	2019/7/12	230	uncommon	{1}	1	C	C	FALSE
+74	Shadowspear	Legendary Artifact — Equipment	thb	Theros Beyond Death	2020/1/24	236	rare	{1}	1	C	C	FALSE
+75	Skyclave Relic	Artifact	znr	Zendikar Rising	2020/9/25	252	rare	{3}	3	C	C	FALSE
+1	Bazaar of Baghdad	Land	arn	Arabian Nights	1993/12/17	70	uncommon		0	C	C	TRUE
+2	City of Brass	Land	arn	Arabian Nights	1993/12/17	71	uncommon		0	C	C	FALSE
+3	Library of Alexandria	Land	arn	Arabian Nights	1993/12/17	76	uncommon		0	C	C	TRUE
+4	Mishra's Workshop	Land	atq	Antiquities	1994/3/4	81	rare		0	C	C	TRUE
+5	Mishra's Factory	Land	atq	Antiquities	1994/3/4	80a	uncommon		0	C	C	FALSE
+6	Strip Mine	Land	atq	Antiquities	1994/3/4	82a	uncommon		0	C	C	FALSE
+7	Maze of Ith	Land	drk	The Dark	1994/8/1	117	uncommon		0	C	C	FALSE
+8	Bad River	Land	mir	Mirage	1996/10/8	324	uncommon		0	C	C	FALSE
+9	Flood Plain	Land	mir	Mirage	1996/10/8	326	uncommon		0	C	C	FALSE
+10	Grasslands	Land	mir	Mirage	1996/10/8	327	uncommon		0	C	C	FALSE
+11	Mountain Valley	Land	mir	Mirage	1996/10/8	328	uncommon		0	C	C	FALSE
+12	Rocky Tar Pit	Land	mir	Mirage	1996/10/8	329	uncommon		0	C	C	FALSE
+13	Undiscovered Paradise	Land	vis	Visions	1997/2/3	167	rare		0	C	C	TRUE
+14	Gemstone Mine	Land	wth	Weatherlight	1997/6/9	164	uncommon		0	C	C	FALSE
+15	Ancient Tomb	Land	tmp	Tempest	1997/10/14	315	uncommon		0	C	C	FALSE
+16	Reflecting Pool	Land	tmp	Tempest	1997/10/14	322	rare		0	C	C	FALSE
+17	Wasteland	Land	tmp	Tempest	1997/10/14	330	uncommon		0	C	C	FALSE
+18	Dust Bowl	Land	mmq	Mercadian Masques	1999/10/4	316	rare		0	C	C	FALSE
+19	Rishadan Port	Land	mmq	Mercadian Masques	1999/10/4	324	rare		0	C	C	FALSE
+20	Bloodstained Mire	Land	ons	Onslaught	2002/10/7	313	rare		0	C	C	FALSE
+21	Flooded Strand	Land	ons	Onslaught	2002/10/7	316	rare		0	C	C	FALSE
+22	Grand Coliseum	Land	ons	Onslaught	2002/10/7	319	rare		0	C	C	FALSE
+23	Polluted Delta	Land	ons	Onslaught	2002/10/7	321	rare		0	C	C	FALSE
+24	Windswept Heath	Land	ons	Onslaught	2002/10/7	328	rare		0	C	C	FALSE
+25	Wooded Foothills	Land	ons	Onslaught	2002/10/7	330	rare		0	C	C	FALSE
+26	Dark Depths	Legendary Snow Land	csp	Coldsnap	2006/7/21	145	rare		0	C	C	FALSE
+27	Terramorphic Expanse	Land	tsp	Time Spiral	2006/10/6	279	common		0	C	C	FALSE
+28	Mutavault	Land	mor	Morningtide	2008/2/1	148	rare		0	C	C	FALSE
+29	Arid Mesa	Land	zen	Zendikar	2009/10/2	211	rare		0	C	C	FALSE
+30	Marsh Flats	Land	zen	Zendikar	2009/10/2	219	rare		0	C	C	FALSE
+31	Misty Rainforest	Land	zen	Zendikar	2009/10/2	220	rare		0	C	C	FALSE
+32	Scalding Tarn	Land	zen	Zendikar	2009/10/2	223	rare		0	C	C	FALSE
+33	Verdant Catacombs	Land	zen	Zendikar	2009/10/2	229	rare		0	C	C	FALSE
+34	Evolving Wilds	Land	roe	Rise of the Eldrazi	2010/4/23	228	common		0	C	C	FALSE
+35	Thespian's Stage	Land	gtc	Gatecrash	2013/2/1	248	rare		0	C	C	FALSE
+36	Nykthos, Shrine to Nyx	Legendary Land	ths	Theros	2013/9/27	223	rare		0	C	C	FALSE
+37	Mana Confluence	Land	jou	Journey into Nyx	2014/5/2	163	rare		0	C	C	FALSE
+38	Ash Barrens	Land	c16	Commander 2016	2016/11/11	56	common		0	C	C	FALSE
+39	Field of Ruin	Land	xln	Ixalan	2017/9/29	254	uncommon		0	C	C	FALSE
+40	Blast Zone	Land	war	War of the Spark	2019/5/3	244	rare		0	C	C	FALSE
+41	Prismatic Vista	Land	mh1	Modern Horizons	2019/6/14	244	rare		0	C	C	FALSE
+42	Fabled Passage	Land	eld	Throne of Eldraine	2019/10/4	244	rare		0	C	C	FALSE
