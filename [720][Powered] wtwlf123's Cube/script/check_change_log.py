@@ -10,7 +10,7 @@ cnt_del = 0
 cnt_rep = 0
 
 cube_cards = {}
-change_log_file = open('datas/change_log')
+change_log_file = open("../[720][Powered] wtwlf123's Cube - change_log.txt")
 for line in change_log_file:
     line = line.strip()
     if not line or line[0] not in ['>', '+', '-']:
@@ -51,7 +51,7 @@ change_log_file.close()
 assert cnt_add - cnt_del == 720
 
 cur_cube_list = set()
-cur_cube_list_file = open('datas/cur_cube_cards')
+cur_cube_list_file = open("../[720][Powered] wtwlf123's Cube.txt")
 for line in cur_cube_list_file:
     cur_cube_list.add(line.strip())
 cur_cube_list_file.close()
@@ -63,12 +63,17 @@ for card in cube_cards:
     if cube_cards[card] == 1 and card not in cur_cube_list:
         print "change log extra", card
 
+power720_cube_list_file = open("../[720][Powered] wtwlf123's Cube - all.txt", 'w')
+for card in cube_cards:
+    power720_cube_list_file.write(card+'\n')
+power720_cube_list_file.close()
+
 to_collect_cards = set()
-to_collect_cards_file = open('datas/sorted_cards')
+to_collect_cards_file = open("../../cube_cards.txt")
 for line in to_collect_cards_file:
-    to_collect_cards.add(line.split('\t')[0])
+    to_collect_cards.add(line.split('\t')[1])
 to_collect_cards_file.close()
 
-for card in cube_cards:
-    if card not in to_collect_cards:
-        print 'to collect cards add', card
+for card in to_collect_cards:
+    if card not in cube_cards and card != 'name':
+        print 'not in power720', card
