@@ -127,6 +127,7 @@ Inquisition of Kozilek
 Krenko, Mob Boss
 Gilded Goose
 Mind Twist
+Skyclave Apparition
 Nissa, Who Shakes the World
 Abbot of Keral Keep
 Acidic Slime
@@ -450,6 +451,7 @@ Nissa, Voice of Zendikar
 Lotus Cobra
 Catastrophe
 Lurrus of the Dream-Den
+Stonecoil Serpent
 Flash
 Steward of Solidarity
 Memory Jar
@@ -639,6 +641,7 @@ Puppeteer Clique
 Kalitas, Traitor of Ghet
 Mutavault
 Darkslick Shores
+Rick, Steadfast Leader
 Empty the Warrens
 Shambling Vent
 Embercleave
@@ -687,6 +690,7 @@ Splinter Twin
 Lodestone Golem
 Goblin Engineer
 Llanowar Wastes
+Putrid Imp
 Spectral Procession
 Oblivion Ring
 Ulamog, the Infinite Gyre

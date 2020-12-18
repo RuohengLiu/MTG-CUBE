@@ -15,7 +15,6 @@ Mishra's Workshop
 Iona, Shield of Emeria
 Beast Within
 Anguished Unmaking
-Putrid Imp
 Glorybringer
 Mizzium Mortars
 Flame Slash
@@ -34,7 +33,7 @@ The Mirari Conjecture
 Honor of the Pure
 Bazaar of Baghdad
 Lapse of Certainty
-Stonecoil Serpent
+Embereth Shieldbreaker // Battle Display
 Harmonize
 Gonti, Lord of Luxury
 Expansion // Explosion
@@ -51,9 +50,10 @@ Soul-Scar Mage
 Nissa, Vastwood Seer
 Ashiok, Nightmare Weaver
 Ashen Rider
+Murderous Rider // Swift End
 Rampaging Ferocidon
-Skyclave Apparition
 Pyroclasm
+Bonecrusher Giant // Stomp
 Spirit of the Labyrinth
 Faith's Fetters
 Freyalise, Llanowar's Fury
@@ -61,6 +61,7 @@ Huntmaster of the Fells
 Wear // Tear
 Thief of Sanity
 Vryn Wingmare
+Brazen Borrower // Petty Theft
 Frost Titan
 Niv-Mizzet Reborn
 Geist of Saint Traft
