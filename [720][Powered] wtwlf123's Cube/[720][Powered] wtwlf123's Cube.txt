@@ -26,9 +26,7 @@ Hero of Bladehold
 Palace Jailer
 Restoration Angel
 Angel of Invention
-Baneslayer Angel
 Karmic Guide
-Lyra Dawnbringer
 Reveillark
 Sun Titan
 Elesh Norn, Grand Cenobite
@@ -142,7 +140,6 @@ Viscera Seer
 Blood Artist
 Bloodghast
 Dark Confidant
-Heir of Falkenrath
 Kitesail Freebooter
 Oona's Prowler
 Pack Rat
@@ -224,7 +221,6 @@ Empty the Warrens
 Flametongue Kavu
 Hellrider
 Pia and Kiran Nalaar
-Ilharg, the Raze-Boar
 Kiki-Jiki, Mirror Breaker
 Siege-Gang Commander
 Thunderblust
@@ -575,17 +571,12 @@ Mindslaver
 Heliod, Sun-Crowned
 Archangel of Thune
 Thassa, Deep-Dwelling
-God-Eternal Kefnet
-Capture of Jingzhou
-Temporal Manipulation
-Time Warp
 Woe Strider
 Underworld Breach
 Renata, Called to the Hunt
 Spike Feeder
 Golos, Tireless Pilgrim
 Scroll Rack
-Panoptic Mirror
 Putrid Goblin
 Uro, Titan of Nature's Wrath
 Thraben Doomsayer
@@ -597,7 +588,6 @@ Krenko, Mob Boss
 Impact Tremors
 Corpse Knight
 Saheeli Rai
-Aminatou, the Fateshifter
 Nicol Bolas, the Ravager
 Altar of the Brood
 Journey to Nowhere
@@ -648,7 +638,6 @@ Vampire Hexmage
 Mirage Mirror
 Dark Depths
 Thespian's Stage
-Flash
 Kroxa, Titan of Death's Hunger
 Champion of the Parish
 Thalia's Lieutenant
@@ -671,7 +660,6 @@ Agadeem's Awakening
 Bloodchief's Thirst
 Kargan Intimidator
 Shatterskull Smashing
-Roil Eruption
 Tangled Florahedron
 Kazandu Mammoth
 Turntimber Symbiosis
@@ -706,15 +694,27 @@ Inspiring Vantage
 Skyclave Cleric
 Spikefield Hazard
 Fatal Push
-Court of Grace
 Hullbreacher
-Court of Cunning
-Fall from Favor
 Jace Beleren
 Opposition Agent
 Sling-Gang Lieutenant
-Custodi Lich
 Magus of the Order
 Green Sun's Zenith
 Birthing Pod
 Prime Speaker Vannifar
+Skyclave Apparition
+Eternal Dragon
+Cavalier of Gales
+Riftwing Cloudskate
+Doom Whisperer
+Hazoret the Fervent
+Putrid Imp
+Fire // Ice
+Rick, Steadfast Leader
+Sea Gate Stormcaller
+Trinket Mage
+Opt
+Impulse
+Force of Negation
+Stonecoil Serpent
+Manifold Key
