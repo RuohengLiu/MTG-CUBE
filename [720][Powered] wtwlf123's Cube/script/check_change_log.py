@@ -67,13 +67,3 @@ power720_cube_list_file = open("../[720][Powered] wtwlf123's Cube - all.txt", 'w
 for card in cube_cards:
     power720_cube_list_file.write(card+'\n')
 power720_cube_list_file.close()
-
-to_collect_cards = set()
-to_collect_cards_file = open("../../cube_cards.txt")
-for line in to_collect_cards_file:
-    to_collect_cards.add(line.split('\t')[1])
-to_collect_cards_file.close()
-
-for card in to_collect_cards:
-    if card not in cube_cards and card != 'name':
-        print 'not in power720', card
