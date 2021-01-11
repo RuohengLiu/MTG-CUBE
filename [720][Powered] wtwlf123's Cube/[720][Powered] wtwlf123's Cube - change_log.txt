@@ -1156,3 +1156,6 @@ Quick Change
 > Time Warp > Force of Negation
 > Aminatou, the Fateshifter > Stonecoil Serpent
 > Panoptic Mirror > Manifold Key
+
+Quick Change
+> Opt > Flash
