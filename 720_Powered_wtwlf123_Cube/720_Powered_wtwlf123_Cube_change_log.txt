@@ -1159,3 +1159,43 @@ Quick Change
 
 Quick Change
 > Opt > Flash
+
+Kaldheim Update & Archetype Adjustments
+> Champion of the Parish > Usher of the Fallen
+> Legion's Landing > Dragon Hunter
+> Steppe Lynx > Soldier of the Pantheon
+> Fearless Fledgling > Skymarcher Aspirant
+> Thalia's Lieutenant > Venerable Knight
+> Finale of Glory > Eldrazi Displacer
+> History of Benalia > Thalia, Heretic Cathar
+> Spectral Procession > Starnheim Unleashed
+> Force of Virtue > Halvar, God of Battle
+> Rick, Steadfast Leader > Doomskar
+> Secure the Wastes > Mystic Gate
+> Eternal Dragon > Sunken Ruins
+> Proteus Staff > Graven Cairns
+> Polymorph > Fire-Lit Thicket
+> Vampire Hexmage > Gnarled Scarhide
+> Kitesail Freebooter > Vampire Lacerator
+> Sling-Gang Lieutenant > Tormented Hero
+> Bastion of Remembrance > Wooded Bastion
+> Xathrid Necromancer > Fetid Heath
+> Release the Gremlins > Stromkirk Noble
+> Tempt with Vengeance > Eidolon of the Great Revel
+> Chandra, Acolyte of Flame > Legion Warboss
+> Reality Scramble > Phoenix of Ash
+> Transmogrify > Twilight Mire
+> Lukka, Coppercoat Outcast > Flooded Grove
+> Mayor of Avabruck > Cascade Bluffs
+> Sprout Swarm > Rugged Prairie
+> Irrigated Farmland > Hengegate Pathway
+> Canyon Slough > Blightstep Pathway
+> Knight of the Reliquary > Qasali Pridemage
+> Grasslands > Razorverge Thicket
+> General Kudro of Drannith > Gerrard's Verdict
+> Woodland Cemetery > Darkbore Pathway
+> Hinterland Harbor > Barkchannel Pathway
+> Aurelia, Exemplar of Justice > Winota, Joiner of Forces
+> Dark Depths > Thought-Knot Seer
+> Thespian's Stage > Reality Smasher
+> Mirage Mirror > Dust Bowl
