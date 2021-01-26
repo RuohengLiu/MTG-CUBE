@@ -13,6 +13,7 @@ Plateau
 Wildfire
 Echo of Eons
 Indatha Triome
+Mystic Gate
 Survival of the Fittest
 Avacyn's Pilgrim
 Lyra Dawnbringer
@@ -27,6 +28,7 @@ Copperline Gorge
 Thalia, Heretic Cathar
 Maze of Ith
 Tattermunge Maniac
+Gnarled Scarhide
 Plague Engineer
 Meloku the Clouded Mirror
 Snapcaster Mage
@@ -104,6 +106,7 @@ Squee, Goblin Nabob
 Abrupt Decay
 Reveillark
 Renegade Rallier
+Rugged Prairie
 Rakdos Cackler
 Gitaxian Probe
 Gush
@@ -111,6 +114,7 @@ Palace Jailer
 Underground River
 Radha, Heart of Keld
 Remand
+Fetid Heath
 Rofellos, Llanowar Emissary
 Breeding Pool
 Talisman of Conviction
@@ -162,6 +166,7 @@ Blade Splicer
 Vampire Hexmage
 Recurring Nightmare
 Curse of Predation
+Graven Cairns
 Woe Strider
 Polymorph
 Through the Breach
@@ -224,6 +229,7 @@ The Great Henge
 Manic Vandal
 Time Walk
 Pia and Kiran Nalaar
+Winota, Joiner of Forces
 Goblin Electromancer
 Jegantha, the Wellspring
 Rankle, Master of Pranks
@@ -302,6 +308,7 @@ Dack Fayden
 Jace, Vryn's Prodigy
 Field of Ruin
 Frantic Search
+Cascade Bluffs
 Leovold, Emissary of Trest
 Plated Geopede
 Diabolic Edict
@@ -321,6 +328,7 @@ Primal Command
 Kaheera, the Orphanguard
 Bolas's Citadel
 Deathrite Shaman
+Starnheim Unleashed
 Brazen Borrower
 Sunbaked Canyon
 Scrapheap Scrounger
@@ -332,6 +340,7 @@ Carnophage
 Dark Ritual
 Mystic Confluence
 Scroll Rack
+Sunken Ruins
 Knight of Autumn
 Time Warp
 Liliana of the Veil
@@ -347,6 +356,7 @@ Magma Jet
 Disenchant
 Akoum Hellhound
 Turnabout
+Reality Smasher
 Deep Analysis
 Thraben Inspector
 Court of Grace
@@ -361,6 +371,7 @@ Desolation Angel
 Barrin, Tolarian Archmage
 Mirror Entity
 Solemn Simulacrum
+Eldrazi Displacer
 Reality Scramble
 Chain Lightning
 Razorverge Thicket
@@ -414,6 +425,7 @@ Badlands
 Goblin Bombardment
 Embereth Shieldbreaker
 Maelstrom Pulse
+Hengegate Pathway
 Hero of Oxid Ridge
 Lotus Petal
 Arc Lightning
@@ -427,6 +439,7 @@ Dark Petition
 Grasslands
 Leonin Warleader
 Lutri, the Spellchaser
+Usher of the Fallen
 Seasoned Hallowblade
 Firestorm
 Mardu Woe-Reaper
@@ -443,13 +456,16 @@ Elvish Piper
 Dread Wanderer
 Champion of the Parish
 Skyclave Cleric
+Twilight Mire
 Bloodsoaked Champion
 Bonesplitter
 Armageddon
+Wooded Bastion
 Rotting Regisaur
 Nissa, Voice of Zendikar
 Lotus Cobra
 Catastrophe
+Halvar, God of Battle
 Lurrus of the Dream-Den
 Stonecoil Serpent
 Flash
@@ -476,6 +492,7 @@ Elspeth, Knight-Errant
 Treachery
 Earthquake
 Fyndhorn Elves
+Thought-Knot Seer
 Mana Drain
 Talisman of Unity
 Dragonlord Atarka
@@ -501,6 +518,7 @@ Dig Through Time
 Viashino Pyromancer
 Battle Screech
 Gifts Ungiven
+Fire-Lit Thicket
 Erratic Portal
 Najeela, the Blade-Blossom
 Golgari Signet
@@ -752,10 +770,12 @@ Fiend Hunter
 Wickerbough Elder
 Blood Artist
 Wall of Omens
+Darkbore Pathway
 Night's Whisper
 Angel of Invention
 Heliod, Sun-Crowned
 Experiment One
+Barkchannel Pathway
 Oath of Druids
 Isamaru, Hound of Konda
 Gravecrawler
@@ -790,6 +810,7 @@ Selesnya Signet
 Coldsteel Heart
 Diregraf Ghoul
 Joraga Treespeaker
+Doomskar
 Bloodghast
 Seachrome Coast
 Hullbreacher
@@ -824,6 +845,7 @@ Zealous Conscripts
 Ash Barrens
 Council's Judgment
 Hazoret the Fervent
+Vampire Lacerator
 Vizier of Remedies
 Jackal Pup
 Dimir Signet
@@ -845,6 +867,7 @@ Decree of Justice
 Thragtusk
 Finale of Glory
 Kor Haven
+Blightstep Pathway
 Avalanche Riders
 Balance
 Carnage Tyrant
@@ -871,6 +894,7 @@ Reflector Mage
 Coalition Relic
 Languish
 Talisman of Indulgence
+Flooded Grove
 Spikefield Hazard
 Nighthawk Scavenger
 Sacred Foundry

@@ -10,7 +10,7 @@ cnt_del = 0
 cnt_rep = 0
 
 cube_cards = {}
-change_log_file = open("../[720][Powered] wtwlf123's Cube - change_log.txt")
+change_log_file = open("../720_Powered_wtwlf123_Cube_change_log.txt")
 for line in change_log_file:
     line = line.strip()
     if not line or line[0] not in ['>', '+', '-']:
@@ -51,7 +51,7 @@ change_log_file.close()
 assert cnt_add - cnt_del == 720
 
 cur_cube_list = set()
-cur_cube_list_file = open("../720_Powered_wtwlf123_Cube.txt")
+cur_cube_list_file = open("../wtwlf123sCube.txt")
 for line in cur_cube_list_file:
     cur_cube_list.add(line.strip())
 cur_cube_list_file.close()
