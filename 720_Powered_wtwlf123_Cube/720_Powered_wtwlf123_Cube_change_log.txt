@@ -1199,3 +1199,73 @@ Kaldheim Update & Archetype Adjustments
 > Dark Depths > Thought-Knot Seer
 > Thespian's Stage > Reality Smasher
 > Mirage Mirror > Dust Bowl
+
+1/29/20 - Cuts
+- Steward of Solidarity
+- Thraben Doomsayer
+- Basri's Lieutenant
+- Solemnity
+- Emry, Lurker of the Loch
+- Sea Gate Stormcaller
+- Jace Beleren
+- Trinket Mage
+- Academy Ruins
+- Flash
+- Impulse
+- Intruder Alarm
+- Gifts Ungiven
+- Fact or Fiction
+- Bloodthrone Vampire
+- Bloodline Keeper
+- Krenko, Mob Boss
+- Thunderblust
+- Renata, Called to the Hunt
+- Birthing Pod
+- The Great Henge
+- Kroxa, Titan of Death's Hunger
+- Grumgully, the Generous
+- Rhythm of the Wild
+- Eladamri's Call
+- Qasali Pridemage
+- Good-Fortune Unicorn
+- Unburial Rites
+- Fiend Artisan
+- Prime Speaker Vannifar
+- Winota, Joiner of Forces
+- Spawning Pit
+- Mindslaver
+
+1/29/20 - Adds
++ Remorseful Cleric
++ Fragmentize
++ Winds of Abandon
++ Nekrataal
++ Bomat Courier
++ Stormblood Berserker
++ Magma Jet
++ Sylvan Caryatid
++ Cultivate
++ Kodama's Reach
++ Reflector Mage
++ Dream Trawler
++ Hostage Taker
++ The Scarab God
++ Dreadbore
++ Orcish Lumberjack
++ Tattermunge Maniac
++ Radha, Heart of Keld
++ Tidehollow Sculler
++ Edric, Spymaster of Trest
++ Growth Spiral
++ Nissa, Steward of Elements
++ Wear // Tear
++ Aurelia, Exemplar of Justice
++ Dromar's Cavern
++ Crosis's Catacombs
++ Darigaaz's Caldera
++ Rith's Grove
++ Treva's Ruins
++ Rattleclaw Mystic
++ Esika, God of the Tree
++ Omnath, Locus of Creation
++ City of Traitors
