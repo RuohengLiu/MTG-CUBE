@@ -101,8 +101,6 @@ Forbid
 Frantic Search
 Commit // Memory
 Cryptic Command
-Fact or Fiction
-Gifts Ungiven
 Turnabout
 Mystic Confluence
 Dig Through Time
@@ -221,7 +219,6 @@ Hellrider
 Pia and Kiran Nalaar
 Kiki-Jiki, Mirror Breaker
 Siege-Gang Commander
-Thunderblust
 Thundermaw Hellkite
 Zealous Conscripts
 Inferno Titan
@@ -369,7 +366,6 @@ Wrenn and Six
 Gruul Signet
 Talisman of Impulse
 Manamorphose
-Rhythm of the Wild
 Bloodbraid Elf
 Dragonlord Atarka
 Horizon Canopy
@@ -380,9 +376,7 @@ Windswept Heath
 Dryad Militant
 Selesnya Signet
 Talisman of Unity
-Eladamri's Call
 Nature's Chant
-Good-Fortune Unicorn
 Kitchen Finks
 Knight of Autumn
 Mirari's Wake
@@ -397,7 +391,6 @@ Talisman of Hierarchy
 Lingering Souls
 Vindicate
 Sorin, Lord of Innistrad
-Unburial Rites
 Bayou
 Blooming Marsh
 Hissing Quagmire
@@ -554,34 +547,24 @@ Embereth Shieldbreaker
 Bonecrusher Giant
 Gilded Goose
 Questing Beast
-The Great Henge
-Grumgully, the Generous
 Fabled Passage
 Oko, Thief of Crowns
 Leonin Relic-Warder
 Terastodon
-Emry, Lurker of the Loch
-Academy Ruins
 Wishclaw Talisman
 Bolas's Citadel
-Mindslaver
 Heliod, Sun-Crowned
 Archangel of Thune
 Thassa, Deep-Dwelling
 Woe Strider
 Underworld Breach
-Renata, Called to the Hunt
 Spike Feeder
 Golos, Tireless Pilgrim
 Scroll Rack
 Putrid Goblin
 Uro, Titan of Nature's Wrath
-Thraben Doomsayer
 Felidar Guardian
 Parallax Wave
-Intruder Alarm
-Bloodline Keeper
-Krenko, Mob Boss
 Impact Tremors
 Corpse Knight
 Saheeli Rai
@@ -589,7 +572,6 @@ Nicol Bolas, the Ravager
 Altar of the Brood
 Journey to Nowhere
 Luminous Broodmoth
-Solemnity
 Shark Typhoon
 Vivien, Monsters' Advocate
 Boreal Druid
@@ -597,7 +579,6 @@ Avacyn's Pilgrim
 Safehold Elite
 Cruel Celebrant
 Elves of Deep Shadow
-Fiend Artisan
 Vraska, Golgari Queen
 Indatha Triome
 Ketria Triome
@@ -605,18 +586,13 @@ Raugrin Triome
 Savai Triome
 Zagoth Triome
 Hellkite Overlord
-Bloodthrone Vampire
 Wilt
-Spawning Pit
-Steward of Solidarity
 Viashino Pyromancer
 Seasoned Hallowblade
-Basri's Lieutenant
 Barrin, Tolarian Archmage
 Guardian Idol
 Seal of Cleansing
 Worldspine Wurm
-Kroxa, Titan of Death's Hunger
 Adarkar Wastes
 Underground River
 Sulfurous Springs
@@ -660,12 +636,9 @@ Skyclave Cleric
 Spikefield Hazard
 Fatal Push
 Hullbreacher
-Jace Beleren
 Opposition Agent
 Magus of the Order
 Green Sun's Zenith
-Birthing Pod
-Prime Speaker Vannifar
 Skyclave Apparition
 Cavalier of Gales
 Riftwing Cloudskate
@@ -673,13 +646,9 @@ Doom Whisperer
 Hazoret the Fervent
 Putrid Imp
 Fire // Ice
-Sea Gate Stormcaller
-Trinket Mage
-Impulse
 Force of Negation
 Stonecoil Serpent
 Manifold Key
-Flash
 Usher of the Fallen
 Dragon Hunter
 Soldier of the Pantheon
@@ -709,12 +678,43 @@ Cascade Bluffs
 Rugged Prairie
 Hengegate Pathway
 Blightstep Pathway
-Qasali Pridemage
 Razorverge Thicket
 Gerrard's Verdict
 Darkbore Pathway
 Barkchannel Pathway
-Winota, Joiner of Forces
 Thought-Knot Seer
 Reality Smasher
 Dust Bowl
+Remorseful Cleric
+Fragmentize
+Winds of Abandon
+Nekrataal
+Bomat Courier
+Stormblood Berserker
+Magma Jet
+Sylvan Caryatid
+Cultivate
+Kodama's Reach
+Reflector Mage
+Dream Trawler
+Hostage Taker
+The Scarab God
+Dreadbore
+Orcish Lumberjack
+Tattermunge Maniac
+Radha, Heart of Keld
+Tidehollow Sculler
+Edric, Spymaster of Trest
+Growth Spiral
+Nissa, Steward of Elements
+Wear // Tear
+Aurelia, Exemplar of Justice
+Dromar's Cavern
+Crosis's Catacombs
+Darigaaz's Caldera
+Rith's Grove
+Treva's Ruins
+Rattleclaw Mystic
+Esika, God of the Tree
+Omnath, Locus of Creation
+City of Traitors

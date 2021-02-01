@@ -34,6 +34,7 @@ Meloku the Clouded Mirror
 Snapcaster Mage
 Nullpriest of Oblivion
 Gyruda, Doom of Depths
+Crosis's Catacombs
 Ketria Triome
 Accorder Paladin
 Mirage Mirror
@@ -56,6 +57,7 @@ Mesmeric Fiend
 Duskwatch Recruiter
 Sylvan Caryatid
 Dire Fleet Daredevil
+Darigaaz's Caldera
 Thousand-Year Storm
 Supreme Verdict
 Needleverge Pathway
@@ -146,6 +148,7 @@ Bloodstained Mire
 Sulfuric Vortex
 Silent Clearing
 Gideon Blackblade
+Rith's Grove
 Fragmentize
 Gutterbones
 Renata, Called to the Hunt
@@ -160,6 +163,7 @@ Mimic Vat
 Pelt Collector
 Strip Mine
 Murderous Rider
+Rattleclaw Mystic
 Memory Lapse
 Mox Diamond
 Blade Splicer
@@ -243,6 +247,7 @@ Mulldrifter
 Purphoros, God of the Forge
 Karakas
 Stromkirk Noble
+City of Traitors
 Great Oak Guardian
 Grim Lavamancer
 Tezzeret, Agent of Bolas
@@ -400,6 +405,7 @@ Phyrexian Altar
 Dust Bowl
 Terramorphic Expanse
 Good-Fortune Unicorn
+Wear // Tear
 Tireless Tracker
 Wishclaw Talisman
 Kargan Intimidator
@@ -424,12 +430,14 @@ Vedalken Shackles
 Badlands
 Goblin Bombardment
 Embereth Shieldbreaker
+Esika, God of the Tree
 Maelstrom Pulse
 Hengegate Pathway
 Hero of Oxid Ridge
 Lotus Petal
 Arc Lightning
 Path to Exile
+Orcish Lumberjack
 Recruiter of the Guard
 Wrath of God
 Seething Song
@@ -514,6 +522,7 @@ Heirloom Blade
 Mardu Strike Leader
 Izzet Charm
 Sheltered Thicket
+Dromar's Cavern
 Dig Through Time
 Viashino Pyromancer
 Battle Screech
@@ -534,6 +543,7 @@ Worn Powerstone
 Daretti, Scrap Savant
 Opposition Agent
 Moat
+Growth Spiral
 Enclave Cryptologist
 Greater Gargadon
 Mountain Valley
@@ -569,6 +579,7 @@ Branchloft Pathway
 Oracle of Mul Daya
 Commit // Memory
 Azorius Signet
+Omnath, Locus of Creation
 Corpse Dance
 Custodi Lich
 Fetid Pools
@@ -730,6 +741,7 @@ Eternal Witness
 Combat Celebrant
 Master of the Wild Hunt
 Yawgmoth's Will
+Treva's Ruins
 Anafenza, Kin-Tree Spirit
 Wall of Roots
 Fireblast
