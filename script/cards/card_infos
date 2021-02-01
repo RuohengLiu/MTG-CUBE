@@ -1,24 +1,12 @@
-Starnheim Unleashed	0	W	Sorcery	khm	Kaldheim	2021-02-05	33	mythic	4.0	False
-Doomskar	0	W	Sorcery	khm	Kaldheim	2021-02-05	9	rare	5.0	False
-Hengegate Pathway // Mistgate Pathway	0	UW	Land // Land	khm	Kaldheim	2021-02-05	260	rare	0.0	False
-Blightstep Pathway // Searstep Pathway	0	BR	Land // Land	khm	Kaldheim	2021-02-05	252	rare	0.0	False
-Darkbore Pathway // Slitherbore Pathway	0	BG	Land // Land	khm	Kaldheim	2021-02-05	254	rare	0.0	False
-Barkchannel Pathway // Tidechannel Pathway	0	GU	Land // Land	khm	Kaldheim	2021-02-05	251	rare	0.0	False
-Usher of the Fallen	0	W	Creature — Spirit Warrior	khm	Kaldheim	2021-02-05	35	uncommon	1.0	False
-Halvar, God of Battle // Sword of the Realms	0	W	Legendary Creature — God // Legendary Artifact — Equipment	khm	Kaldheim	2021-02-05	15	mythic	4.0	False
-Eldrazi Displacer	0	W	Creature — Eldrazi	ogw	Oath of the Gatewatch	2016-01-22	13	rare	3.0	False
-Gnarled Scarhide	0	B	Enchantment Creature — Minotaur	jou	Journey into Nyx	2014-05-02	72	uncommon	1.0	False
-Vampire Lacerator	0	B	Creature — Vampire Warrior	zen	Zendikar	2009-10-02	115	common	1.0	False
-Winota, Joiner of Forces	0	RW	Legendary Creature — Human Warrior	iko	Ikoria: Lair of Behemoths	2020-04-24	216	mythic	4.0	False
-Thought-Knot Seer	0	C	Creature — Eldrazi	ogw	Oath of the Gatewatch	2016-01-22	9	rare	4.0	False
-Reality Smasher	0	C	Creature — Eldrazi	ogw	Oath of the Gatewatch	2016-01-22	7	rare	5.0	False
-Mystic Gate	0	UW	Land	shm	Shadowmoor	2008-05-02	277	rare	0.0	False
-Sunken Ruins	0	BU	Land	shm	Shadowmoor	2008-05-02	280	rare	0.0	False
-Graven Cairns	0	BR	Land	fut	Future Sight	2007-05-04	175	rare	0.0	False
-Fire-Lit Thicket	0	GR	Land	shm	Shadowmoor	2008-05-02	271	rare	0.0	False
-Wooded Bastion	0	GW	Land	shm	Shadowmoor	2008-05-02	281	rare	0.0	False
-Fetid Heath	0	BW	Land	eve	Eventide	2008-07-25	176	rare	0.0	False
-Twilight Mire	0	BG	Land	eve	Eventide	2008-07-25	180	rare	0.0	False
-Flooded Grove	0	GU	Land	eve	Eventide	2008-07-25	177	rare	0.0	False
-Cascade Bluffs	0	RU	Land	eve	Eventide	2008-07-25	175	rare	0.0	False
-Rugged Prairie	0	RW	Land	eve	Eventide	2008-07-25	178	rare	0.0	False
+Orcish Lumberjack	0	GR	Creature — Orc	ice	Ice Age	1995-06-03	210	common	1.0	False
+Rattleclaw Mystic	0	GRU	Creature — Human Shaman	ktk	Khans of Tarkir	2014-09-26	144	rare	2.0	False
+Esika, God of the Tree // The Prismatic Bridge	0	BGRUW	Legendary Creature — God // Legendary Enchantment	khm	Kaldheim	2021-02-05	168	mythic	3.0	False
+Omnath, Locus of Creation	0	GRUW	Legendary Creature — Elemental	znr	Zendikar Rising	2020-09-25	232	mythic	4.0	False
+Growth Spiral	0	GU	Instant	rna	Ravnica Allegiance	2019-01-25	178	common	2.0	False
+Wear // Tear	0	RW	Instant // Instant	dgm	Dragon's Maze	2013-05-03	135	uncommon	3.0	False
+Dromar's Cavern	0	BUW	Land — Lair	pls	Planeshift	2001-02-05	138	uncommon	0.0	False
+Crosis's Catacombs	0	BRU	Land — Lair	pls	Planeshift	2001-02-05	136	uncommon	0.0	False
+Darigaaz's Caldera	0	BGR	Land — Lair	pls	Planeshift	2001-02-05	137	uncommon	0.0	False
+Rith's Grove	0	GRW	Land — Lair	pls	Planeshift	2001-02-05	141	uncommon	0.0	False
+Treva's Ruins	0	GUW	Land — Lair	pls	Planeshift	2001-02-05	143	uncommon	0.0	False
+City of Traitors	0	C	Land	exo	Exodus	1998-06-15	143	rare	0.0	True
