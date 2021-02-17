@@ -1269,3 +1269,6 @@ Kaldheim Update & Archetype Adjustments
 + Esika, God of the Tree
 + Omnath, Locus of Creation
 + City of Traitors
+
+Quick Change
+→ Remorseful Cleric > Clarion Spirit
