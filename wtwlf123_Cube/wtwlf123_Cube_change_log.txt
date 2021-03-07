@@ -1272,3 +1272,295 @@ Kaldheim Update & Archetype Adjustments
 
 Quick Change
 → Remorseful Cleric > Clarion Spirit
+
+Cut to 450 - White
+- Dragon Hunter
+- Venerable Knight
+- Skymarcher Aspirant
+- Vizier of Remedies
+- Skyclave Cleric
+- Leonin Relic-Warder
+- Anafenza, Kin-Tree Spirit
+- Village Bell-Ringer
+- Thalia, Heretic Cathar
+- Mirror Entity
+- Fiend Hunter
+- Eldrazi Displacer
+- Starnheim Unleashed
+- Archangel of Thune
+- Karmic Guide
+- Luminous Broodmoth
+- Felidar Guardian
+- Doomskar
+- Parallax Wave
+- Gideon Blackblade
+- Heliod, Sun-Crowned
+- Winds of Abandon
+- Halvar, God of Battle
+- Journey to Nowhere
+- Fragmentize
+- Seal of Cleansing
+- Clarion Spirit
+- Sevinne's Reclamation
+
+Cut to 450 - Blue
+- Palinchron
+- Tezzeret the Seeker
+- Thassa, Deep-Dwelling
+- Turnabout
+- Frantic Search
+- Crystal Shard
+- Aetherling
+- Cavalier of Gales
+- Whirler Rogue
+- Pestermite
+- Deceiver Exarch
+- Glasspool Mimic
+- Gitaxian Probe
+- Gush
+- High Tide
+- Baral, Chief of Compliance
+- Spellskite
+- Thing in the Ice
+- Echo of Eons
+- Shark Typhoon
+- Daze
+- Force of Negation
+- Shelldock Isle
+- Chart a Course
+- Jwari Disruption
+- Barrin, Tolarian Archmage
+- Spellseeker
+- Brain Freeze
+
+Cut to 450 - Black
+- Bolas's Citadel
+- Living Death
+- Liliana, Death's Majesty
+- Yawgmoth's Will
+- Liliana, the Last Hope
+- Hagra Mauling
+- Yawgmoth, Thran Physician
+- Sinkhole
+- Woe Strider
+- Nekrataal
+- Blood Artist
+- Nighthawk Scavenger
+- Zulaport Cutthroat
+- Putrid Goblin
+- Vampire Lacerator
+- Viscera Seer
+- Gnarled Scarhide
+- Tormented Hero
+- Puppeteer Clique
+- Carrion Feeder
+- Dark Ritual
+- Mikaeus, the Unhallowed
+- Shallow Grave
+- Cabal Ritual
+- Tendrils of Agony
+- Corpse Dance
+- Dark Petition
+- Makeshift Mannequin
+
+Cut to 450 - Red
+- Splinter Twin
+- Past in Flames
+- Mana Flare
+- Seething Song
+- Underworld Breach
+- Pyretic Ritual
+- Impact Tremors
+- Goblin Bombardment
+- Desperate Ritual
+- Spikefield Hazard
+- Phoenix of Ash
+- Combat Celebrant
+- Akoum Hellhound
+- Viashino Pyromancer
+- Plated Geopede
+- Fireblast
+- Subterranean Tremors
+- Earthquake
+- Eidolon of the Great Revel
+- Kargan Intimidator
+- Magma Jet
+- Kiki-Jiki, Mirror Breaker
+- Zealous Conscripts
+- Hazoret the Fervent
+- Bomat Courier
+- Koth of the Hammer
+- Firestorm
+- Empty the Warrens
+
+Cut to 450 - Green
+→ Nightpack Ambusher > Thrun, the Last Troll
+- Tangled Florahedron
+- Melira, Sylvok Outcast
+- Devoted Druid
+- Terastodon
+- Worldspine Wurm
+- Finale of Devastation
+- Green Sun's Zenith
+- Manglehorn
+- Tooth and Nail
+- Garruk Relentless
+- Spike Feeder
+- Kazandu Mammoth
+- Dryad of the Ilysian Grove
+- Boreal Druid
+- Elvish Reclaimer
+- Sylvan Caryatid
+- Wild Mongrel
+- Noose Constrictor
+- Vivien, Monsters' Advocate
+- Cultivate
+- Kodama's Reach
+- Wilt
+- Fastbond
+- Worldly Tutor
+- Great Oak Guardian
+- Acidic Slime
+- Polukranos, World Eater
+- Heartbeat of Spring
+
+Cut to 450 - Allied Guilds
+- Flood Plain
+- Mystic Gate
+- Seachrome Coast
+- Talisman of Progress
+- Reflector Mage
+- Soulherder
+- Supreme Verdict
+- Dream Trawler
+- Bad River
+- Darkslick Shores
+- Sunken Ruins
+- Lim-Dûl's Vault
+- Talisman of Dominance
+- Hostage Taker
+- Tezzeret, Agent of Bolas
+- The Scarab God
+- Graven Cairns
+- Lavaclaw Reaches
+- Rocky Tar Pit
+- Dreadbore
+- Rakdos Signet
+- Judith, the Scourge Diva
+- Falkenrath Aristocrat
+- Murderous Redcap
+- Fire-Lit Thicket
+- Mountain Valley
+- Raging Ravine
+- Orcish Lumberjack
+- Tattermunge Maniac
+- Gruul Signet
+- Manamorphose
+- Radha, Heart of Keld
+- Razorverge Thicket
+- Stirring Wildwood
+- Wooded Bastion
+- Avacyn's Pilgrim
+- Safehold Elite
+- Selesnya Signet
+- Kitchen Finks
+- Mirari's Wake
+
+Cut to 450 - Enemy Guilds
+- Shambling Vent
+- Fetid Heath
+- Concealed Courtyard
+- Orzhov Signet
+- Corpse Knight
+- Cruel Celebrant
+- Gerrard's Verdict
+- Tidehollow Sculler
+- Twilight Mire
+- Hissing Quagmire
+- Blooming Marsh
+- Assassin's Trophy
+- Golgari Signet
+- Life // Death
+- Elves of Deep Shadow
+- Vraska, Golgari Queen
+- Lumbering Falls
+- Flooded Grove
+- Botanical Sanctum
+- Nissa, Steward of Elements
+- Edric, Spymaster of Trest
+- Talisman of Curiosity
+- Growth Spiral
+- Kiora's Follower
+- Cascade Bluffs
+- Spirebluff Canal
+- Wandering Fumarole
+- Goblin Electromancer
+- Talisman of Creativity
+- Saheeli Rai
+- Saheeli, Sublime Artificer
+- Ral Zarek
+- Rugged Prairie
+- Needle Spires
+- Inspiring Vantage
+- Boros Charm
+- Boros Signet
+- Wear // Tear
+- Aurelia, Exemplar of Justice
+- Nahiri, the Harbinger
+
+Cut to 450 - 3+ Color
+- Treva's Ruins
+- Dromar's Cavern
+- Sphinx of the Steel Wind
+- Crosis's Catacombs
+- Nicol Bolas, the Ravager
+- Darigaaz's Caldera
+- Hellkite Overlord
+- Rith's Grove
+- Indatha Triome
+- Raugrin Triome
+- Soulfire Grand Master
+- Zagoth Triome
+- Savai Triome
+- Alesha, Who Smiles at Death
+- Ketria Triome
+- Rattleclaw Mystic
+- Esika, God of the Tree
+- Omnath, Locus of Creation
+- Golos, Tireless Pilgrim
+- Progenitus
+
+Cut to 450 - Colorless
+- Undiscovered Paradise
+- Evolving Wilds
+- City of Traitors
+- Terramorphic Expanse
+- Dust Bowl
+- Quicksilver Amulet
+- Erratic Portal
+- Skyclave Relic
+- Phyrexian Altar
+- Heirloom Blade
+- Blasting Station
+- Ashnod's Altar
+- Treasure Map
+- Scroll Rack
+- Lightning Greaves
+- Guardian Idol
+- Altar of Dementia
+- Time Vault
+- Manifold Key
+- Altar of the Brood
+- Zuran Orb
+- Lotus Petal
+- Lion's Eye Diamond
+- Lesser Masticore
+- Metallic Mimic
+- Thought-Knot Seer
+- Reality Smasher
+- Triskelion
+- Stonecoil Serpent
+- Karn Liberated
+
+Quick Change
+→ Thrun, the Last Troll > Esika's Chariot
