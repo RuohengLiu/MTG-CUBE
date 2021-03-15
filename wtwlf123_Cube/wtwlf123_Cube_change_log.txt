@@ -1564,3 +1564,12 @@ Cut to 450 - Colorless
 
 Quick Change
 → Thrun, the Last Troll > Esika's Chariot
+
+Quick Change
+→ Talisman of Indulgence > Rakdos Signet
+→ Talisman of Impulse > Gruul Signet
+→ Talisman of Unity > Selesnya Signet
+→ Talisman of Hierarchy > Orzhov Signet
+→ Talisman of Resilience > Golgari Signet
+→ Fire // Ice > Prismari Command
+→ Talisman of Conviction > Boros Signet
