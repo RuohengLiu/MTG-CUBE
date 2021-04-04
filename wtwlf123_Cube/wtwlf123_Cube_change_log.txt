@@ -1573,3 +1573,11 @@ Quick Change
 → Talisman of Resilience > Golgari Signet
 → Fire // Ice > Prismari Command
 → Talisman of Conviction > Boros Signet
+
+STX Update + Quick Change
+→ Riftwing Cloudskate > Cavalier of Gales
+→ Opposition Agent > Sedgemoor Witch
+→ Wishclaw Talisman > Baleful Mastery
+→ Sorin, Lord of Innistrad > Vanishing Verse
+→ Pernicious Deed > Assassin's Trophy
+→ Lightning Helix > Rip Apart
