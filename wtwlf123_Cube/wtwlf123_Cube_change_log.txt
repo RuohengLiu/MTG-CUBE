@@ -1581,3 +1581,8 @@ STX Update + Quick Change
 → Sorin, Lord of Innistrad > Vanishing Verse
 → Pernicious Deed > Assassin's Trophy
 → Lightning Helix > Rip Apart
+
+Commander 2021 Update
+→ Legion Warboss > Laelia, the Blade Reforged
+→ Jungle Lion > Pest Infestation
+→ Kozilek, Butcher of Truth > Triplicate Titan
