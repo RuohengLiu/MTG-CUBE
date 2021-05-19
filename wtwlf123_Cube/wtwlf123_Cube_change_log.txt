@@ -1586,3 +1586,15 @@ Commander 2021 Update
 → Legion Warboss > Laelia, the Blade Reforged
 → Jungle Lion > Pest Infestation
 → Kozilek, Butcher of Truth > Triplicate Titan
+
+Quick Change
+→ Charming Prince > Ancestral Blade
+→ Soldier of the Pantheon > Maul of the Skyclaves
+→ Inkwell Leviathan > Shark Typhoon
+→ Carnophage > Rotting Regisaur
+→ Stromkirk Noble > Bomat Courier
+→ Jackal Pup > Embercleave
+→ Sword of Body and Mind > Heirloom Blade
+→ Sword of Feast and Famine > Karn Liberated
+→ Sword of Light and Shadow > Evolving Wilds
+→ Sword of Sinew and Steel > Terramorphic Expanse
