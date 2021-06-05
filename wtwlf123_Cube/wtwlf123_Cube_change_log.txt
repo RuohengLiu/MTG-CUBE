@@ -1598,3 +1598,108 @@ Quick Change
 → Sword of Feast and Famine > Karn Liberated
 → Sword of Light and Shadow > Evolving Wilds
 → Sword of Sinew and Steel > Terramorphic Expanse
+
+MH2 Update (& Rise to 540) - White
++ Soldier of the Pantheon
++ Barbed Spike
++ Charming Prince
++ Remorseful Cleric
++ Thalia, Heretic Cathar
++ Solitude
++ Ephemerate
++ Fragmentize
++ Prismatic Ending
++ Timeless Dragon
+
+MH2 Update (& Rise to 540) - Blue
++ Sea Gate Stormcaller
++ Barrin, Tolarian Archmage
++ Daze
++ Force of Negation
++ Subtlety
++ Chart a Course
++ Jwari Disruption
++ Lose Focus
++ Crystal Shard
++ Thassa, Deep-Dwelling
+
+MH2 Update (& Rise to 540) - Black
++ Carnophage
++ Cabal Initiate
++ Dauthi Voidwalker
++ Nullpriest of Oblivion
++ Archon of Cruelty
++ Grief
++ Dark Ritual
++ Liliana, the Last Hope
++ Hagra Mauling
++ Liliana, Death's Majesty
+
+MH2 Update (& Rise to 540) - Red
++ Ragavan, Nimble Pilferer
++ Eidolon of the Great Revel
++ Flametongue Yearling
++ Robber of the Rich
++ Legion Warboss
++ Phoenix of Ash
++ Fireblast
++ Fury
++ Firestorm
++ Spikefield Hazard
+
+MH2 Update (& Rise to 540) - Green
++ Wolfbitten Captive
++ Sylvan Caryatid
++ Tangled Florahedron
++ Manglehorn
++ Foundation Breaker
++ Timeless Witness
++ Abundant Harvest
++ Worldly Tutor
++ Garruk Relentless
++ Green Sun's Zenith
+
+MH2 Update (& Rise to 540) - Multicolor
++ Soulherder
++ Seachrome Coast
++ Tezzeret, Agent of Bolas
++ Darkslick Shores
++ Dreadbore
++ Lavaclaw Reaches
++ Klothys, God of Destiny
++ Raging Ravine
++ Avacyn's Pilgrim
++ Stirring Wildwood
++ Damn
++ Shambling Vent
++ Grist, the Hunger Tide
++ Hissing Quagmire
++ Nissa, Steward of Elements
++ Lumbering Falls
++ Saheeli, Sublime Artificer
++ Wandering Fumarole
++ Lightning Helix
++ Needle Spires
++ Ignoble Hierarch
++ Alesha, Who Smiles at Death
++ Nicol Bolas, the Ravager
++ Sphinx of the Steel Wind
++ Progenitus
+
+MH2 Update (& Rise to 540) - Colorless
++ Coldsteel Heart
++ Liquimetal Torque
++ Ornithopter of Paradise
++ Scroll Rack
++ Treasure Map
++ Skyclave Relic
++ Erratic Portal
++ Lodestone Golem
++ Quicksilver Amulet
++ Kaldra Compleat
++ Dust Bowl
++ Reflecting Pool
++ Undiscovered Paradise
++ Urza's Saga
++ Stonecoil Serpent
+
