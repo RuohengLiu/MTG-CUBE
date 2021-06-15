@@ -10,6 +10,7 @@ Voracious Hydra
 Lim-Dûl's Vault
 Liliana's Triumph
 Plateau
+Cabal Initiate
 Wildfire
 Echo of Eons
 Indatha Triome
@@ -90,6 +91,7 @@ Vampiric Tutor
 Selvala's Stampede
 Vivid Meadow
 Wild Nacatl
+Ephemerate
 Oona's Prowler
 Seal of Cleansing
 Leonin Relic-Warder
@@ -107,6 +109,8 @@ Guardian Idol
 Squee, Goblin Nabob
 Abrupt Decay
 Reveillark
+Esika's Chariot
+Prismari Command
 Renegade Rallier
 Rugged Prairie
 Rakdos Cackler
@@ -132,6 +136,7 @@ Liliana, the Last Hope
 Inquisition of Kozilek
 Krenko, Mob Boss
 Gilded Goose
+Grief
 Mind Twist
 Skyclave Apparition
 Nissa, Who Shakes the World
@@ -172,9 +177,11 @@ Recurring Nightmare
 Curse of Predation
 Graven Cairns
 Woe Strider
+Urza's Saga
 Polymorph
 Through the Breach
 Bounding Krasis
+Abundant Harvest
 Restoration Angel
 Fiery Islet
 Kessig Prowler
@@ -223,6 +230,7 @@ Glasspool Mimic
 Mox Emerald
 Steppe Lynx
 Parallax Wave
+Fury
 Kytheon, Hero of Akros
 Chrome Mox
 Inferno Titan
@@ -245,6 +253,7 @@ Heir of Falkenrath
 Ophiomancer
 Mulldrifter
 Purphoros, God of the Forge
+Maul of the Skyclaves
 Karakas
 Stromkirk Noble
 City of Traitors
@@ -322,6 +331,7 @@ Keruga, the Macrosage
 Eternal Dragon
 Thing in the Ice
 Sphinx of the Steel Wind
+Sedgemoor Witch
 Shadowspear
 Contagion
 The Royal Scions
@@ -334,6 +344,7 @@ Kaheera, the Orphanguard
 Bolas's Citadel
 Deathrite Shaman
 Starnheim Unleashed
+Pest Infestation
 Brazen Borrower
 Sunbaked Canyon
 Scrapheap Scrounger
@@ -459,6 +470,7 @@ Force of Virtue
 Containment Priest
 Shark Typhoon
 Murderous Redcap
+Baleful Mastery
 Talisman of Creativity
 Elvish Piper
 Dread Wanderer
@@ -468,6 +480,7 @@ Twilight Mire
 Bloodsoaked Champion
 Bonesplitter
 Armageddon
+Domri, Anarch of Bolas
 Wooded Bastion
 Rotting Regisaur
 Nissa, Voice of Zendikar
@@ -481,6 +494,7 @@ Steward of Solidarity
 Memory Jar
 Imposing Sovereign
 Swords to Plowshares
+Ornithopter of Paradise
 Deep Forest Hermit
 Tormented Hero
 Tooth and Nail
@@ -510,6 +524,7 @@ Declaration in Stone
 Firedrinker Satyr
 Tropical Island
 Sundering Titan
+Timeless Witness
 Profane Command
 Gruul Signet
 Nicol Bolas, the Ravager
@@ -525,9 +540,11 @@ Sheltered Thicket
 Dromar's Cavern
 Dig Through Time
 Viashino Pyromancer
+Klothys, God of Destiny
 Battle Screech
 Gifts Ungiven
 Fire-Lit Thicket
+Subtlety
 Erratic Portal
 Najeela, the Blade-Blossom
 Golgari Signet
@@ -545,6 +562,8 @@ Opposition Agent
 Moat
 Growth Spiral
 Enclave Cryptologist
+Ignoble Hierarch
+Timeless Dragon
 Greater Gargadon
 Mountain Valley
 Tangled Florahedron
@@ -569,6 +588,7 @@ Flametongue Kavu
 Bosh, Iron Golem
 Skyclave Shade
 Arbor Elf
+Barbed Spike
 Sol Ring
 Force Spike
 Hostage Taker
@@ -588,6 +608,7 @@ Basalt Monolith
 Nightpack Ambusher
 Treasure Map
 Ancient Grudge
+Ragavan, Nimble Pilferer
 Hymn to Tourach
 Mana Flare
 Tempt with Vengeance
@@ -629,13 +650,16 @@ Vinelasher Kudzu
 Finale of Devastation
 Hypnotic Specter
 Ral Zarek
+Grist, the Hunger Tide
 City of Brass
 Jinxed Idol
 Manamorphose
+Flametongue Yearling
 Pack Rat
 Torrential Gearhulk
 Shivan Reef
 Jace Beleren
+Kaldra Compleat
 Volcanic Island
 Stormblood Berserker
 Forbid
@@ -654,6 +678,7 @@ Collective Brutality
 Cultivate
 Cavalier of Gales
 Boros Signet
+Clarion Spirit
 Scythe Leopard
 Hydroid Krasis
 Gemstone Mine
@@ -695,7 +720,9 @@ Wandering Fumarole
 Benalish Marshal
 Journey to Nowhere
 General Kudro of Drannith
+Triplicate Titan
 Grim Monolith
+Prismatic Ending
 Sword of Truth and Justice
 Wild Mongrel
 Bloodbraid Elf
@@ -723,6 +750,7 @@ Putrid Imp
 Spectral Procession
 Oblivion Ring
 Ulamog, the Infinite Gyre
+Vanishing Verse
 Nature's Chant
 Crystal Shard
 Underworld Breach
@@ -763,6 +791,7 @@ Noose Constrictor
 Feldon of the Third Path
 Woodland Cemetery
 Banefire
+Solitude
 Chord of Calling
 Brushland
 Search for Azcanta
@@ -792,6 +821,7 @@ Oath of Druids
 Isamaru, Hound of Konda
 Gravecrawler
 Fall from Favor
+Damn
 Corpse Knight
 Garruk Wildspeaker
 Hexdrinker
@@ -822,6 +852,7 @@ Selesnya Signet
 Coldsteel Heart
 Diregraf Ghoul
 Joraga Treespeaker
+Foundation Breaker
 Doomskar
 Bloodghast
 Seachrome Coast
@@ -829,7 +860,9 @@ Hullbreacher
 Metalworker
 Liliana, Death's Majesty
 Cabal Ritual
+Rip Apart
 Eidolon of the Great Revel
+Ancestral Blade
 Engineered Explosives
 Morphling
 Mox Ruby
@@ -870,6 +903,7 @@ Nim Deathmantle
 Elspeth, Sun's Champion
 Lingering Souls
 Carrion Feeder
+Laelia, the Blade Reforged
 Remorseful Cleric
 Incinerate
 Rocky Tar Pit
@@ -890,10 +924,12 @@ Faerie Conclave
 Jace, the Mind Sculptor
 Deranged Hermit
 Taiga
+Lose Focus
 Brimaz, King of Oreskos
 Kitchen Finks
 Lightning Greaves
 Dismember
+Dauthi Voidwalker
 Vivid Crag
 Marsh Flats
 Burst Lightning
@@ -940,6 +976,7 @@ Bastion of Remembrance
 Sylvan Library
 Shatter the Sky
 Tombstalker
+Liquimetal Torque
 Animate Dead
 Felidar Guardian
 Makeshift Mannequin
@@ -951,6 +988,7 @@ Kroxa, Titan of Death's Hunger
 Fact or Fiction
 Inkwell Leviathan
 Seasoned Pyromancer
+Archon of Cruelty
 Young Pyromancer
 Warden of the First Tree
 Skyclave Relic

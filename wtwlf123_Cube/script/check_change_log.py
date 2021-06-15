@@ -10,7 +10,7 @@ cnt_del = 0
 cnt_rep = 0
 
 cube_cards = {}
-change_log_file = open("../720_Powered_wtwlf123_Cube_change_log.txt")
+change_log_file = open("../wtwlf123_Cube_change_log.txt")
 for line in change_log_file:
     line = line.strip()
     if not line or line[0] not in ['>', '+', '-']:
@@ -48,7 +48,7 @@ for line in change_log_file:
         cube_cards[card_name2] = 1
 change_log_file.close()
 
-assert cnt_add - cnt_del == 720
+assert cnt_add - cnt_del == 540
 
 cur_cube_list = set()
 cur_cube_list_file = open("../wtwlf123sCube.txt")
@@ -63,7 +63,7 @@ for card in cube_cards:
     if cube_cards[card] == 1 and card not in cur_cube_list:
         print "change log extra", card
 
-power720_cube_list_file = open("../720_Powered_wtwlf123_Cube_all.txt", 'w')
+cube_list_file = open("../wtwlf123_Cube_all.txt", 'w')
 for card in cube_cards:
-    power720_cube_list_file.write(card+'\n')
-power720_cube_list_file.close()
+    cube_list_file.write(card+'\n')
+cube_list_file.close()

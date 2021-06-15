@@ -1271,7 +1271,7 @@ Kaldheim Update & Archetype Adjustments
 + City of Traitors
 
 Quick Change
-→ Remorseful Cleric > Clarion Spirit
+> Remorseful Cleric > Clarion Spirit
 
 Cut to 450 - White
 - Dragon Hunter
@@ -1394,7 +1394,7 @@ Cut to 450 - Red
 - Empty the Warrens
 
 Cut to 450 - Green
-→ Nightpack Ambusher > Thrun, the Last Troll
+> Nightpack Ambusher > Thrun, the Last Troll
 - Tangled Florahedron
 - Melira, Sylvok Outcast
 - Devoted Druid
@@ -1563,41 +1563,41 @@ Cut to 450 - Colorless
 - Karn Liberated
 
 Quick Change
-→ Thrun, the Last Troll > Esika's Chariot
+> Thrun, the Last Troll > Esika's Chariot
 
 Quick Change
-→ Talisman of Indulgence > Rakdos Signet
-→ Talisman of Impulse > Gruul Signet
-→ Talisman of Unity > Selesnya Signet
-→ Talisman of Hierarchy > Orzhov Signet
-→ Talisman of Resilience > Golgari Signet
-→ Fire // Ice > Prismari Command
-→ Talisman of Conviction > Boros Signet
+> Talisman of Indulgence > Rakdos Signet
+> Talisman of Impulse > Gruul Signet
+> Talisman of Unity > Selesnya Signet
+> Talisman of Hierarchy > Orzhov Signet
+> Talisman of Resilience > Golgari Signet
+> Fire // Ice > Prismari Command
+> Talisman of Conviction > Boros Signet
 
 STX Update + Quick Change
-→ Riftwing Cloudskate > Cavalier of Gales
-→ Opposition Agent > Sedgemoor Witch
-→ Wishclaw Talisman > Baleful Mastery
-→ Sorin, Lord of Innistrad > Vanishing Verse
-→ Pernicious Deed > Assassin's Trophy
-→ Lightning Helix > Rip Apart
+> Riftwing Cloudskate > Cavalier of Gales
+> Opposition Agent > Sedgemoor Witch
+> Wishclaw Talisman > Baleful Mastery
+> Sorin, Lord of Innistrad > Vanishing Verse
+> Pernicious Deed > Assassin's Trophy
+> Lightning Helix > Rip Apart
 
 Commander 2021 Update
-→ Legion Warboss > Laelia, the Blade Reforged
-→ Jungle Lion > Pest Infestation
-→ Kozilek, Butcher of Truth > Triplicate Titan
+> Legion Warboss > Laelia, the Blade Reforged
+> Jungle Lion > Pest Infestation
+> Kozilek, Butcher of Truth > Triplicate Titan
 
 Quick Change
-→ Charming Prince > Ancestral Blade
-→ Soldier of the Pantheon > Maul of the Skyclaves
-→ Inkwell Leviathan > Shark Typhoon
-→ Carnophage > Rotting Regisaur
-→ Stromkirk Noble > Bomat Courier
-→ Jackal Pup > Embercleave
-→ Sword of Body and Mind > Heirloom Blade
-→ Sword of Feast and Famine > Karn Liberated
-→ Sword of Light and Shadow > Evolving Wilds
-→ Sword of Sinew and Steel > Terramorphic Expanse
+> Charming Prince > Ancestral Blade
+> Soldier of the Pantheon > Maul of the Skyclaves
+> Inkwell Leviathan > Shark Typhoon
+> Carnophage > Rotting Regisaur
+> Stromkirk Noble > Bomat Courier
+> Jackal Pup > Embercleave
+> Sword of Body and Mind > Heirloom Blade
+> Sword of Feast and Famine > Karn Liberated
+> Sword of Light and Shadow > Evolving Wilds
+> Sword of Sinew and Steel > Terramorphic Expanse
 
 MH2 Update (& Rise to 540) - White
 + Soldier of the Pantheon
@@ -1704,7 +1704,7 @@ MH2 Update (& Rise to 540) - Colorless
 + Stonecoil Serpent
 
 Quick Change
-→ Ancestral Blade > Seal of Cleansing
-→ Barbed Spike > Sevinne's Reclamation
-→ Klothys, God of Destiny > Domri, Anarch of Bolas
-→ Kaldra Compleat > Shadowspear
+> Ancestral Blade > Seal of Cleansing
+> Barbed Spike > Sevinne's Reclamation
+> Klothys, God of Destiny > Domri, Anarch of Bolas
+> Kaldra Compleat > Shadowspear
