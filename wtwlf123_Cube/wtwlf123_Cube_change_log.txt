@@ -1708,3 +1708,13 @@ Quick Change
 > Barbed Spike > Sevinne's Reclamation
 > Klothys, God of Destiny > Domri, Anarch of Bolas
 > Kaldra Compleat > Shadowspear
+
+Quick Change
+> Nissa, Steward of Elements > Quandrix Apprentice
+
+Quick Change
+> Lodestone Golem > Indatha Triome
+> Stonecoil Serpent > Ketria Triome
+> Karn Liberated > Raugrin Triome
+> Reflecting Pool > Savai Triome
+> Undiscovered Paradise > Zagoth Triome
