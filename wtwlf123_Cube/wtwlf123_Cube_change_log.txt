@@ -1718,3 +1718,8 @@ Quick Change
 > Karn Liberated > Raugrin Triome
 > Reflecting Pool > Savai Triome
 > Undiscovered Paradise > Zagoth Triome
+
+Quick Change
+> Nullpriest of Oblivion > Tourach, Dread Cantor
+> Hagra Mauling > Malakir Rebirth
+> Assassin's Trophy > Pernicious Deed
