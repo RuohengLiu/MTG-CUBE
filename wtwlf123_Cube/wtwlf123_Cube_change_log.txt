@@ -1719,7 +1719,25 @@ Quick Change
 > Reflecting Pool > Savai Triome
 > Undiscovered Paradise > Zagoth Triome
 
+# v_1_0 mh2 stable version
+
 Quick Change
 > Nullpriest of Oblivion > Tourach, Dread Cantor
 > Hagra Mauling > Malakir Rebirth
 > Assassin's Trophy > Pernicious Deed
+
+Quick Change
+> Sylvan Caryatid > Utopia Sprawl
+> Green Sun's Zenith > Wild Growth
+> Quandrix Apprentice > Edric, Spymaster of Trest
+
+AFR Update
+> Thalia, Heretic Cathar > Nadaar, Selfless Paladin
+> Fragmentize > Portable Hole
+> Maul of the Skyclaves > Cave of the Frost Dragon
+> Subtlety > Hall of Storm Giants
+> Carnophage > Dungeon Crawler
+> Dark Ritual > Hive of the Eye Tyrant
+> Phoenix of Ash > Den of the Bugbear
+> Timeless Witness > Lair of the Hydra
+> Quicksilver Amulet > Hand of Vecna
