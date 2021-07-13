@@ -1741,3 +1741,16 @@ AFR Update
 > Phoenix of Ash > Den of the Bugbear
 > Timeless Witness > Lair of the Hydra
 > Quicksilver Amulet > Hand of Vecna
+
+Quick Change
+> Indatha Triome > Talisman of Progress
+> Ketria Triome > Talisman of Dominance
+> Raugrin Triome > Talisman of Indulgence
+> Savai Triome > Talisman of Impulse
+> Zagoth Triome > Talisman of Unity
+> Shadowspear > Talisman of Hierarchy
+> Coldsteel Heart > Talisman of Resilience
+> Scroll Rack > Talisman of Curiosity
+> Skyclave Relic > Talisman of Creativity
+> Erratic Portal > Talisman of Conviction
+> Saheeli, Sublime Artificer > Expressive Iteration
