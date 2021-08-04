@@ -1754,3 +1754,12 @@ Quick Change
 > Skyclave Relic > Talisman of Creativity
 > Erratic Portal > Talisman of Conviction
 > Saheeli, Sublime Artificer > Expressive Iteration
+
+Quick Change
+> Barrin, Tolarian Archmage > Trinket Mage
+> Cavalier of Gales > Subtlety
+> Thassa, Deep-Dwelling > Gitaxian Probe
+> Crystal Shard > Censor
+> Doom Whisperer > Custodi Lich
+> Liliana, Death's Majesty > Living Death
+> Emrakul, the Promised End > Stonecoil Serpent
