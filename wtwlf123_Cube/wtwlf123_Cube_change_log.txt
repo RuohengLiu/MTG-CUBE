@@ -1763,3 +1763,7 @@ Quick Change
 > Doom Whisperer > Custodi Lich
 > Liliana, Death's Majesty > Living Death
 > Emrakul, the Promised End > Stonecoil Serpent
+
+Quick Change
+> Subtlety > Opt
+> Censor > Sleight of Hand
