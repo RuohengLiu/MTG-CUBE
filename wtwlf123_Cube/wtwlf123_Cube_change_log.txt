@@ -1767,3 +1767,40 @@ Quick Change
 Quick Change
 > Subtlety > Opt
 > Censor > Sleight of Hand
+
+Storm!
+> Looter il-Kor > Baral, Chief of Compliance
+> Sea Gate Stormcaller > Spellseeker
+> Trinket Mage > Palinchron
+> Meloku the Clouded Mirror > Gush
+> Mulldrifter > High Tide
+> Consecrated Sphinx > Brain Freeze
+> Forbid > Frantic Search
+> Chart a Course > Turnabout
+> Jwari Disruption > Echo of Eons
+> Hall of Storm Giants > Mind's Desire
+> Tourach, Dread Cantor > Dark Ritual
+> Rotting Regisaur > Cabal Ritual
+> Agadeem's Awakening > Dark Petition
+> Custodi Lich > Tendrils of Agony
+> Living Death > Bolas's Citadel
+> Liliana, the Last Hope > Yawgmoth's Bargain
+> Malakir Rebirth > Yawgmoth's Will
+> Dire Fleet Daredevil > Birgi, God of Storytelling
+> Robber of the Rich > Empty the Warrens
+> Stormblood Berserker > Desperate Ritual
+> Legion Warboss > Grapeshot
+> Embercleave > Pyretic Ritual
+> Incinerate > Underworld Breach
+> Lightning Strike > Seething Song
+> Searing Spear > Mana Flare
+> Spikefield Hazard > Past in Flames
+> Esika's Chariot > Chatterstorm
+> Foundation Breaker > Aeve, Progenitor Ooze
+> Magus of the Order > Fastbond
+> Garruk Relentless > Heartbeat of Spring
+> Tezzeret, Agent of Bolas > Lim-Dûl's Vault
+> Domri, Anarch of Bolas > Manamorphose
+> Expressive Iteration > Goblin Electromancer
+> Stonecoil Serpent > Lion's Eye Diamond
+> Treasure Map > Lotus Petal
