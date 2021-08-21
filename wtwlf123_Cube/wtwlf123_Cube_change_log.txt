@@ -1804,3 +1804,5 @@ Storm!
 > Expressive Iteration > Goblin Electromancer
 > Stonecoil Serpent > Lion's Eye Diamond
 > Treasure Map > Lotus Petal
+
+# v_2_0 Storm!
