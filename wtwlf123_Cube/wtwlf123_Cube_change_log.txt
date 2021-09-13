@@ -1806,3 +1806,97 @@ Storm!
 > Treasure Map > Lotus Petal
 
 # v_2_0 Storm!
+
+Pre-MID Changes (Storm Cut)
+- Seal of Cleansing
+- Remorseful Cleric
+- Nadaar, Selfless Paladin
+- Charming Prince
+- Timeless Dragon
+- Ephemerate
+- Mind's Desire
+- Baral, Chief of Compliance
+- Spellseeker
+- Frantic Search
+- Turnabout
+- High Tide
+- Palinchron
+- Gush
+- Brain Freeze
+- Echo of Eons
+- Dungeon Crawler
+- Cabal Ritual
+- Dark Petition
+- Yawgmoth's Bargain
+- Yawgmoth's Will
+- Dark Ritual
+- Tendrils of Agony
+- Bolas's Citadel
+- Bomat Courier
+- Birgi, God of Storytelling
+- Pyretic Ritual
+- Mana Flare
+- Underworld Breach
+- Empty the Warrens
+- Seething Song
+- Desperate Ritual
+- Grapeshot
+- Past in Flames
+- Chatterstorm
+- Aeve, Progenitor Ooze
+- Heartbeat of Spring
+- Fastbond
+- Soulherder
+- Lim-Dûl's Vault
+- Manamorphose
+- Goblin Electromancer
+- Alesha, Who Smiles at Death
+- Lion's Eye Diamond
+- Lotus Petal
+
+MID Update + Post-Storm Additions
++ Cathar Commando
++ Intrepid Adversary
++ Adeline, Resplendent Cathar
++ Brutal Cathar
++ Fateful Absence
++ Borrowed Time
++ Sea Gate Stormcaller
++ Suspicious Stowaway
++ Poppet Stitcher
++ Meloku the Clouded Mirror
++ Mulldrifter
++ Hall of Storm Giants
++ Consider
++ Chart a Course
++ Forbid
++ Memory Deluge
++ Carnophage
++ Tourach, Dread Cantor
++ Nullpriest of Oblivion
++ Rotting Regisaur
++ Custodi Lich
++ Sinkhole
++ Liliana, the Last Hope
++ Living Death
++ Falkenrath Pit Fighter
++ Bloodthirsty Adversary
++ Dire Fleet Daredevil
++ Legion Warboss
++ Spikefield Hazard
++ Cathartic Pyre
++ Incinerate
++ Lightning Strike
++ Searing Spear
++ Light Up the Night
++ Outland Liberator
++ Augur of Autumn
++ Primal Adversary
++ Tovolar's Huntmaster
++ Supreme Verdict
++ Tezzeret, Agent of Bolas
++ Domri, Anarch of Bolas
++ Fire // Ice
++ Omnath, Locus of Creation
++ Treasure Map
++ Undiscovered Paradise
