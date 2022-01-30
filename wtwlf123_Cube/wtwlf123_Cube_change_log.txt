@@ -1912,3 +1912,9 @@ Crimson Vow Update
 Quick Change
 > Brutal Cathar > Ephemerate
 > Supreme Verdict > Soulherder
+
+Quick Change
+> Hall of Storm Giants > Jwari Disruption
+> Dire Fleet Daredevil > Dragon's Rage Channeler
+> Liquimetal Torque > Mishra's Bauble
+> Treasure Map > Urza's Bauble
