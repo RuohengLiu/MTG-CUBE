@@ -1918,3 +1918,11 @@ Quick Change
 > Dire Fleet Daredevil > Dragon's Rage Channeler
 > Liquimetal Torque > Mishra's Bauble
 > Treasure Map > Urza's Bauble
+
+NEO Update
+> Cathar Commando > Lion Sash
+> Tourach, Dread Cantor > Blade of the Oni
+> Light Up the Night > Twinshot Sniper
+> Primal Adversary > Ulvenwald Oddity
+> Turntimber Symbiosis > Boseiju, Who Endures
+> Ornithopter of Paradise > Eater of Virtue
