@@ -1919,6 +1919,8 @@ Quick Change
 > Liquimetal Torque > Mishra's Bauble
 > Treasure Map > Urza's Bauble
 
+# Current Local Update
+
 NEO Update
 > Cathar Commando > Lion Sash
 > Tourach, Dread Cantor > Blade of the Oni
@@ -1926,3 +1928,6 @@ NEO Update
 > Primal Adversary > Ulvenwald Oddity
 > Turntimber Symbiosis > Boseiju, Who Endures
 > Ornithopter of Paradise > Eater of Virtue
+
+NEC Update
+> Ephemerate > Swift Reconfiguration
