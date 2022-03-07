@@ -1931,3 +1931,37 @@ NEO Update
 
 NEC Update
 > Ephemerate > Swift Reconfiguration
+
+Pre-SNC Changes
+> Disenchant > Cathar Commando
+> Forbid > Tezzeret, Betrayer of Flesh
+- Soulherder
+- Tezzeret, Agent of Bolas
+- Dreadbore
+- Domri, Anarch of Bolas
+- Nature's Chant
+- Vanishing Verse
+- Fire // Ice
+- Pernicious Deed
+- Lightning Helix
+- Edric, Spymaster of Trest
++ Jetmir's Garden
++ Raffine's Tower
++ Spara's Headquarters
++ Xander's Lounge
++ Ziatora's Proving Ground
++ Indatha Triome
++ Ketria Triome
++ Raugrin Triome
++ Savai Triome
++ Zagoth Triome
+- Dust Bowl
+- Evolving Wilds
+- Grand Coliseum
+- Terramorphic Expanse
+- Undiscovered Paradise
++ Rattleclaw Mystic
++ Alesha, Who Smiles at Death
++ Kykar, Wind's Fury
++ Golos, Tireless Pilgrim
++ Niv-Mizzet Reborn
