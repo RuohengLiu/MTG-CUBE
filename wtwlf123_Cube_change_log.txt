@@ -1965,3 +1965,8 @@ Pre-SNC Changes
 + Kykar, Wind's Fury
 + Golos, Tireless Pilgrim
 + Niv-Mizzet Reborn
+
+SNC Update
+> Ulvenwald Oddity > Workshop Warchief
+> Carnage Tyrant > Titan of Industry
+> Teferi, Hero of Dominaria > Scheming Fence
