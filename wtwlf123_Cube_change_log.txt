@@ -1970,3 +1970,7 @@ SNC Update
 > Ulvenwald Oddity > Workshop Warchief
 > Carnage Tyrant > Titan of Industry
 > Teferi, Hero of Dominaria > Scheming Fence
+
+NCC Update
+> Hero's Downfall > Lethal Scheme
+> Hand of Vecna > Currency Converter
