@@ -1932,6 +1932,8 @@ NEO Update
 NEC Update
 > Ephemerate > Swift Reconfiguration
 
+# HERE WE ARE
+
 Pre-SNC Changes
 > Disenchant > Cathar Commando
 > Forbid > Tezzeret, Betrayer of Flesh
@@ -1974,3 +1976,31 @@ SNC Update
 NCC Update
 > Hero's Downfall > Lethal Scheme
 > Hand of Vecna > Currency Converter
+
+Quick Change
++ Teferi, Hero of Dominaria
++ Tezzeret, Agent of Bolas
++ Ob Nixilis, the Adversary
++ Minsc & Boo, Timeless Heroes
++ Nature's Chant
++ Vanishing Verse
++ Fire // Ice
++ Assassin's Trophy
++ Lightning Helix
++ Edric, Spymaster of Trest
+- Cathar Commando
+- Emeria's Call
+- Meloku the Clouded Mirror
+- Mulldrifter
+- Nullpriest of Oblivion
+- Volrath's Stronghold
+- Twinshot Sniper
+- Cathartic Pyre
+- Outland Liberator
+- Workshop Warchief
+
+CLB Update
+> Banishing Light > White Plume Adventurer
+> Borrowed Time > Disenchant
+> Manglehorn > Undermountain Adventurer
+> Carnophage > Dungeon Crawler

@@ -1,0 +1,57 @@
+
+-
+Forbid
+Soulherder
+Dreadbore
+Domri, Anarch of Bolas
+Pernicious Deed
+Dust Bowl
+Evolving Wilds
+Grand Coliseum
+Terramorphic Expanse
+Undiscovered Paradise
+Ulvenwald Oddity
+Carnage Tyrant
+Hero's Downfall
+Hand of Vecna
+Emeria's Call
+Meloku the Clouded Mirror
+Mulldrifter
+Nullpriest of Oblivion
+Volrath's Stronghold
+Twinshot Sniper
+Cathartic Pyre
+Outland Liberator
+Banishing Light
+Borrowed Time
+Manglehorn
+Carnophage
+
++
+Tezzeret, Betrayer of Flesh
+Jetmir's Garden
+Raffine's Tower
+Spara's Headquarters
+Xander's Lounge
+Ziatora's Proving Ground
+Indatha Triome
+Ketria Triome
+Raugrin Triome
+Savai Triome
+Zagoth Triome
+Rattleclaw Mystic
+Alesha, Who Smiles at Death
+Kykar, Wind's Fury
+Golos, Tireless Pilgrim
+Niv-Mizzet Reborn
+Titan of Industry
+Scheming Fence
+Lethal Scheme
+Currency Converter
+Ob Nixilis, the Adversary
+Minsc & Boo, Timeless Heroes
+Assassin's Trophy
+White Plume Adventurer
+Undermountain Adventurer
+Dungeon Crawler
+
