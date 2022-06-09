@@ -1,57 +1,64 @@
 
 -
-Forbid
-Soulherder
-Dreadbore
-Domri, Anarch of Bolas
-Pernicious Deed
-Dust Bowl
-Evolving Wilds
-Grand Coliseum
-Terramorphic Expanse
-Undiscovered Paradise
-Ulvenwald Oddity
-Carnage Tyrant
-Hero's Downfall
-Hand of Vecna
-Emeria's Call
-Meloku the Clouded Mirror
-Mulldrifter
-Nullpriest of Oblivion
-Volrath's Stronghold
-Twinshot Sniper
-Cathartic Pyre
-Outland Liberator
-Banishing Light
-Borrowed Time
-Manglehorn
-Carnophage
+1 Forbid
+1 Soulherder
+1 Dreadbore
+1 Domri, Anarch of Bolas
+1 Pernicious Deed
+1 Dust Bowl
+1 Evolving Wilds
+1 Grand Coliseum
+1 Terramorphic Expanse
+1 Undiscovered Paradise
+1 Ulvenwald Oddity
+1 Carnage Tyrant
+1 Hero's Downfall
+1 Hand of Vecna
+1 Emeria's Call
+1 Meloku the Clouded Mirror
+1 Mulldrifter
+1 Volrath's Stronghold
+1 Manglehorn
+1 Carnophage
+1 Disenchant
+1 Teferi, Hero of Dominaria
+1 Psychatog
+1 Rakdos Cackler
+1 Bloodbraid Elf
+1 Nature's Chant
+1 Vanishing Verse
+1 Fire // Ice
+1 Lightning Helix
+1 Edric, Spymaster of Trest
 
 +
-Tezzeret, Betrayer of Flesh
-Jetmir's Garden
-Raffine's Tower
-Spara's Headquarters
-Xander's Lounge
-Ziatora's Proving Ground
-Indatha Triome
-Ketria Triome
-Raugrin Triome
-Savai Triome
-Zagoth Triome
-Rattleclaw Mystic
-Alesha, Who Smiles at Death
-Kykar, Wind's Fury
-Golos, Tireless Pilgrim
-Niv-Mizzet Reborn
-Titan of Industry
-Scheming Fence
-Lethal Scheme
-Currency Converter
-Ob Nixilis, the Adversary
-Minsc & Boo, Timeless Heroes
-Assassin's Trophy
-White Plume Adventurer
-Undermountain Adventurer
-Dungeon Crawler
-
+1 Tezzeret, Betrayer of Flesh
+1 Jetmir's Garden
+1 Raffine's Tower
+1 Spara's Headquarters
+1 Xander's Lounge
+1 Ziatora's Proving Ground
+1 Indatha Triome
+1 Ketria Triome
+1 Raugrin Triome
+1 Savai Triome
+1 Zagoth Triome
+1 Rattleclaw Mystic
+1 Alesha, Who Smiles at Death
+1 Kykar, Wind's Fury
+1 Golos, Tireless Pilgrim
+1 Niv-Mizzet Reborn
+1 Titan of Industry
+1 Scheming Fence
+1 Lethal Scheme
+1 Currency Converter
+1 Ob Nixilis, the Adversary
+1 Minsc & Boo, Timeless Heroes
+1 White Plume Adventurer
+1 Undermountain Adventurer
+1 Dungeon Crawler
+1 Cathar Commando
+1 Ledger Shredder
+1 Cavalier of Gales
+1 Dogged Detective
+1 Monster Manual

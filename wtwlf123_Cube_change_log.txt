@@ -2004,3 +2004,27 @@ CLB Update
 > Borrowed Time > Disenchant
 > Manglehorn > Undermountain Adventurer
 > Carnophage > Dungeon Crawler
+
+Quick Change
++ Cathar Commando
++ Banishing Light
++ Borrowed Time
++ Ledger Shredder
++ Cavalier of Gales
++ Dogged Detective
++ Nullpriest of Oblivion
++ Twinshot Sniper
++ Cathartic Pyre
++ Outland Liberator
++ Monster Manual
+- Disenchant
+- Teferi, Hero of Dominaria
+- Psychatog
+- Rakdos Cackler
+- Bloodbraid Elf
+- Nature's Chant
+- Vanishing Verse
+- Fire // Ice
+- Assassin's Trophy
+- Lightning Helix
+- Edric, Spymaster of Trest
