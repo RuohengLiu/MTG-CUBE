@@ -1932,8 +1932,6 @@ NEO Update
 NEC Update
 > Ephemerate > Swift Reconfiguration
 
-# HERE WE ARE
-
 Pre-SNC Changes
 > Disenchant > Cathar Commando
 > Forbid > Tezzeret, Betrayer of Flesh
@@ -2028,3 +2026,9 @@ Quick Change
 - Assassin's Trophy
 - Lightning Helix
 - Edric, Spymaster of Trest
+
+# HERE WE ARE
+
+Quick Change
+> Reveillark > Seasoned Dungeoneer
+> Cavalier of Gales > Feywild Caretaker
