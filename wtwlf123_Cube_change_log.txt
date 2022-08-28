@@ -2027,8 +2027,18 @@ Quick Change
 - Lightning Helix
 - Edric, Spymaster of Trest
 
-# HERE WE ARE
-
 Quick Change
 > Reveillark > Seasoned Dungeoneer
 > Cavalier of Gales > Feywild Caretaker
+
+# HERE WE ARE
+
+DMU Update
+> Sun Titan > Serra Paragon
+> Feywild Caretaker > Aether Channeler
+> Dungeon Crawler > Cult Conscript
+> Blade of the Oni > Evolved Sleeper
+> Dogged Detective > Cut Down
+> Nullpriest of Oblivion > Sheoldred, the Apocalypse
+> Cathartic Pyre > Squee, Dubious Monarch
+> Tezzeret, Agent of Bolas > Ertai Resurrected
