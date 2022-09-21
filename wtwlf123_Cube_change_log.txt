@@ -2031,8 +2031,6 @@ Quick Change
 > Reveillark > Seasoned Dungeoneer
 > Cavalier of Gales > Feywild Caretaker
 
-# HERE WE ARE
-
 DMU Update
 > Sun Titan > Serra Paragon
 > Feywild Caretaker > Aether Channeler
@@ -2042,3 +2040,19 @@ DMU Update
 > Nullpriest of Oblivion > Sheoldred, the Apocalypse
 > Cathartic Pyre > Squee, Dubious Monarch
 > Tezzeret, Agent of Bolas > Ertai Resurrected
+
+Quick Change
+> Elspeth, Knight-Errant > The Wandering Emperor
+> Diregraf Ghoul > Tenacious Underdog
+> Dragon's Rage Channeler > Fable of the Mirror-Breaker
+> Spikefield Hazard > Phoenix of Ash
+# > Alesha, Who Smiles at Death > Negan, the Cold-Blooded
+> Rattleclaw Mystic > Maelstrom Wanderer
+
+# HERE WE ARE
+
+40K Update
+> Rotting Regisaur > Necron Deathmark
+> Lair of the Hydra > Old One Eye
+> Ob Nixilis, the Adversary > Chaos Defiler
+> Dragonlord Atarka > Mawloc
