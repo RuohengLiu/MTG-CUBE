@@ -2058,8 +2058,6 @@ Quick Change
 Unfinity Update
 > Ajani Vengeant > Comet, Stellar Pup
 
-# HERE WE ARE
-
 Quick Change
 > Maelstrom Pulse > Assassin's Trophy
 
@@ -2075,3 +2073,14 @@ BRO Update
 > Snuff Out > Transmogrant's Crown
 > Utopia Sprawl > Teething Wurmlet
 > Prismari Command > Third Path Iconoclast
+
+# HERE WE ARE
+
+Quick Change
+> Reveillark > March of Otherworldly Light
+> Sun Titan > Leyline Binding
+
+Quick Change
+> Outland Liberator > Deeproot Champion
+> Wild Growth > Dragonsguard Elite
+> Hydroid Krasis > Quandrix Apprentice
