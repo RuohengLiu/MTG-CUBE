@@ -2050,10 +2050,10 @@ Quick Change
 > Rattleclaw Mystic > Maelstrom Wanderer
 
 # 40K Update
-# > Rotting Regisaur > Necron Deathmark
-# > Lair of the Hydra > Old One Eye
-# > Ob Nixilis, the Adversary > Chaos Defiler
-# > Dragonlord Atarka > Mawloc
+> Rotting Regisaur > Necron Deathmark
+> Lair of the Hydra > Old One Eye
+> Ob Nixilis, the Adversary > Chaos Defiler
+> Dragonlord Atarka > Mawloc
 
 Unfinity Update
 > Ajani Vengeant > Comet, Stellar Pup
