@@ -2087,3 +2087,6 @@ Quick Change
 
 Quick Update
 > Zephyr Sentinel > Inkwell Leviathan
+
+Quick Change
+> Dismissive Pyromancer > Caves of Chaos Adventurer
