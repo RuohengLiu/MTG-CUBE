@@ -2083,10 +2083,14 @@ Quick Change
 > Wild Growth > Dragonsguard Elite
 > Hydroid Krasis > Quandrix Apprentice
 
-# HERE WE ARE
-
 Quick Update
 > Zephyr Sentinel > Inkwell Leviathan
 
 Quick Change
 > Dismissive Pyromancer > Caves of Chaos Adventurer
+
+More Initiative
+> Inkwell Leviathan > Aarakocra Sneak
+> Necron Deathmark > Passageway Seer
+
+# HERE WE ARE
