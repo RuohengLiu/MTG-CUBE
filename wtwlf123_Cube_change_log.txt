@@ -2093,4 +2093,7 @@ More Initiative
 > Inkwell Leviathan > Aarakocra Sneak
 > Necron Deathmark > Passageway Seer
 
+Quick Change
+> Ertai Resurrected > Tezzeret, Agent of Bolas
+
 # HERE WE ARE
