@@ -2049,7 +2049,7 @@ Quick Change
 # > Alesha, Who Smiles at Death > Negan, the Cold-Blooded
 > Rattleclaw Mystic > Maelstrom Wanderer
 
-# 40K Update
+40K Update
 > Rotting Regisaur > Necron Deathmark
 > Lair of the Hydra > Old One Eye
 > Ob Nixilis, the Adversary > Chaos Defiler
