@@ -2096,8 +2096,6 @@ More Initiative
 Quick Change
 > Ertai Resurrected > Tezzeret, Agent of Bolas
 
-# HERE WE ARE
-
 ONE Update
 > The Wandering Emperor > Planar Disruption
 > Serra Paragon > The Eternal Wanderer
@@ -2112,3 +2110,5 @@ ONE Update
 
 ONE Update (Cont)
 > Transmogrant's Crown > Sheoldred's Edict
+
+# HERE WE ARE
