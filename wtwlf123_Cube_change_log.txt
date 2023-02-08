@@ -2046,7 +2046,7 @@ Quick Change
 > Diregraf Ghoul > Tenacious Underdog
 > Dragon's Rage Channeler > Fable of the Mirror-Breaker
 > Spikefield Hazard > Phoenix of Ash
-# > Alesha, Who Smiles at Death > Negan, the Cold-Blooded
+> Alesha, Who Smiles at Death > Negan, the Cold-Blooded
 > Rattleclaw Mystic > Maelstrom Wanderer
 
 40K Update
