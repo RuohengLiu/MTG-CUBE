@@ -2137,3 +2137,6 @@ MOM/MOC Update
 > Legion Warboss > Death-Greeter's Champion
 > Bitter Reunion > Rampaging Raptor
 > Maelstrom Wanderer > Borborygmos and Fblthp
+
+MUL Update
+> Niv-Mizzet Reborn > Kenrith, the Returned King
