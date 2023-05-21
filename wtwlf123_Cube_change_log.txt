@@ -2126,8 +2126,6 @@ Quick Change
 > Twinshot Sniper > Bitter Reunion
 > Wall of Roots > Caldaia Guardian
 
-# HERE WE ARE
-
 MOM/MOC Update
 > Brimaz, King of Oreskos > Guardian of Ghirapur
 > Exalted Angel > Guardian Scalelord
@@ -2140,3 +2138,83 @@ MOM/MOC Update
 
 MUL Update
 > Niv-Mizzet Reborn > Kenrith, the Returned King
+
+# HERE WE ARE
+
+Huge Change (LTR Update, Part 1)
++ Reprieve
++ Emry, Lurker of the Loch
++ Treasure Cruise
++ Unholy Heat
++ Invasion of Mercadia
++ Delighted Halfling
++ Skycloud Egg
++ Scheming Fence
++ Darkwater Egg
++ Rona, Herald of Invasion
++ Mount Doom
++ Mossfire Egg
++ Etali, Primal Conqueror
++ Sungrass Egg
++ King Darien XLVIII
++ Frodo, Sauron's Bane
++ Ashen Rider
++ Elves of Deep Shadow
++ Grim Flayer
++ Edric, Spymaster of Trest
++ Nissa, Steward of Elements
++ Fire // Ice
++ Khenra Spellspear
++ Lightning Helix
++ Ajani Vengeant
++ Rakdos Cackler
++ Shadowblood Egg
++ Chromatic Sphere
++ Chromatic Star
++ Conjurer's Bauble
++ Terrarion
++ Wizard's Rockets
+- Sheoldred's Edict
+- The Eternal Wanderer
+- Leyline Binding
+- Misery's Shadow
+- Titan of Industry
+- Jwari Disruption
+- Liliana, the Last Hope
+- Custodi Lich
+- Chrome Host Seedshark
+- Suspicious Stowaway
+- Sea Gate Stormcaller
+- Tangled Florahedron
+- Firestorm
+- Dauthi Voidwalker
+- Bala Ged Recovery
+- Blackcleave Cliffs
+- Thragtusk
+- Oracle of Mul Daya
+- Caldaia Guardian
+- Thundermaw Hellkite
+- Flametongue Kavu
+- Krenko, Tin Street Kingpin
+- Imperial Recruiter
+- Hanweir Garrison
+- Firedrinker Satyr
+- Control Magic
+- Mystic Confluence
+- Venser, Shaper Savant
+- Gideon Jura
+- Hero of Bladehold
+- Guardian Scalelord
+- Recruiter of the Guard
+
+LTR Update #2
+> Selfless Spirit > Samwise the Stouthearted
+
+Quick Change
+> Ravenous Chupacabra > Shriekmaw
+> Collective Brutality > Dark Ritual
+> Rampaging Raptor > Simian Spirit Guide
+> Courser of Kruphix > Elvish Spirit Guide
+> Hedron Archive > Lotus Petal
+> Gilded Lotus > Skyclave Relic
+> Thran Dynamo > City of Traitors
