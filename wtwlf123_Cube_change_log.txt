@@ -2241,3 +2241,33 @@ Quick Change & LTR Update # ...5?
 > Terrarion > Mazemind Tome
 > Wizard's Rockets > Reckoner Bankbuster
 > Sungrass Egg > Voice of Resurgence
+
+Quick Update
++ Staff of the Storyteller
++ Shorikai, Genesis Engine
++ Expressive Iteration
++ Growth Spiral
++ Thran Dynamo
++ Hedron Archive
++ Gilded Lotus
++ Stonecoil Serpent
++ Eater of Virtue
++ Noble's Purse
++ Unlicensed Hearse
++ Scroll Rack
++ Treasure Map
++ Undiscovered Paradise
+- The Balrog of Moria
+- Lightning Helix
+- Khenra Spellspear
+- Fire // Ice
+- Nissa, Steward of Elements
+- Edric, Spymaster of Trest
+- Elves of Deep Shadow
+- Frodo, Sauron's Bane
+- Voice of Resurgence
+- Orcish Lumberjack
+- Halo Forager
+- Scheming Fence
+- Supreme Verdict
+- Intrepid Adversary
