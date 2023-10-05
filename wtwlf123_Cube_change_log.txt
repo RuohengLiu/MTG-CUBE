@@ -2139,8 +2139,6 @@ MOM/MOC Update
 MUL Update
 > Niv-Mizzet Reborn > Kenrith, the Returned King
 
-# HERE WE ARE
-
 Huge Change (LTR Update, Part 1)
 + Reprieve
 + Emry, Lurker of the Loch
@@ -2286,3 +2284,8 @@ WOE Update
 > Growth Spiral > The Goose Mother
 > Treasure Map > Syr Ginger, the Meal Ender
 > Scroll Rack > Collector's Vault
+
+Quick Change
+> March of Otherworldly Light > Touch the Spirit Realm
+
+# HERE WE ARE
