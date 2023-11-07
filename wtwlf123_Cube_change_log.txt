@@ -2305,3 +2305,15 @@ LCI Update
 > Stirring Wildwood > Restless Prairie
 > Copperline Gorge > Restless Ridgeline
 > Comet, Stellar Pup > Anim Pakal, Thousandth Moon
+
+Testing LTR Landcyclers
++ Eagles of the North
++ Lórien Revealed
++ Troll of Khazad-dûm
++ Oliphaunt
++ Generous Ent
+- Unlicensed Hearse
+- Noble's Purse
+- Reckoner Bankbuster
+- Mazemind Tome
+- Lotus Petal
