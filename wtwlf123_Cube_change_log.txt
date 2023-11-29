@@ -2327,4 +2327,8 @@ Quick Change
 > Baleful Mastery > Custodi Lich
 > Anim Pakal, Thousandth Moon > Éomer, King of Rohan
 
+Quick Change
+> Cabal Initiate > Putrid Imp
+
 # HERE WE ARE
+
