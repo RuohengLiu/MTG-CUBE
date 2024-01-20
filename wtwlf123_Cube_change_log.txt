@@ -2333,8 +2333,6 @@ Quick Change
 Quick Change
 > Kellan, Daring Traveler > Torsten, Founder of Benalia
 
-# HERE WE ARE
-
 Quick Changes
 > Mercurial Spelldancer > Murktide Regent
 > Tezzeret, Betrayer of Flesh > Kappa Cannoneer
@@ -2351,3 +2349,5 @@ Quick Changes
 > Lightning Strike > Gut, True Soul Zealot
 > Searing Spear > Broadside Bombardiers
 > Den of the Bugbear > Twinshot Sniper
+
+# HERE WE ARE
