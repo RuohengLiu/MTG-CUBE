@@ -2337,11 +2337,19 @@ Quick Changes
 > Mercurial Spelldancer > Murktide Regent
 > Tezzeret, Betrayer of Flesh > Kappa Cannoneer
 > Arcane Proxy > Tishana's Tidebinder
+
+Quick Changes
 > Figure of Destiny > Comet, Stellar Pup
 > Rip Apart > Otharri, Suns' Glory
+
+Quick Changes
 > Malik, Grim Manipulator > Queen Marchesa
+
+Quick Changes
 > Seasoned Hallowblade > Timeless Dragon
 > Assassin's Trophy > Life // Death
+
+Quick Changes
 > Cave of the Frost Dragon > Parallax Wave
 > Hive of the Eye Tyrant > Dauthi Voidwalker
 > Firedrinker Satyr > Scrapwork Mutt
