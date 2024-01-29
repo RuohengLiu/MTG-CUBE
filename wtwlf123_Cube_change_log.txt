@@ -2359,3 +2359,111 @@ Quick Changes
 > Den of the Bugbear > Twinshot Sniper
 
 # HERE WE ARE
+
+Rise to 630 - White
++ Esper Sentinel
++ Novice Inspector
++ Thraben Inspector
++ Intrepid Adversary
++ Seasoned Hallowblade
++ Selfless Spirit
++ Sanguine Evangelist
++ Hero of Bladehold
++ March of Otherworldly Light
++ Swift Reconfiguration
++ Leyline Binding
+
+Rise to 630 - Blue
++ Baral, Chief of Compliance
++ Chrome Host Seedshark
++ Palinchron
++ Astral Dragon
++ Gush
++ High Tide
++ Brain Freeze
++ Frantic Search
++ Turnabout
++ Echo of Eons
++ Mind's Desire
+
+Rise to 630 - Black
++ Deep-Cavern Bat
++ Vampire Hexmage
++ Lord Skitter, Sewer King
++ Phyrexian Fleshgorger
++ Contagion
++ Dark Ritual
++ Cabal Ritual
++ Collective Brutality
++ Tendrils of Agony
++ Dark Petition
++ Yawgmoth's Will
+
+Rise to 630 - Red
++ Voldaren Epicure
++ Fugitive Codebreaker
++ Birgi, God of Storytelling
++ Empty the Warrens
++ Headliner Scarlett
++ Desperate Ritual
++ Pyretic Ritual
++ Underworld Breach
++ Mana Flare
++ Seething Song
++ Past in Flames
+
+Rise to 630 - Green
++ Elvish Reclaimer
++ Outland Liberator
++ Wall of Roots
++ Courser of Kruphix
++ Oracle of Mul Daya
++ Ulvenwald Oddity
++ Titania, Protector of Argoth
++ Worldspine Wurm
++ Endurance
++ Exploration
++ Fastbond
++ Generous Ent
+- Gruff Triplets
+
+Rise to 630 - Multicolor
++ No More Lies
++ Seachrome Coast
++ Lim-Dûl's Vault
++ Darkslick Shores
++ Fire Covenant
++ Blackcleave Cliffs
++ Manamorphose
++ Copperline Gorge
++ Knight of the Reliquary
++ Razorverge Thicket
++ Tidehollow Sculler
++ Ashen Rider
++ Concealed Courtyard
++ Assassin's Trophy
++ Blooming Marsh
++ Kellan, Inquisitive Prodigy
++ Botanical Sanctum
++ Goblin Electromancer
++ Spirebluff Canal
++ Figure of Destiny
++ Inspiring Vantage
+- Gerrard's Verdict
+
+Rise to 630 - Colorless
++ Nettlecyst
++ Kaldra Compleat
++ Lion's Eye Diamond
++ Lotus Petal
++ Zuran Orb
++ Ransom Note
++ Shadowspear
++ Lightning Greaves
++ Palantír of Orthanc
++ Quicksilver Amulet
++ Portal to Phyrexia
++ Dark Depths
++ Escape Tunnel
++ Field of the Dead
++ Thespian's Stage
