@@ -2467,3 +2467,21 @@ Rise to 630 - Colorless
 + Escape Tunnel
 + Field of the Dead
 + Thespian's Stage
+
+Testing Surveil Duals
+> Celestial Colonnade > Meticulous Archive
+> Restless Reef > Undercity Sewers
+> Lavaclaw Reaches > Raucous Theater
+> Restless Ridgeline > Commercial District
+> Restless Prairie > Lush Portico
+> Shambling Vent > Shadowy Backstreet
+> Restless Cottage > Underground Mortuary
+> Restless Vinestalk > Hedge Maze
+> Restless Spire > Thundering Falls
+> Restless Bivouac > Elegant Parlor
+
+Quick Change
+> Sanguine Evangelist > Glimmer Lens
+
+Quick Change
+> Chrome Host Seedshark > Cryptic Coat
