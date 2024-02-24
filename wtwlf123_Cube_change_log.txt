@@ -2496,3 +2496,8 @@ Blink Support Update
 > Mana Flare > Rampaging Raptor
 > Exploration > Up the Beanstalk
 
+Quick Change
+> Twinshot Sniper > Delayed Blast Fireball
+
+Quick Change
+> Phyrexian Fleshgorger > Graveyard Trespasser
