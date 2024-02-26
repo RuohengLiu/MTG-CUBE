@@ -2358,8 +2358,6 @@ Quick Changes
 > Searing Spear > Broadside Bombardiers
 > Den of the Bugbear > Twinshot Sniper
 
-# HERE WE ARE
-
 Rise to 630 - White
 + Esper Sentinel
 + Novice Inspector
@@ -2501,3 +2499,15 @@ Quick Change
 
 Quick Change
 > Phyrexian Fleshgorger > Graveyard Trespasser
+
+# HERE WE ARE
+
+PIP Update
+> Assassin's Trophy > Alpha Deathclaw
+> Queen Marchesa > Caesar, Legion's Emperor
+
+Quick Change
+> Mosswood Dreadknight > Deathrite Shaman
+
+Quick Change
+> Kellan, Inquisitive Prodigy > Sail into the West
