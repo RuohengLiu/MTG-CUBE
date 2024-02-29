@@ -2511,3 +2511,27 @@ Quick Change
 
 Quick Change
 > Kellan, Inquisitive Prodigy > Sail into the West
+
+Quick Change
+> Seasoned Hallowblade > Securitron Squadron
+
+# My thoughts on the increase to 630
+
+For those that have been following my content for years, you know that big shakeups in my cube are not something I’m afraid to do. I’ve run every size from 360 to 720, and have experimented with a lot of different archetypes and structural arrangements. I aim to find the best environment I can cultivate for my playgroup, regardless of what that takes to achieve.
+
+In recent months, I had been observing a few things while drafting my cube that I wasn’t 100% happy with, but was unsure of how to go about solving the issues. Overall, the list still played great, and didn’t require any major changes to run smoothly, but I wanted to run some thought exercises to see if I could make some adjustments and see if it would improve gameplay overall.
+
+The issues:
+
+1. I wanted to reduce the density of 3+ color cards and 3+ color mana fixing. Decks were often deep into 3 or more colors, and it didn’t take much discipline to draft functional manabases to make them work. I want those decks to be draftable and competitive, but I want it to require effort to assemble them. But I really like the tri-lands and the 3+ color cards in the cube, and didn’t want to remove them.
+
+2. I wanted to increase the concentration of mono-colored and colorless cards by percentage without sacrificing the suite of guild cards I had in the cube.
+
+3. I wanted to reduce the density of mana rocks without sacrificing the infrastructure I had built around them. Basically, playing with both Signets and Talisman felt like too much at 540, but only running one of the two cycles didn’t feel like enough. The big rocks used for super-ramp, upheaval and wildfire shells are great in those decks, but were representing too much of the pool.
+
+The solution that jumped out was an increase in size. By moving the cube to 630, I could keep my guild and multicolor infrastructure together, but by adding in mostly monocolored and colorless cards, and no additional 3+ color identity cards, I could keep the multicolored cards I wanted to play and decrease their density at the same time. By adding in only one more cycle of fixing lands, I could bolster the support for 2-color decks without adding to the fixing density for 4+ color control. Additionally, the includes could be free of additional mana rocks, allowing me to keep in the suite of cards I wanted to run but reduce the frequency in which they take up real estate in my packs. 
+
+Additional benefits showed up when I explored the size increase as well. I was gifted the real estate to re-include archetypes like lands and storm, which I couldn’t find room for before. It gave me the flexibility to include a few more powerful guild cards and another suite of guild fixing without tinkering with the suite of 3+ color cards. It provided me the room to smooth out the curve in various places that had become compressed due to the powerlevels of cards in given spots.
+
+Overall, it’s been playing well at 630 and I’m enjoying the feel of the cube. Mana rocks are available, but not in a dominating density. Mana fixing is better for 2-color decks and decks that are splashing, and building 4+ color goodstuff/control is still viable (but now takes appropriate effort). I hope it has been playing well for those folks that closely follow my list too, and I’m always taking feedback.
+As always, cheers, and happy cubing!
