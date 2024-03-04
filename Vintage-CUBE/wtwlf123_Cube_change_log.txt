@@ -2535,3 +2535,23 @@ Additional benefits showed up when I explored the size increase as well. I was g
 
 Overall, it’s been playing well at 630 and I’m enjoying the feel of the cube. Mana rocks are available, but not in a dominating density. Mana fixing is better for 2-color decks and decks that are splashing, and building 4+ color goodstuff/control is still viable (but now takes appropriate effort). I hope it has been playing well for those folks that closely follow my list too, and I’m always taking feedback.
 As always, cheers, and happy cubing!
+
+Archetype Experiments
+> Astral Dragon > Evasive Action
+> Deep-Cavern Bat > Rain of Filth
+> Fugitive Codebreaker > Radha's Firebrand
+> Birgi, God of Storytelling > Incinerate
+> Empty the Warrens > Lightning Strike
+> Desperate Ritual > Tribal Flames
+> Pyretic Ritual > Thundermaw Hellkite
+> Underworld Breach > Searing Spear
+> Seething Song > Firedrinker Satyr
+> Past in Flames > Flametongue Kavu
+> Outland Liberator > Nishoba Brawler
+> Manamorphose > Territorial Kavu
+> Goblin Electromancer > Fire // Ice
+# Adding in a small Domain package since it has been bolstered with surveil lands, LotR landcyclers and trilands.
+# Removing red from the storm package at this size (for now), and experimenting with it being a Dimir/Sultai archetype.
+
+Quick Change
+> Flametongue Kavu > Underworld Breach
