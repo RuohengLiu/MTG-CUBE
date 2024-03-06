@@ -2555,3 +2555,7 @@ Archetype Experiments
 
 Quick Change
 > Flametongue Kavu > Underworld Breach
+
+Quick Change
+> Mind's Desire > Dig Through Time
+
