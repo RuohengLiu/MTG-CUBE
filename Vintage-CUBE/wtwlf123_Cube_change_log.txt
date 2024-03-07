@@ -2500,8 +2500,6 @@ Quick Change
 Quick Change
 > Phyrexian Fleshgorger > Graveyard Trespasser
 
-# HERE WE ARE
-
 PIP Update
 > Assassin's Trophy > Alpha Deathclaw
 > Queen Marchesa > Caesar, Legion's Emperor
@@ -2559,3 +2557,7 @@ Quick Change
 Quick Change
 > Mind's Desire > Dig Through Time
 
+Quick Change
+> Evasive Action > Stern Scolding
+
+# HERE WE ARE
